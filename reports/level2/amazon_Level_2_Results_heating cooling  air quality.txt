@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:11:06
+Iteration 0 done
+Iteration no 1 @ 10:11:07
+Iteration 1 done
+Iteration no 2 @ 10:11:08
+Iteration 2 done
+
+
+FINAL RESULTS heating cooling  air quality :
+Training Accuracy:0.9837(0.0008)
+Test Accuracy:0.9556(0.0020)
+Testing F1:0.9373(0.0044)
+
+Best Classifier for heating cooling  air quality : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+heating cooling  air quality   SUCCESS!!!!!!!
+

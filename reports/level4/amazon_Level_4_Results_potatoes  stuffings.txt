@@ -1,0 +1,1 @@
+Only one label data for potatoes  stuffings = [1]

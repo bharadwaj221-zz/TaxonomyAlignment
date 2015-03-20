@@ -1,0 +1,1 @@
+Only one label data for night out  cocktail = [1]

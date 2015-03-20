@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:59:38
+Iteration 0 done
+Iteration no 1 @ 10:59:38
+Iteration 1 done
+Iteration no 2 @ 10:59:38
+Iteration 2 done
+
+
+FINAL RESULTS classroom science supplies :
+Training Accuracy:0.9976(0.0013)
+Test Accuracy:0.9254(0.0215)
+Testing F1:0.8662(0.0471)
+
+Best Classifier for classroom science supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+classroom science supplies   SUCCESS!!!!!!!
+

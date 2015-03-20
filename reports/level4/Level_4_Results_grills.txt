@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:35
+Iteration 0 done
+Iteration no 1 @ 05:38:35
+Iteration 1 done
+Iteration no 2 @ 05:38:35
+Iteration 2 done
+
+
+FINAL RESULTS grills :
+Training Accuracy:0.9922(0.0000)
+Test Accuracy:0.9560(0.0037)
+Testing F1:0.4887(0.0010)
+
+Best Classifier for grills : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+grills   SUCCESS!!!!!!!
+

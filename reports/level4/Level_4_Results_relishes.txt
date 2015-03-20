@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:42
+Iteration 0 done
+Iteration no 1 @ 05:31:42
+Iteration 1 done
+Iteration no 2 @ 05:31:42
+Iteration 2 done
+
+
+FINAL RESULTS relishes :
+Training Accuracy:0.9962(0.0054)
+Test Accuracy:0.7682(0.0469)
+Testing F1:0.7718(0.0566)
+
+Best Classifier for relishes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+relishes   SUCCESS!!!!!!!
+

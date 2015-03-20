@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:40:39
+Iteration 0 done
+Iteration no 1 @ 05:40:40
+Iteration 1 done
+Iteration no 2 @ 05:40:40
+Iteration 2 done
+
+
+FINAL RESULTS filing products :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.7557(0.0409)
+Testing F1:0.6587(0.0273)
+
+Best Classifier for filing products : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+filing products   SUCCESS!!!!!!!
+

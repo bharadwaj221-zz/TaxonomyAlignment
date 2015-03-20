@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:20
+Iteration 0 done
+Iteration no 1 @ 05:31:20
+Iteration 1 done
+Iteration no 2 @ 05:31:20
+Iteration 2 done
+
+
+FINAL RESULTS volleyball :
+Training Accuracy:0.9072(0.0039)
+Test Accuracy:0.8370(0.0052)
+Testing F1:0.7091(0.0160)
+
+Best Classifier for volleyball : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+volleyball   SUCCESS!!!!!!!
+

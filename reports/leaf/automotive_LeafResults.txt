@@ -1,0 +1,15 @@
+Iteration no 0 @ 20:51:41
+Iteration 0 done
+Iteration no 1 @ 23:50:18
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.8238(0.0000)
+Test Accuracy:0.7536(0.0000)
+Testing F1:0.7448(0.0000)
+
+Best Classifier for automotive : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)automotive   SUCCESS!!!!!!!
+

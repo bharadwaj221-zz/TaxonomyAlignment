@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:13
+Iteration 0 done
+Iteration no 1 @ 05:31:13
+Iteration 1 done
+Iteration no 2 @ 05:31:13
+Iteration 2 done
+
+
+FINAL RESULTS cordless tool accessories :
+Training Accuracy:0.9853(0.0024)
+Test Accuracy:0.9359(0.0052)
+Testing F1:0.8763(0.0042)
+
+Best Classifier for cordless tool accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cordless tool accessories   SUCCESS!!!!!!!
+

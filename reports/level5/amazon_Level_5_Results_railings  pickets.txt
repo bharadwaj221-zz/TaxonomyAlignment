@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:50
+Iteration 0 done
+Iteration no 1 @ 11:23:50
+Iteration 1 done
+Iteration no 2 @ 11:23:50
+Iteration 2 done
+
+
+FINAL RESULTS railings  pickets :
+Training Accuracy:0.9976(0.0017)
+Test Accuracy:0.8954(0.0148)
+Testing F1:0.8799(0.0070)
+
+Best Classifier for railings  pickets : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+railings  pickets   SUCCESS!!!!!!!
+

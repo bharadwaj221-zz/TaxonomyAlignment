@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:41
+Iteration 0 done
+Iteration no 1 @ 11:12:41
+Iteration 1 done
+Iteration no 2 @ 11:12:42
+Iteration 2 done
+
+
+FINAL RESULTS knee  leg :
+Training Accuracy:0.9944(0.0010)
+Test Accuracy:0.9907(0.0006)
+Testing F1:0.4977(0.0001)
+
+Best Classifier for knee  leg : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+knee  leg   SUCCESS!!!!!!!
+

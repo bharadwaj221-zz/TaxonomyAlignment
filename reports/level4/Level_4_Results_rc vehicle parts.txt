@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:17
+Iteration 0 done
+Iteration no 1 @ 05:31:17
+Iteration 1 done
+Iteration no 2 @ 05:31:18
+Iteration 2 done
+
+
+FINAL RESULTS rc vehicle parts :
+Training Accuracy:0.9729(0.0027)
+Test Accuracy:0.9192(0.0088)
+Testing F1:0.8262(0.0042)
+
+Best Classifier for rc vehicle parts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+rc vehicle parts   SUCCESS!!!!!!!
+

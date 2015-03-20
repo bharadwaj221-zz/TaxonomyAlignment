@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:11:09
+Iteration 0 done
+Iteration no 1 @ 05:11:14
+Iteration 1 done
+Iteration no 2 @ 05:11:18
+Iteration 2 done
+
+
+FINAL RESULTS protective gear :
+Training Accuracy:0.9598(0.0003)
+Test Accuracy:0.9410(0.0011)
+Testing F1:0.8898(0.0016)
+
+Best Classifier for protective gear : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+protective gear   SUCCESS!!!!!!!
+

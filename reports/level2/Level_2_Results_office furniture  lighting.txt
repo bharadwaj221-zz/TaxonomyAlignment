@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:30:40
+Iteration 0 done
+Iteration no 1 @ 17:30:54
+Iteration 1 done
+Iteration no 2 @ 17:31:08
+Iteration 2 done
+
+
+FINAL RESULTS office furniture  lighting :
+Training Accuracy:0.9786(0.0004)
+Test Accuracy:0.9637(0.0008)
+Testing F1:0.9499(0.0013)
+
+Best Classifier for office furniture  lighting : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+office furniture  lighting   SUCCESS!!!!!!!
+

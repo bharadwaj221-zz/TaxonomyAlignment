@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:47
+Iteration 0 done
+Iteration no 1 @ 05:31:47
+Iteration 1 done
+Iteration no 2 @ 05:31:47
+Iteration 2 done
+
+
+FINAL RESULTS rink equipment :
+Training Accuracy:0.9785(0.0043)
+Test Accuracy:0.8406(0.0219)
+Testing F1:0.7250(0.0291)
+
+Best Classifier for rink equipment : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+rink equipment   SUCCESS!!!!!!!
+

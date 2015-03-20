@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:52:55
+Iteration 0 done
+Iteration no 1 @ 10:52:55
+Iteration 1 done
+Iteration no 2 @ 10:52:55
+Iteration 2 done
+
+
+FINAL RESULTS shoulder bags :
+Training Accuracy:0.9917(0.0085)
+Test Accuracy:0.8449(0.0094)
+Testing F1:0.7684(0.0344)
+
+Best Classifier for shoulder bags : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+shoulder bags   SUCCESS!!!!!!!
+

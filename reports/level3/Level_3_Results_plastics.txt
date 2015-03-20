@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:08:52
+Iteration 0 done
+Iteration no 1 @ 05:08:53
+Iteration 1 done
+Iteration no 2 @ 05:08:53
+Iteration 2 done
+
+
+FINAL RESULTS plastics :
+Training Accuracy:0.9859(0.0006)
+Test Accuracy:0.9045(0.0057)
+Testing F1:0.8078(0.0017)
+
+Best Classifier for plastics : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+plastics   SUCCESS!!!!!!!
+

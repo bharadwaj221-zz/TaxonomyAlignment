@@ -1,0 +1,19 @@
+Iteration no 0 @ 16:20:22
+Iteration 0 done
+Iteration no 1 @ 16:20:23
+Iteration 1 done
+Iteration no 2 @ 16:20:23
+Iteration 2 done
+
+
+FINAL RESULTS automotive repair :
+Training Accuracy:0.9337(0.0030)
+Test Accuracy:0.8796(0.0076)
+Testing F1:0.5855(0.0136)
+
+Best Classifier for automotive repair : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+automotive repair   SUCCESS!!!!!!!
+

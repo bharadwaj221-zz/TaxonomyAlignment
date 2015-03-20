@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:02:31
+Iteration 0 done
+Iteration no 1 @ 05:02:31
+Iteration 1 done
+Iteration no 2 @ 05:02:32
+Iteration 2 done
+
+
+FINAL RESULTS paint stain  solvents :
+Training Accuracy:0.9778(0.0015)
+Test Accuracy:0.9327(0.0035)
+Testing F1:0.7456(0.0186)
+
+Best Classifier for paint stain  solvents : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+paint stain  solvents   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:29:24
+Iteration 0 done
+Iteration no 1 @ 17:29:27
+Iteration 1 done
+Iteration no 2 @ 17:29:30
+Iteration 2 done
+
+
+FINAL RESULTS party supplies :
+Training Accuracy:0.9768(0.0010)
+Test Accuracy:0.9339(0.0027)
+Testing F1:0.9174(0.0035)
+
+Best Classifier for party supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+party supplies   SUCCESS!!!!!!!
+

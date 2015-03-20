@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:33
+Iteration 0 done
+Iteration no 1 @ 10:36:34
+Iteration 1 done
+Iteration no 2 @ 10:36:34
+Iteration 2 done
+
+
+FINAL RESULTS costumes :
+Training Accuracy:0.9929(0.0000)
+Test Accuracy:0.8014(0.0012)
+Testing F1:0.6899(0.0144)
+
+Best Classifier for costumes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+costumes   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:27
+Iteration 0 done
+Iteration no 1 @ 10:36:28
+Iteration 1 done
+Iteration no 2 @ 10:36:28
+Iteration 2 done
+
+
+FINAL RESULTS router bits :
+Training Accuracy:0.7899(0.0040)
+Test Accuracy:0.6655(0.0144)
+Testing F1:0.5476(0.0036)
+
+Best Classifier for router bits : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+router bits   SUCCESS!!!!!!!
+

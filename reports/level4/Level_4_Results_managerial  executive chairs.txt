@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:19
+Iteration 0 done
+Iteration no 1 @ 05:38:19
+Iteration 1 done
+Iteration no 2 @ 05:38:19
+Iteration 2 done
+
+
+FINAL RESULTS managerial  executive chairs :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9328(0.0261)
+Testing F1:0.8146(0.0746)
+
+Best Classifier for managerial  executive chairs : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+managerial  executive chairs   SUCCESS!!!!!!!
+

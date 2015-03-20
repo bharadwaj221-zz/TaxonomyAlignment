@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:54:54
+Iteration 0 done
+Iteration no 1 @ 10:54:54
+Iteration 1 done
+Iteration no 2 @ 10:54:54
+Iteration 2 done
+
+
+FINAL RESULTS education  crafts :
+Training Accuracy:0.9948(0.0008)
+Test Accuracy:0.9470(0.0033)
+Testing F1:0.9204(0.0099)
+
+Best Classifier for education  crafts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+education  crafts   SUCCESS!!!!!!!
+

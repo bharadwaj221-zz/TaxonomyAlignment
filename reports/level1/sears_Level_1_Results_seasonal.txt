@@ -1,0 +1,25 @@
+Iteration no 0 @ 15:33:18
+Iteration 0 done
+Iteration no 1 @ 15:33:18
+Iteration 1 done
+Iteration no 2 @ 15:33:18
+Iteration 2 done
+Iteration no 0 @ 15:33:18
+Iteration 0 done
+Iteration no 1 @ 15:33:19
+Iteration 1 done
+Iteration no 2 @ 15:33:19
+Iteration 2 done
+
+
+FINAL RESULTS seasonal :
+Training Accuracy:0.999850029994
+Test Accuracy:0.942076830732
+Testing F1:0.941963871139
+
+Best Classifier for seasonal : 
+LinearSVC(C=10, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+seasonal   SUCCESS!!!!!!!
+

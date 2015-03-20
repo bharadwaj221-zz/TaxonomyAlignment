@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:19:09
+Iteration 0 done
+Iteration no 1 @ 10:19:14
+Iteration 1 done
+Iteration no 2 @ 10:19:19
+Iteration 2 done
+
+
+FINAL RESULTS pdas handhelds  accessories :
+Training Accuracy:0.9912(0.0002)
+Test Accuracy:0.9846(0.0003)
+Testing F1:0.9078(0.0035)
+
+Best Classifier for pdas handhelds  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pdas handhelds  accessories   SUCCESS!!!!!!!
+

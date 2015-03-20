@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:33:40
+Iteration 0 done
+Iteration no 1 @ 17:33:43
+Iteration 1 done
+Iteration no 2 @ 17:33:46
+Iteration 2 done
+
+
+FINAL RESULTS small appliances :
+Training Accuracy:0.9356(0.0018)
+Test Accuracy:0.8215(0.0010)
+Testing F1:0.7541(0.0051)
+
+Best Classifier for small appliances : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+small appliances   SUCCESS!!!!!!!
+

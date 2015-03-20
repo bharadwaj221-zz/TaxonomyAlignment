@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:46
+Iteration 0 done
+Iteration no 1 @ 11:12:50
+Iteration 1 done
+Iteration no 2 @ 11:12:55
+Iteration 2 done
+
+
+FINAL RESULTS cables  interconnects :
+Training Accuracy:0.9559(0.0003)
+Test Accuracy:0.9181(0.0028)
+Testing F1:0.6863(0.0387)
+
+Best Classifier for cables  interconnects : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cables  interconnects   SUCCESS!!!!!!!
+

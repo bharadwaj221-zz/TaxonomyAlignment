@@ -1,0 +1,19 @@
+Iteration no 0 @ 16:50:57
+Iteration 0 done
+Iteration no 1 @ 16:51:00
+Iteration 1 done
+Iteration no 2 @ 16:51:03
+Iteration 2 done
+
+
+FINAL RESULTS apparel :
+Training Accuracy:0.9779(0.0007)
+Test Accuracy:0.9385(0.0015)
+Testing F1:0.8172(0.0065)
+
+Best Classifier for apparel : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+apparel   SUCCESS!!!!!!!
+

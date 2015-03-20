@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:42
+Iteration 0 done
+Iteration no 1 @ 10:36:42
+Iteration 1 done
+Iteration no 2 @ 10:36:42
+Iteration 2 done
+
+
+FINAL RESULTS electric guitar effects :
+Training Accuracy:0.9918(0.0005)
+Test Accuracy:0.9619(0.0026)
+Testing F1:0.9153(0.0059)
+
+Best Classifier for electric guitar effects : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+electric guitar effects   SUCCESS!!!!!!!
+

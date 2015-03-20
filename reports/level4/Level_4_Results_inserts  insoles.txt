@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:51
+Iteration 0 done
+Iteration no 1 @ 05:38:51
+Iteration 1 done
+Iteration no 2 @ 05:38:51
+Iteration 2 done
+
+
+FINAL RESULTS inserts  insoles :
+Training Accuracy:0.9657(0.0024)
+Test Accuracy:0.8648(0.0147)
+Testing F1:0.6295(0.0209)
+
+Best Classifier for inserts  insoles : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+inserts  insoles   SUCCESS!!!!!!!
+

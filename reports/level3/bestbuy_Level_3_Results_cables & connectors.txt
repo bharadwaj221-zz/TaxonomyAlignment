@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:20:15
+Iteration 0 done
+Iteration no 1 @ 14:20:16
+Iteration 1 done
+Iteration no 2 @ 14:20:16
+Iteration 2 done
+Iteration no 3 @ 14:20:16
+Iteration 3 done
+Iteration no 4 @ 14:20:17
+Iteration 4 done
+
+
+FINAL RESULTS cables & connectors :
+Training Accuracy:0.977023737066
+Test Accuracy:0.965978128797
+Testing F1:0.951338285825
+
+Best Classifier for cables & connectors : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cables & connectors   SUCCESS!!!!!!!
+

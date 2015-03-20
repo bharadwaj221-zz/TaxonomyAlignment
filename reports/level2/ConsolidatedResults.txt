@@ -1,0 +1,309 @@
+abrasive  finishing products:0.7865
+accessories  supplies:0.6432
+accessories:0.7281
+action figures  statues:0.6896
+action sports:0.6968
+action  toy figures:0.6242
+apparel  accessories:0.7642
+arts  crafts:0.8480
+art supplies:0.9684
+artwork:0.9152
+baby boys:0.7960
+baby  child care:0.8930
+baby foods:0.7421
+baby girls:0.8060
+baby stationery:0.9488
+baby  toddler toys:0.6958
+baby:0.6680
+backyard birding  wildlife:0.6468
+bags  cases:0.7723
+bakeware:0.6974
+band  orchestra:0.8765
+bar tools  glasses:0.6890
+bass guitars:0.9208
+bath  body:0.8625
+bathing  skin care:0.8239
+bath:0.7917
+beading  jewelrymaking:0.8074
+bedding:0.8282
+beverages:0.7458
+binders  binding systems:0.9391
+binoculars  scopes:0.6527
+binoculars telescopes  optics:0.8426
+birds:0.8198
+boating  water sports:0.8132
+boys:0.7916
+bracelets:0.7112
+breads  bakery:0.8930
+breakfast foods:0.9308
+building supplies:0.9477
+building toys:0.8717
+cables  accessories:0.5685
+calendars planners  personal organizers:0.8824
+camera  photo:0.7781
+candy  chocolate:0.7504
+canned dry  packaged foods:0.7873
+car care:0.7813
+car electronics  accessories:0.7583
+carrying cases:0.9059
+car seats  accessories:0.7281
+car  vehicle electronics:0.6809
+cases  transport:0.9606
+cases:0.8977
+cats:0.8722
+ceiling fans  accessories:0.8221
+cell phones:0.7619
+charms  charm bracelets:0.6792
+childrens jewelry:0.9436
+cleaning supplies:0.8417
+clothing:0.7613
+coffee tea  espresso:0.6138
+computer components:0.6508
+computers  accessories:0.7322
+cooking  baking:0.8638
+cookware:0.6048
+craft supplies:0.8700
+cutting  measuring devices:0.9384
+cutting tools:0.7577
+cycling:0.8475
+dairy cheese  eggs:0.8414
+data storage:0.4876
+desk accessories  workspace organizers:0.8999
+diapering:0.7244
+digital cameras:0.6286
+dishwashers:0.8028
+dj electronic music  karaoke:0.9138
+dogs:0.8710
+dolls  accessories:0.7654
+dress up  pretend play:0.8211
+drums  percussion:0.7048
+earrings:0.8531
+ebook readers  accessories:0.8314
+educational supplies:0.9817
+education  crafts:0.8380
+electrical:0.7685
+electronics for kids:0.8823
+envelopes mailers  shipping supplies:0.8544
+equestrian sports:0.8021
+exercise  fitness:0.8335
+exterior accessories:0.8916
+external components:0.4880
+fabric painting  dyeing:0.8829
+fan shop:0.7182
+farm  ranch:0.8615
+fasteners:0.9443
+feeding:0.8845
+filing products:0.9259
+film photography:0.7755
+filtration:0.8553
+fish  aquatic pets:0.6999
+flashes:0.6458
+folk  world instruments:0.9637
+food service equipment  supplies:0.6793
+forms recordkeeping  money handling:0.8911
+fragrance:0.5809
+freezers:0.6644
+fresh flowers  live indoor plants:0.9606
+furniture:0.6204
+game hardware:0.7106
+games:0.7668
+gardening  lawn care:0.8378
+gardening:0.7488
+gear:0.8784
+generators  portable power:0.9222
+gifts:0.9389
+girls:0.7755
+glassware  drinkware:0.7117
+golf:0.8923
+gourmet gifts:0.7906
+gps  navigation:0.7452
+grills  outdoor cooking:0.6591
+grownup toys:0.7992
+guitars:0.7807
+hair care:0.7092
+handbags:0.7323
+hardware:0.8771
+health  baby care:0.9740
+health care:0.7804
+heating cooling  air quality:0.8486
+heavy equipment  agricultural supplies:0.8860
+hobbies:0.7246
+home audio:0.7267
+home brewing  wine making:0.7744
+home brewing  winemaking:0.9451
+home d�cor:0.9015
+home décor:0.8571
+horses:0.8390
+household supplies:0.8791
+hunting  fishing:0.8105
+hydraulics pneumatics  plumbing:0.7647
+industrial electrical:0.8696
+industrial hardware:0.6456
+industrial power  hand tools:0.8374
+instrument accessories:0.8718
+interior accessories:0.8444
+irons  steamers:0.8278
+janitorial  sanitation supplies:0.8843
+keyboards:0.8122
+kids furniture décor  storage:0.8722
+kids home store:0.8772
+kitchen  bath fixtures:0.8969
+kitchen  dining:0.8122
+kitchen knives  cutlery accessories:0.6429
+kitchen  table linens:0.7599
+kitchen utensils  gadgets:0.7992
+knitting  crochet:0.8003
+labels indexes  stamps:0.9006
+lab  scientific products:0.7166
+lamps  light fixtures:0.8065
+laptop  netbook computer accessories:0.5792
+laptops:0.6039
+large appliance accessories:0.7495
+learning  education:0.7901
+leisure sports  game room:0.8389
+leisure sports  games:0.6024
+lenses:0.4993
+lighting  ceiling fans:0.8923
+lighting  studio:0.8316
+lights  lighting accessories:0.8622
+live sound  stage:0.8848
+loose gemstones:0.5240
+luggage  bags:0.8077
+makeup:0.8438
+material handling products:0.8435
+meat  seafood:0.8832
+medical supplies  equipment:0.6868
+mens jewelry:0.8504
+mens:0.9606
+men:0.7332
+motorcycle  atv:0.7183
+motorcycle  powersports:0.7823
+mowers  outdoor power tools:0.7898
+necklaces:0.8500
+needlework:0.8857
+networking products:0.4642
+novelty  gag toys:0.8500
+novelty jewelry:0.9584
+novelty  more:0.8922
+novelty  special use:0.6885
+nursery:0.9520
+nutrition  wellness:0.6427
+occupational health  safety products:0.8126
+office electronics:0.8794
+office furniture  accessories:0.8806
+office furniture  lighting:0.9499
+office  school supplies:0.8107
+office storage supplies:0.9949
+office supplies:0.8547
+oils  fluids:0.8314
+organization  storage:0.9078
+other sports:0.8874
+outdoor décor:0.8691
+outdoor gear:0.8873
+outdoor heaters  fire pits:0.8311
+outdoor recreation:0.7590
+outdoor storage:0.9790
+paintball  airsoft:0.9738
+paint body  trim:0.9883
+painting supplies  wall treatments:0.8186
+pantry staples:0.8178
+paper:0.8380
+parts  accessories:0.8467
+party decorations  supplies:0.9620
+party supplies:0.9174
+patio furniture  accessories:0.8813
+pc:0.8490
+pdas handhelds  accessories:0.9078
+performance parts  accessories:0.8575
+personal care:0.8645
+pest control:0.7065
+playstation 3:0.9396
+pools hot tubs  supplies:0.7387
+portable audio  video:0.7605
+potty training:0.9594
+power  hand tools:0.7844
+power transmission products:0.7921
+presentation boards:0.8034
+printers:0.5686
+produce:0.9819
+programming  web development:0.8933
+projectors:0.7844
+puzzles:0.7399
+racquet sports:0.9455
+ranges:0.5938
+raw materials:0.8030
+related accessories:0.9419
+religious jewelry:0.7313
+replacement parts:0.9168
+reptiles  amphibians:0.8022
+rings:0.9685
+rough plumbing:0.8936
+routers:0.4962
+rv parts  accessories:0.8681
+safety  security:0.6941
+safety:0.9163
+scanners:0.5952
+science education:0.8908
+scrapbooking:0.7443
+seasonal décor:0.7959
+security  surveillance:0.6887
+sewing:0.8848
+sexual wellness:0.7110
+shoe care  accessories:0.9069
+skin care:0.6414
+small animals:0.8773
+small appliance parts  accessories:0.7885
+small appliances:0.7541
+snack foods:0.7771
+snow removal:0.8854
+snow sports:0.9284
+sports nutrition:0.8321
+sports  outdoor play:0.8019
+staplers  punches:0.7446
+stationery  party supplies:0.9488
+storage  home organization:0.8438
+storage  organization:0.6813
+store signs  displays:0.8977
+strollers:0.7503
+studio recording equipment:0.8326
+stuffed animals  plush:0.7243
+sunglasses:0.6532
+surveillance cameras:0.8268
+tabletop:0.7787
+tape adhesives  fasteners:0.9166
+tapes adhesives  sealants:0.7490
+team sports:0.8735
+television  video:0.7588
+test measure  inspect:0.7033
+time clocks  cards:0.9542
+tires  wheels:0.9346
+tools  accessories:0.8704
+tools  equipment:0.7873
+touch screen tablet accessories:0.7142
+toy remote control  play vehicles:0.7240
+tricycles scooters  wagons:0.8450
+tripods  monopods:0.5645
+underwater photography:0.6546
+unisex:0.8284
+vacuums  floor care:0.7402
+vehicles  remotecontrol:0.7124
+video game consoles  accessories:0.9976
+video  music:0.8294
+video surveillance:0.5862
+video:0.7647
+vitamins  dietary supplements:0.7156
+wall ovens:0.7446
+warranties  services:0.8669
+washers  dryers:0.9283
+water coolers  filters:0.7221
+wedding  engagement rings:0.7199
+wii:0.9182
+wine accessories:0.7483
+wine beer  spirits:0.9699
+wine cellars:0.7615
+wine:0.8971
+womens:0.9555
+women:0.6299
+writing  correction supplies:0.9255
+xbox 360:0.9553
+xbox one:0.9752

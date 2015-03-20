@@ -1,0 +1,1 @@
+Only one label data for hanging folders  interior folders = [1]

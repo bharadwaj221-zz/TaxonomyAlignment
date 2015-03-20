@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:21
+Iteration 0 done
+Iteration no 1 @ 05:31:22
+Iteration 1 done
+Iteration no 2 @ 05:31:24
+Iteration 2 done
+
+
+FINAL RESULTS mower replacement parts :
+Training Accuracy:0.9482(0.0016)
+Test Accuracy:0.9007(0.0036)
+Testing F1:0.7820(0.0043)
+
+Best Classifier for mower replacement parts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+mower replacement parts   SUCCESS!!!!!!!
+

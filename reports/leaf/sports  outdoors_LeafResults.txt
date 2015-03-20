@@ -1,0 +1,15 @@
+Iteration no 0 @ 03:14:00
+Iteration 0 done
+Iteration no 1 @ 04:36:59
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.8957(0.0006)
+Test Accuracy:0.7777(0.0002)
+Testing F1:0.7730(0.0002)
+
+Best Classifier for sports  outdoors : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)sports  outdoors   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:01:44
+Iteration 0 done
+Iteration no 1 @ 11:01:45
+Iteration 1 done
+Iteration no 2 @ 11:01:45
+Iteration 2 done
+
+
+FINAL RESULTS arts  crafts supplies :
+Training Accuracy:0.9972(0.0010)
+Test Accuracy:0.9832(0.0025)
+Testing F1:0.9597(0.0060)
+
+Best Classifier for arts  crafts supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+arts  crafts supplies   SUCCESS!!!!!!!
+

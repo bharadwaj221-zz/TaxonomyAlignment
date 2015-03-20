@@ -1,0 +1,11 @@
+report_appliances_2.txt
+report_arts crafts  sewing_2.txt
+report_cell phones  accessories_2.txt
+report_clothing_2.txt
+report_gps  navigation_2.txt
+report_home  kitchen_2.txt
+report_musical instruments_2.txt
+report_office  school supplies_2.txt
+report_pet supplies_2.txt
+report_shoes_2.txt
+report_watches_2.txt

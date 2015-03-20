@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:57
+Iteration 0 done
+Iteration no 1 @ 04:59:57
+Iteration 1 done
+Iteration no 2 @ 04:59:57
+Iteration 2 done
+
+
+FINAL RESULTS dvd players  recorders :
+Training Accuracy:0.9926(0.0005)
+Test Accuracy:0.9760(0.0029)
+Testing F1:0.9130(0.0106)
+
+Best Classifier for dvd players  recorders : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+dvd players  recorders   SUCCESS!!!!!!!
+

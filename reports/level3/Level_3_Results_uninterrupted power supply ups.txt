@@ -1,0 +1,1 @@
+Only one label data for uninterrupted power supply ups = [1]

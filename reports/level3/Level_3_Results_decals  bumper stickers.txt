@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:59
+Iteration 0 done
+Iteration no 1 @ 05:00:01
+Iteration 1 done
+Iteration no 2 @ 05:00:03
+Iteration 2 done
+
+
+FINAL RESULTS decals  bumper stickers :
+Training Accuracy:0.9738(0.0006)
+Test Accuracy:0.9279(0.0023)
+Testing F1:0.8387(0.0077)
+
+Best Classifier for decals  bumper stickers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+decals  bumper stickers   SUCCESS!!!!!!!
+

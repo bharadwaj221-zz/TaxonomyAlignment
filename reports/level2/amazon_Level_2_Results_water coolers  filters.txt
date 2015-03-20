@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:06:03
+Iteration 0 done
+Iteration no 1 @ 10:06:04
+Iteration 1 done
+Iteration no 2 @ 10:06:04
+Iteration 2 done
+
+
+FINAL RESULTS water coolers  filters :
+Training Accuracy:0.9643(0.0019)
+Test Accuracy:0.8882(0.0055)
+Testing F1:0.7572(0.0169)
+
+Best Classifier for water coolers  filters : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+water coolers  filters   SUCCESS!!!!!!!
+

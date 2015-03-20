@@ -1,0 +1,1 @@
+Only one label data for money  rent receipts = [1]

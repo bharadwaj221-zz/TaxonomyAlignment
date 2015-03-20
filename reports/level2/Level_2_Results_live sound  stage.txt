@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:31:24
+Iteration 0 done
+Iteration no 1 @ 17:31:25
+Iteration 1 done
+Iteration no 2 @ 17:31:25
+Iteration 2 done
+
+
+FINAL RESULTS live sound  stage :
+Training Accuracy:0.9923(0.0004)
+Test Accuracy:0.9565(0.0039)
+Testing F1:0.8848(0.0110)
+
+Best Classifier for live sound  stage : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+live sound  stage   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:55:28
+Iteration 0 done
+Iteration no 1 @ 10:55:28
+Iteration 1 done
+Iteration no 2 @ 10:55:29
+Iteration 2 done
+
+
+FINAL RESULTS salsas dips  spreads :
+Training Accuracy:0.9977(0.0008)
+Test Accuracy:0.9632(0.0059)
+Testing F1:0.9631(0.0059)
+
+Best Classifier for salsas dips  spreads : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+salsas dips  spreads   SUCCESS!!!!!!!
+

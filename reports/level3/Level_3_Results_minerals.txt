@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:51
+Iteration 0 done
+Iteration no 1 @ 05:05:51
+Iteration 1 done
+Iteration no 2 @ 05:05:51
+Iteration 2 done
+
+
+FINAL RESULTS minerals :
+Training Accuracy:0.9776(0.0019)
+Test Accuracy:0.8678(0.0050)
+Testing F1:0.7755(0.0043)
+
+Best Classifier for minerals : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+minerals   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:09:29
+Iteration 0 done
+Iteration no 1 @ 17:09:35
+Iteration 1 done
+Iteration no 2 @ 17:09:41
+Iteration 2 done
+
+
+FINAL RESULTS patio furniture  accessories :
+Training Accuracy:0.9135(0.0015)
+Test Accuracy:0.8755(0.0046)
+Testing F1:0.7422(0.0043)
+
+Best Classifier for patio furniture  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+patio furniture  accessories   SUCCESS!!!!!!!
+

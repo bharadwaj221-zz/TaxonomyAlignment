@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:06
+Iteration 0 done
+Iteration no 1 @ 05:05:07
+Iteration 1 done
+Iteration no 2 @ 05:05:07
+Iteration 2 done
+
+
+FINAL RESULTS home storage hooks :
+Training Accuracy:0.9675(0.0010)
+Test Accuracy:0.8931(0.0100)
+Testing F1:0.7811(0.0166)
+
+Best Classifier for home storage hooks : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+home storage hooks   SUCCESS!!!!!!!
+

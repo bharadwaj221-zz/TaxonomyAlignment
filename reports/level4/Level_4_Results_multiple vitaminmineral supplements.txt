@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:19
+Iteration 0 done
+Iteration no 1 @ 05:38:19
+Iteration 1 done
+Iteration no 2 @ 05:38:20
+Iteration 2 done
+
+
+FINAL RESULTS multiple vitaminmineral supplements :
+Training Accuracy:0.9957(0.0061)
+Test Accuracy:0.8965(0.0210)
+Testing F1:0.7656(0.0634)
+
+Best Classifier for multiple vitaminmineral supplements : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+multiple vitaminmineral supplements   SUCCESS!!!!!!!
+

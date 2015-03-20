@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:08:37
+Iteration 0 done
+Iteration no 1 @ 10:08:38
+Iteration 1 done
+Iteration no 2 @ 10:08:39
+Iteration 2 done
+
+
+FINAL RESULTS arts  crafts :
+Training Accuracy:0.9815(0.0006)
+Test Accuracy:0.9344(0.0019)
+Testing F1:0.8818(0.0057)
+
+Best Classifier for arts  crafts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+arts  crafts   SUCCESS!!!!!!!
+

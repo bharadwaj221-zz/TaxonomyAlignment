@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:08:28
+Iteration 0 done
+Iteration no 1 @ 05:08:29
+Iteration 1 done
+Iteration no 2 @ 05:08:30
+Iteration 2 done
+
+
+FINAL RESULTS socks :
+Training Accuracy:0.8010(0.0019)
+Test Accuracy:0.6103(0.0013)
+Testing F1:0.5279(0.0117)
+
+Best Classifier for socks : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+socks   SUCCESS!!!!!!!
+

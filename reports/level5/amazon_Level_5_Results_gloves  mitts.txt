@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:55
+Iteration 0 done
+Iteration no 1 @ 11:23:56
+Iteration 1 done
+Iteration no 2 @ 11:23:56
+Iteration 2 done
+
+
+FINAL RESULTS gloves  mitts :
+Training Accuracy:0.8389(0.0030)
+Test Accuracy:0.7486(0.0102)
+Testing F1:0.6803(0.0036)
+
+Best Classifier for gloves  mitts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+gloves  mitts   SUCCESS!!!!!!!
+

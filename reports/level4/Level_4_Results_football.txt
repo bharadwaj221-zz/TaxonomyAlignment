@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:40:46
+Iteration 0 done
+Iteration no 1 @ 05:40:46
+Iteration 1 done
+Iteration no 2 @ 05:40:47
+Iteration 2 done
+
+
+FINAL RESULTS football :
+Training Accuracy:0.9631(0.0008)
+Test Accuracy:0.9319(0.0022)
+Testing F1:0.8217(0.0294)
+
+Best Classifier for football : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+football   SUCCESS!!!!!!!
+

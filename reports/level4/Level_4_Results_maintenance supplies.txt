@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:29
+Iteration 0 done
+Iteration no 1 @ 05:31:29
+Iteration 1 done
+Iteration no 2 @ 05:31:29
+Iteration 2 done
+
+
+FINAL RESULTS maintenance supplies :
+Training Accuracy:0.9869(0.0018)
+Test Accuracy:0.9055(0.0050)
+Testing F1:0.6471(0.0039)
+
+Best Classifier for maintenance supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+maintenance supplies   SUCCESS!!!!!!!
+

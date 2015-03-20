@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:11
+Iteration 0 done
+Iteration no 1 @ 05:38:12
+Iteration 1 done
+Iteration no 2 @ 05:38:12
+Iteration 2 done
+
+
+FINAL RESULTS shapewear :
+Training Accuracy:0.8518(0.0032)
+Test Accuracy:0.7809(0.0068)
+Testing F1:0.7708(0.0070)
+
+Best Classifier for shapewear : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+shapewear   SUCCESS!!!!!!!
+

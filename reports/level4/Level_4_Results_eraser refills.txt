@@ -1,0 +1,1 @@
+Only one label data for eraser refills = [1]

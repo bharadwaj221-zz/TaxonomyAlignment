@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:21:25
+Iteration 0 done
+Iteration no 1 @ 17:21:26
+Iteration 1 done
+Iteration no 2 @ 17:21:26
+Iteration 2 done
+
+
+FINAL RESULTS cases  transport :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9952(0.0014)
+Testing F1:0.9606(0.0118)
+
+Best Classifier for cases  transport : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cases  transport   SUCCESS!!!!!!!
+

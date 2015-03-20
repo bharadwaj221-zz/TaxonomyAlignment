@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:07:47
+Iteration 0 done
+Iteration no 1 @ 05:07:47
+Iteration 1 done
+Iteration no 2 @ 05:07:47
+Iteration 2 done
+
+
+FINAL RESULTS personal care products :
+Training Accuracy:0.9768(0.0065)
+Test Accuracy:0.9003(0.0475)
+Testing F1:0.8851(0.0524)
+
+Best Classifier for personal care products : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+personal care products   SUCCESS!!!!!!!
+

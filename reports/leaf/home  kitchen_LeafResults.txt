@@ -1,0 +1,15 @@
+Iteration no 0 @ 20:02:33
+Iteration 0 done
+Iteration no 1 @ 21:40:24
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.8993(0.0004)
+Test Accuracy:0.7261(0.0004)
+Testing F1:0.7198(0.0004)
+
+Best Classifier for home  kitchen : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)home  kitchen   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:38
+Iteration 0 done
+Iteration no 1 @ 11:12:38
+Iteration 1 done
+Iteration no 2 @ 11:12:38
+Iteration 2 done
+
+
+FINAL RESULTS taps  dies :
+Training Accuracy:0.9674(0.0015)
+Test Accuracy:0.9101(0.0152)
+Testing F1:0.8780(0.0141)
+
+Best Classifier for taps  dies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+taps  dies   SUCCESS!!!!!!!
+

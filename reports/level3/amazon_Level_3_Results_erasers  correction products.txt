@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:55:42
+Iteration 0 done
+Iteration no 1 @ 10:55:42
+Iteration 1 done
+Iteration no 2 @ 10:55:42
+Iteration 2 done
+
+
+FINAL RESULTS erasers  correction products :
+Training Accuracy:0.9199(0.0023)
+Test Accuracy:0.7526(0.0046)
+Testing F1:0.6640(0.0080)
+
+Best Classifier for erasers  correction products : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+erasers  correction products   SUCCESS!!!!!!!
+

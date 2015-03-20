@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:00:05
+Iteration 0 done
+Iteration no 1 @ 05:00:05
+Iteration 1 done
+Iteration no 2 @ 05:00:05
+Iteration 2 done
+
+
+FINAL RESULTS storage  organization :
+Training Accuracy:0.9719(0.0028)
+Test Accuracy:0.7729(0.0162)
+Testing F1:0.6516(0.0346)
+
+Best Classifier for storage  organization : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+storage  organization   SUCCESS!!!!!!!
+

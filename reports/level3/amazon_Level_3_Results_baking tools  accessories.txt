@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:01
+Iteration 0 done
+Iteration no 1 @ 10:56:01
+Iteration 1 done
+Iteration no 2 @ 10:56:02
+Iteration 2 done
+
+
+FINAL RESULTS baking tools  accessories :
+Training Accuracy:0.9447(0.0033)
+Test Accuracy:0.7581(0.0131)
+Testing F1:0.7802(0.0142)
+
+Best Classifier for baking tools  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+baking tools  accessories   SUCCESS!!!!!!!
+

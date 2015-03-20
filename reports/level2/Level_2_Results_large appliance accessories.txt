@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:22:29
+Iteration 0 done
+Iteration no 1 @ 17:22:29
+Iteration 1 done
+Iteration no 2 @ 17:22:30
+Iteration 2 done
+
+
+FINAL RESULTS large appliance accessories :
+Training Accuracy:0.9335(0.0022)
+Test Accuracy:0.8573(0.0030)
+Testing F1:0.7495(0.0089)
+
+Best Classifier for large appliance accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+large appliance accessories   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:57
+Iteration 0 done
+Iteration no 1 @ 05:32:01
+Iteration 1 done
+Iteration no 2 @ 05:32:06
+Iteration 2 done
+
+
+FINAL RESULTS mp3 player accessories :
+Training Accuracy:0.9756(0.0002)
+Test Accuracy:0.9442(0.0010)
+Testing F1:0.7056(0.0089)
+
+Best Classifier for mp3 player accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+mp3 player accessories   SUCCESS!!!!!!!
+

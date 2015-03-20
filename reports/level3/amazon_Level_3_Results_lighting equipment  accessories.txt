@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:53:38
+Iteration 0 done
+Iteration no 1 @ 10:53:38
+Iteration 1 done
+Iteration no 2 @ 10:53:38
+Iteration 2 done
+
+
+FINAL RESULTS lighting equipment  accessories :
+Training Accuracy:0.9527(0.0024)
+Test Accuracy:0.8580(0.0043)
+Testing F1:0.6680(0.0105)
+
+Best Classifier for lighting equipment  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+lighting equipment  accessories   SUCCESS!!!!!!!
+

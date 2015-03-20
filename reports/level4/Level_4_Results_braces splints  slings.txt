@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:30
+Iteration 0 done
+Iteration no 1 @ 05:38:31
+Iteration 1 done
+Iteration no 2 @ 05:38:32
+Iteration 2 done
+
+
+FINAL RESULTS braces splints  slings :
+Training Accuracy:0.9552(0.0009)
+Test Accuracy:0.8951(0.0006)
+Testing F1:0.7142(0.0126)
+
+Best Classifier for braces splints  slings : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+braces splints  slings   SUCCESS!!!!!!!
+

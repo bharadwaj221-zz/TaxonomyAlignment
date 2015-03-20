@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:40
+Iteration 0 done
+Iteration no 1 @ 11:23:40
+Iteration 1 done
+Iteration no 2 @ 11:23:40
+Iteration 2 done
+
+
+FINAL RESULTS pens  refills :
+Training Accuracy:0.9620(0.0113)
+Test Accuracy:0.6745(0.0362)
+Testing F1:0.5144(0.0715)
+
+Best Classifier for pens  refills : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pens  refills   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:57:33
+Iteration 0 done
+Iteration no 1 @ 10:57:34
+Iteration 1 done
+Iteration no 2 @ 10:57:34
+Iteration 2 done
+
+
+FINAL RESULTS hooks  hangers :
+Training Accuracy:0.9987(0.0002)
+Test Accuracy:0.9760(0.0024)
+Testing F1:0.8716(0.0097)
+
+Best Classifier for hooks  hangers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+hooks  hangers   SUCCESS!!!!!!!
+

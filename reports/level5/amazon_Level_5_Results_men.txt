@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:35:30
+Iteration 0 done
+Iteration no 1 @ 15:35:30
+Iteration 1 done
+Iteration no 2 @ 15:35:31
+Iteration 2 done
+
+
+FINAL RESULTS men :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9936(0.0030)
+Testing F1:0.9936(0.0030)
+
+Best Classifier for men : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+men   SUCCESS!!!!!!!
+

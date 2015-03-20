@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:16:15
+Iteration 0 done
+Iteration no 1 @ 10:16:16
+Iteration 1 done
+Iteration no 2 @ 10:16:16
+Iteration 2 done
+
+
+FINAL RESULTS action  toy figures :
+Training Accuracy:0.9683(0.0002)
+Test Accuracy:0.7639(0.0036)
+Testing F1:0.6242(0.0039)
+
+Best Classifier for action  toy figures : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+action  toy figures   SUCCESS!!!!!!!
+

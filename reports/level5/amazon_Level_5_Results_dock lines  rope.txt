@@ -1,0 +1,1 @@
+Only one label data for dock lines  rope = [1]

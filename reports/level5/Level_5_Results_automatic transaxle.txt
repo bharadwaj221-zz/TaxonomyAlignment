@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:22
+Iteration 0 done
+Iteration no 1 @ 10:36:22
+Iteration 1 done
+Iteration no 2 @ 10:36:22
+Iteration 2 done
+
+
+FINAL RESULTS automatic transaxle :
+Training Accuracy:0.9914(0.0061)
+Test Accuracy:0.9407(0.0223)
+Testing F1:0.9206(0.0273)
+
+Best Classifier for automatic transaxle : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+automatic transaxle   SUCCESS!!!!!!!
+

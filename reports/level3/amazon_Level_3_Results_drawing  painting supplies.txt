@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:54:19
+Iteration 0 done
+Iteration no 1 @ 10:54:20
+Iteration 1 done
+Iteration no 2 @ 10:54:20
+Iteration 2 done
+
+
+FINAL RESULTS drawing  painting supplies :
+Training Accuracy:0.9593(0.0014)
+Test Accuracy:0.8007(0.0037)
+Testing F1:0.8401(0.0073)
+
+Best Classifier for drawing  painting supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+drawing  painting supplies   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:09
+Iteration 0 done
+Iteration no 1 @ 05:31:09
+Iteration 1 done
+Iteration no 2 @ 05:31:09
+Iteration 2 done
+
+
+FINAL RESULTS atv :
+Training Accuracy:0.9947(0.0043)
+Test Accuracy:0.9221(0.0304)
+Testing F1:0.9335(0.0259)
+
+Best Classifier for atv : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+atv   SUCCESS!!!!!!!
+

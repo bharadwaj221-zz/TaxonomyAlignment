@@ -1,0 +1,1 @@
+Only one label data for internal sound cards = [1]

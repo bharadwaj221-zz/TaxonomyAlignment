@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:31:39
+Iteration 0 done
+Iteration no 1 @ 11:31:40
+Iteration 1 done
+Iteration no 2 @ 11:31:40
+Iteration 2 done
+
+
+FINAL RESULTS straight spiral  trim bits :
+Training Accuracy:0.9738(0.0025)
+Test Accuracy:0.8731(0.0069)
+Testing F1:0.8122(0.0077)
+
+Best Classifier for straight spiral  trim bits : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+straight spiral  trim bits   SUCCESS!!!!!!!
+

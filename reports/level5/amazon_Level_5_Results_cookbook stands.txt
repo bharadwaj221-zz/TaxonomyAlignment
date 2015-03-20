@@ -1,0 +1,1 @@
+Only one label data for cookbook stands = [1]

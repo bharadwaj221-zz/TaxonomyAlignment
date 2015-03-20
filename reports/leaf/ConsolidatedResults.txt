@@ -1,0 +1,31 @@
+appliances:0.8246
+arts crafts  sewing:0.7664
+automotive:0.7448
+baby:0.7310
+baby products:0.7668
+beauty:0.6010
+camera  photo:0.7520
+cell phones  accessories:0.7269
+clothing  accessories:0.6119
+clothing:0.8975
+computers  accessories:0.7131
+electronics:0.7021
+gps  navigation:0.7661
+grocery  gourmet food:0.6298
+health  personal care:0.6355
+home  kitchen:0.7198
+industrial  scientific:0.8441
+jewelry:0.6716
+kitchen  dining:0.7139
+musical instruments:0.7379
+office products:0.6838
+office  school supplies:0.8261
+patio lawn  garden:0.7644
+pet supplies:0.6580
+shoes:0.7100
+software:0.9242
+sports  outdoors:0.7730
+tools  home improvement:0.7108
+toys  games:0.5735
+video games:0.9041
+watches:0.8953

@@ -1,0 +1,1 @@
+Only one label data for bluetooth network adapters = [1]

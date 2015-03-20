@@ -1,0 +1,90 @@
+accessories:0.8297
+aircraft kits:0.8976
+artificial bait:0.6286
+athletic:0.9373
+batting gloves:0.7560
+bibs:0.8221
+bikinis:0.9387
+bodysuits:0.8685
+boots:0.8052
+boys:0.6743
+brake levers:0.9127
+brake pads:0.5109
+briefs:0.9461
+brooms:0.7577
+bumpers  fenders:0.9319
+calipers without pads:0.8802
+clothing:0.8397
+coldmeat forks:0.8965
+combustion engines  parts:0.8791
+cups  mugs:0.8207
+diving lures:0.6896
+dresses:0.7391
+electric motors  parts:0.7295
+everyday bras:0.9408
+fashion sneakers:0.7841
+flats:0.8674
+girls:0.6530
+gloves:0.7153
+ground vehicle kits:0.8261
+gstrings thongs  tangas:1.0000
+hats:0.6991
+infants  toddlers:0.5080
+intercooler parts:0.8995
+jackets:0.8114
+jammers:0.8416
+jerseys:0.6086
+jigs:0.4911
+leaders:0.7359
+leotards:0.7643
+loafers  slipons:0.6087
+loafers:0.8853
+luertobarbed fittings:0.2376
+minimizers:0.8978
+mop heads  sponges:0.8425
+mules  clogs:0.8991
+multieffects:0.9555
+necklaces  pendants:0.8561
+onepiece suits:0.7249
+outerwear:0.5088
+overalls  coveralls:0.8370
+oxfords:0.9153
+pants:0.8193
+parking  signal light assemblies:0.8252
+pistons:0.7848
+rc automobiles:0.8879
+rings:0.8653
+safety vests:0.9031
+safety work gloves:0.7199
+sandals:0.9162
+scrub bottoms:0.9761
+scrub tops:0.9523
+shirts:0.8649
+shock  mud guards:0.9094
+shorts:0.7214
+shoulder bags:0.7684
+single effects:0.6443
+sinking lures:0.7683
+skirts scooters  skorts:0.9462
+skirts:0.8106
+slippers:0.8957
+sneakers:0.8865
+socks:0.7888
+speaker cables:0.9419
+spinners  spinnerbaits:0.7017
+spoons:0.8080
+sports bras:1.0000
+standard bats:0.5399
+stereo jack cables:0.8194
+straight spiral  trim bits:0.8122
+stuff sacks:0.7958
+sweaters:0.9853
+tights:0.7779
+tires  inner tubes:0.7792
+tops:0.7635
+topwater lures:0.7658
+touch on kitchen sink faucets:0.9911
+tshirts:0.6047
+valves:0.7023
+work  safety:0.9408
+wrist watches:0.7319

@@ -1,0 +1,23 @@
+Iteration no 0 @ 06:15:50
+Iteration 0 done
+Iteration no 1 @ 06:17:14
+Iteration 1 done
+Iteration no 2 @ 06:18:23
+Iteration 2 done
+Iteration no 3 @ 06:19:18
+Iteration 3 done
+Iteration no 4 @ 06:20:13
+Iteration 4 done
+
+
+FINAL RESULTS home :
+Training Accuracy:0.944255187365
+Test Accuracy:0.88468151983
+Testing F1:0.835892305195
+
+Best Classifier for home : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+home   SUCCESS!!!!!!!
+

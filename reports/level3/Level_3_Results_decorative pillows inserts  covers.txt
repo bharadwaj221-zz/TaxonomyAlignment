@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:07:36
+Iteration 0 done
+Iteration no 1 @ 05:07:37
+Iteration 1 done
+Iteration no 2 @ 05:07:38
+Iteration 2 done
+
+
+FINAL RESULTS decorative pillows inserts  covers :
+Training Accuracy:0.9686(0.0014)
+Test Accuracy:0.9383(0.0034)
+Testing F1:0.8298(0.0071)
+
+Best Classifier for decorative pillows inserts  covers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+decorative pillows inserts  covers   SUCCESS!!!!!!!
+

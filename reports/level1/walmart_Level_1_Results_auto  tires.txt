@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:05:17
+Iteration 0 done
+Iteration no 1 @ 10:05:23
+Iteration 1 done
+Iteration no 2 @ 10:05:29
+Iteration 2 done
+
+
+FINAL RESULTS auto  tires :
+Training Accuracy:0.9379(0.0007)
+Test Accuracy:0.8970(0.0026)
+Testing F1:0.8047(0.0059)
+
+Best Classifier for auto  tires : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+auto  tires   SUCCESS!!!!!!!
+

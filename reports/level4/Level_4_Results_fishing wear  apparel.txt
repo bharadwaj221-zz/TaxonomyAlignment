@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:51
+Iteration 0 done
+Iteration no 1 @ 05:31:51
+Iteration 1 done
+Iteration no 2 @ 05:31:52
+Iteration 2 done
+
+
+FINAL RESULTS fishing wear  apparel :
+Training Accuracy:0.9607(0.0020)
+Test Accuracy:0.9049(0.0019)
+Testing F1:0.8771(0.0009)
+
+Best Classifier for fishing wear  apparel : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fishing wear  apparel   SUCCESS!!!!!!!
+

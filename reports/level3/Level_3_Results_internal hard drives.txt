@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:00:29
+Iteration 0 done
+Iteration no 1 @ 05:00:31
+Iteration 1 done
+Iteration no 2 @ 05:00:33
+Iteration 2 done
+
+
+FINAL RESULTS internal hard drives :
+Training Accuracy:0.9464(0.0006)
+Test Accuracy:0.9306(0.0003)
+Testing F1:0.7835(0.0036)
+
+Best Classifier for internal hard drives : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+internal hard drives   SUCCESS!!!!!!!
+

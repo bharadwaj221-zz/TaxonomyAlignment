@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:13
+Iteration 0 done
+Iteration no 1 @ 05:05:13
+Iteration 1 done
+Iteration no 2 @ 05:05:14
+Iteration 2 done
+
+
+FINAL RESULTS lip care :
+Training Accuracy:0.9971(0.0020)
+Test Accuracy:0.9727(0.0053)
+Testing F1:0.8428(0.0422)
+
+Best Classifier for lip care : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+lip care   SUCCESS!!!!!!!
+

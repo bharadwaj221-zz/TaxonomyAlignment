@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:25:57
+Iteration 0 done
+Iteration no 1 @ 17:25:57
+Iteration 1 done
+Iteration no 2 @ 17:25:57
+Iteration 2 done
+
+
+FINAL RESULTS bathing  skin care :
+Training Accuracy:0.9756(0.0021)
+Test Accuracy:0.8494(0.0065)
+Testing F1:0.5408(0.0109)
+
+Best Classifier for bathing  skin care : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bathing  skin care   SUCCESS!!!!!!!
+

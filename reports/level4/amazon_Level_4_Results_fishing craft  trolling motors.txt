@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:13:41
+Iteration 0 done
+Iteration no 1 @ 11:13:41
+Iteration 1 done
+Iteration no 2 @ 11:13:41
+Iteration 2 done
+
+
+FINAL RESULTS fishing craft  trolling motors :
+Training Accuracy:0.9959(0.0010)
+Test Accuracy:0.9684(0.0038)
+Testing F1:0.8841(0.0265)
+
+Best Classifier for fishing craft  trolling motors : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fishing craft  trolling motors   SUCCESS!!!!!!!
+

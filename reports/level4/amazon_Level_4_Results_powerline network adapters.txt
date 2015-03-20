@@ -1,0 +1,1 @@
+Only one label data for powerline network adapters = [1]

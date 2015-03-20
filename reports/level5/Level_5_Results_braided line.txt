@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:33
+Iteration 0 done
+Iteration no 1 @ 10:36:33
+Iteration 1 done
+Iteration no 2 @ 10:36:33
+Iteration 2 done
+
+
+FINAL RESULTS braided line :
+Training Accuracy:0.9566(0.0049)
+Test Accuracy:0.9198(0.0223)
+Testing F1:0.9144(0.0244)
+
+Best Classifier for braided line : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+braided line   SUCCESS!!!!!!!
+

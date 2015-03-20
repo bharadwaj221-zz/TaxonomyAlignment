@@ -1,0 +1,1 @@
+Only one label data for microwave oven parts  accessories = [1]

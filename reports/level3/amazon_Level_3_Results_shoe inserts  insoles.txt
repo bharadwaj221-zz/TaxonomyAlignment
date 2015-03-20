@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:53
+Iteration 0 done
+Iteration no 1 @ 10:56:53
+Iteration 1 done
+Iteration no 2 @ 10:56:54
+Iteration 2 done
+
+
+FINAL RESULTS shoe inserts  insoles :
+Training Accuracy:0.9617(0.0028)
+Test Accuracy:0.9024(0.0070)
+Testing F1:0.7976(0.0061)
+
+Best Classifier for shoe inserts  insoles : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+shoe inserts  insoles   SUCCESS!!!!!!!
+

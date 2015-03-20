@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:26
+Iteration 0 done
+Iteration no 1 @ 10:36:26
+Iteration 1 done
+Iteration no 2 @ 10:36:26
+Iteration 2 done
+
+
+FINAL RESULTS twopieces :
+Training Accuracy:0.8526(0.0123)
+Test Accuracy:0.6729(0.0575)
+Testing F1:0.6080(0.0930)
+
+Best Classifier for twopieces : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+twopieces   SUCCESS!!!!!!!
+

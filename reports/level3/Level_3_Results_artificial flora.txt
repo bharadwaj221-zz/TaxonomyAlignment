@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:06:12
+Iteration 0 done
+Iteration no 1 @ 05:06:12
+Iteration 1 done
+Iteration no 2 @ 05:06:13
+Iteration 2 done
+
+
+FINAL RESULTS artificial flora :
+Training Accuracy:0.9027(0.0016)
+Test Accuracy:0.7967(0.0071)
+Testing F1:0.6070(0.0211)
+
+Best Classifier for artificial flora : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+artificial flora   SUCCESS!!!!!!!
+

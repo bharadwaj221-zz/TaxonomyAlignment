@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:29:08
+Iteration 0 done
+Iteration no 1 @ 17:29:08
+Iteration 1 done
+Iteration no 2 @ 17:29:08
+Iteration 2 done
+
+
+FINAL RESULTS programming  web development :
+Training Accuracy:0.9992(0.0011)
+Test Accuracy:0.9531(0.0179)
+Testing F1:0.8933(0.0429)
+
+Best Classifier for programming  web development : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+programming  web development   SUCCESS!!!!!!!
+

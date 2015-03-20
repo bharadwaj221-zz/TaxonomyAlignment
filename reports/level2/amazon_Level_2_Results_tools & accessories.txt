@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:34:32
+Iteration 0 done
+Iteration no 1 @ 15:34:32
+Iteration 1 done
+Iteration no 2 @ 15:34:32
+Iteration 2 done
+
+
+FINAL RESULTS tools & accessories :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9962(0.0013)
+Testing F1:0.9958(0.0015)
+
+Best Classifier for tools & accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tools & accessories   SUCCESS!!!!!!!
+

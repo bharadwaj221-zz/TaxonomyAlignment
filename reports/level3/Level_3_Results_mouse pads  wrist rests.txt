@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:03:44
+Iteration 0 done
+Iteration no 1 @ 05:03:44
+Iteration 1 done
+Iteration no 2 @ 05:03:44
+Iteration 2 done
+
+
+FINAL RESULTS mouse pads  wrist rests :
+Training Accuracy:0.9989(0.0004)
+Test Accuracy:0.9953(0.0015)
+Testing F1:0.9308(0.0263)
+
+Best Classifier for mouse pads  wrist rests : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+mouse pads  wrist rests   SUCCESS!!!!!!!
+

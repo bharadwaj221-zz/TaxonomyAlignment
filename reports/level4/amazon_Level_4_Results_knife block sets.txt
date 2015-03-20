@@ -1,0 +1,1 @@
+Only one label data for knife block sets = [1]

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:01:53
+Iteration 0 done
+Iteration no 1 @ 05:01:53
+Iteration 1 done
+Iteration no 2 @ 05:01:53
+Iteration 2 done
+
+
+FINAL RESULTS nutrition bars :
+Training Accuracy:0.9713(0.0102)
+Test Accuracy:0.6316(0.0061)
+Testing F1:0.6198(0.0125)
+
+Best Classifier for nutrition bars : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+nutrition bars   SUCCESS!!!!!!!
+

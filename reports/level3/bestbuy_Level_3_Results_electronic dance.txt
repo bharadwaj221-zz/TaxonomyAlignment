@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:20:17
+Iteration 0 done
+Iteration no 1 @ 14:20:17
+Iteration 1 done
+Iteration no 2 @ 14:20:18
+Iteration 2 done
+Iteration no 3 @ 14:20:18
+Iteration 3 done
+Iteration no 4 @ 14:20:19
+Iteration 4 done
+
+
+FINAL RESULTS electronic dance :
+Training Accuracy:0.982262126355
+Test Accuracy:0.961033274956
+Testing F1:0.763930938453
+
+Best Classifier for electronic dance : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+electronic dance   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:43
+Iteration 0 done
+Iteration no 1 @ 11:12:43
+Iteration 1 done
+Iteration no 2 @ 11:12:43
+Iteration 2 done
+
+
+FINAL RESULTS vehicle lifts hoists  jacks :
+Training Accuracy:0.9894(0.0022)
+Test Accuracy:0.9540(0.0068)
+Testing F1:0.8856(0.0306)
+
+Best Classifier for vehicle lifts hoists  jacks : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+vehicle lifts hoists  jacks   SUCCESS!!!!!!!
+

@@ -1,0 +1,1 @@
+Only one label data for dish cloths  dish towels = [1]

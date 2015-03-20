@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:11:52
+Iteration 0 done
+Iteration no 1 @ 11:11:53
+Iteration 1 done
+Iteration no 2 @ 11:11:54
+Iteration 2 done
+
+
+FINAL RESULTS hiking  trekking :
+Training Accuracy:0.8397(0.0023)
+Test Accuracy:0.7856(0.0028)
+Testing F1:0.6912(0.0142)
+
+Best Classifier for hiking  trekking : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+hiking  trekking   SUCCESS!!!!!!!
+

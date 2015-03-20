@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:46:09
+Iteration 0 done
+Iteration no 1 @ 14:46:18
+Iteration 1 done
+Iteration no 2 @ 14:46:27
+Iteration 2 done
+Iteration no 3 @ 14:46:35
+Iteration 3 done
+Iteration no 4 @ 14:46:41
+Iteration 4 done
+
+
+FINAL RESULTS tvs & electronics :
+Training Accuracy:0.992325286282
+Test Accuracy:0.983738107541
+Testing F1:0.974187039937
+
+Best Classifier for tvs & electronics : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tvs & electronics   SUCCESS!!!!!!!
+

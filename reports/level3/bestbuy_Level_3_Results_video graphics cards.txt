@@ -1,0 +1,1 @@
+Only one label data for video graphics cards = [1]

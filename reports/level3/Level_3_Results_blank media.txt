@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:06:23
+Iteration 0 done
+Iteration no 1 @ 05:06:23
+Iteration 1 done
+Iteration no 2 @ 05:06:24
+Iteration 2 done
+
+
+FINAL RESULTS blank media :
+Training Accuracy:0.9413(0.0008)
+Test Accuracy:0.8802(0.0016)
+Testing F1:0.6588(0.0199)
+
+Best Classifier for blank media : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+blank media   SUCCESS!!!!!!!
+

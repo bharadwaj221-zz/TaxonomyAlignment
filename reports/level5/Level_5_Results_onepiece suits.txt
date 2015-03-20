@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:36
+Iteration 0 done
+Iteration no 1 @ 10:36:36
+Iteration 1 done
+Iteration no 2 @ 10:36:36
+Iteration 2 done
+
+
+FINAL RESULTS onepiece suits :
+Training Accuracy:0.9761(0.0093)
+Test Accuracy:0.9413(0.0052)
+Testing F1:0.8720(0.0163)
+
+Best Classifier for onepiece suits : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+onepiece suits   SUCCESS!!!!!!!
+

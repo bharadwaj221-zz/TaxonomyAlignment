@@ -1,0 +1,25 @@
+Iteration no 0 @ 15:35:57
+Iteration 0 done
+Iteration no 1 @ 15:35:57
+Iteration 1 done
+Iteration no 2 @ 15:35:58
+Iteration 2 done
+Iteration no 0 @ 15:35:58
+Iteration 0 done
+Iteration no 1 @ 15:35:58
+Iteration 1 done
+Iteration no 2 @ 15:35:58
+Iteration 2 done
+
+
+FINAL RESULTS building supplies :
+Training Accuracy:1.0
+Test Accuracy:0.975225225225
+Testing F1:0.975221189051
+
+Best Classifier for building supplies : 
+LinearSVC(C=10, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+building supplies   SUCCESS!!!!!!!
+

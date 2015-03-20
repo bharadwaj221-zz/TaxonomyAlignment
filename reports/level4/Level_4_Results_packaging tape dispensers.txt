@@ -1,0 +1,1 @@
+Only one label data for packaging tape dispensers = [1]

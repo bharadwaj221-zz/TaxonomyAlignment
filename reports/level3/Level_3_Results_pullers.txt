@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:02
+Iteration 0 done
+Iteration no 1 @ 05:05:02
+Iteration 1 done
+Iteration no 2 @ 05:05:02
+Iteration 2 done
+
+
+FINAL RESULTS pullers :
+Training Accuracy:0.9886(0.0032)
+Test Accuracy:0.6705(0.0439)
+Testing F1:0.5683(0.0629)
+
+Best Classifier for pullers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pullers   SUCCESS!!!!!!!
+

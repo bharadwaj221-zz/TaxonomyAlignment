@@ -1,0 +1,1 @@
+Only one label data for awnings screens  accessories = [1]

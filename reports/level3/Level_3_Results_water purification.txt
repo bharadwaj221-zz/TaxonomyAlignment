@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:02:00
+Iteration 0 done
+Iteration no 1 @ 05:02:00
+Iteration 1 done
+Iteration no 2 @ 05:02:00
+Iteration 2 done
+
+
+FINAL RESULTS water purification :
+Training Accuracy:0.9790(0.0028)
+Test Accuracy:0.8987(0.0017)
+Testing F1:0.8577(0.0141)
+
+Best Classifier for water purification : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+water purification   SUCCESS!!!!!!!
+

@@ -1,0 +1,1 @@
+Only one label data for mounts  adapters = [1]

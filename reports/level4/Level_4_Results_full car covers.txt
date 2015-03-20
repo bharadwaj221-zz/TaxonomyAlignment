@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:34
+Iteration 0 done
+Iteration no 1 @ 05:31:36
+Iteration 1 done
+Iteration no 2 @ 05:31:38
+Iteration 2 done
+
+
+FINAL RESULTS full car covers :
+Training Accuracy:0.8430(0.0018)
+Test Accuracy:0.8203(0.0031)
+Testing F1:0.8623(0.0061)
+
+Best Classifier for full car covers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+full car covers   SUCCESS!!!!!!!
+

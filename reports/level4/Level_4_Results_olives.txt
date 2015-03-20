@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:48
+Iteration 0 done
+Iteration no 1 @ 05:31:48
+Iteration 1 done
+Iteration no 2 @ 05:31:48
+Iteration 2 done
+
+
+FINAL RESULTS olives :
+Training Accuracy:0.9898(0.0048)
+Test Accuracy:0.8982(0.0148)
+Testing F1:0.8742(0.0187)
+
+Best Classifier for olives : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+olives   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:04:42
+Iteration 0 done
+Iteration no 1 @ 05:04:44
+Iteration 1 done
+Iteration no 2 @ 05:04:45
+Iteration 2 done
+
+
+FINAL RESULTS replacement screens :
+Training Accuracy:0.9590(0.0002)
+Test Accuracy:0.9535(0.0003)
+Testing F1:0.4489(0.0003)
+
+Best Classifier for replacement screens : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+replacement screens   SUCCESS!!!!!!!
+

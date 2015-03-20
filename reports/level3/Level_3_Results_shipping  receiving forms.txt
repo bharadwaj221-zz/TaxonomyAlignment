@@ -1,0 +1,1 @@
+Only one label data for shipping  receiving forms = [1]

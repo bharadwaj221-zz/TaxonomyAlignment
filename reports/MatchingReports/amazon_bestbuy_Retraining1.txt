@@ -1,0 +1,6 @@
+Category paper Added to RData at 3 to parent cables & accessories
+Category small appliances Added to RData at 2 to parent kitchen & dining
+Category home audio Added to RData at 1 to parent electronics
+Category ranges & ovens Added to RData at 2 to parent kitchen & dining
+Category office furniture & storage Added to RData at 3 to parent cables & accessories
+Category heating cooling & air quality Added to RData at 2 to parent kitchen & dining

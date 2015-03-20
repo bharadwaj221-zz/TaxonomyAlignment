@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:00:01
+Iteration 0 done
+Iteration no 1 @ 05:00:02
+Iteration 1 done
+Iteration no 2 @ 05:00:04
+Iteration 2 done
+
+
+FINAL RESULTS skirts :
+Training Accuracy:0.8292(0.0008)
+Test Accuracy:0.7504(0.0029)
+Testing F1:0.6957(0.0129)
+
+Best Classifier for skirts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+skirts   SUCCESS!!!!!!!
+

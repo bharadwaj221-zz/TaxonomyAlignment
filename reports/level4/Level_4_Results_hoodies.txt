@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:46
+Iteration 0 done
+Iteration no 1 @ 05:30:46
+Iteration 1 done
+Iteration no 2 @ 05:30:47
+Iteration 2 done
+
+
+FINAL RESULTS hoodies :
+Training Accuracy:0.9979(0.0003)
+Test Accuracy:0.9952(0.0008)
+Testing F1:0.7412(0.0431)
+
+Best Classifier for hoodies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+hoodies   SUCCESS!!!!!!!
+

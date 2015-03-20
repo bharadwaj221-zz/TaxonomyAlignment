@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:13:12
+Iteration 0 done
+Iteration no 1 @ 11:13:12
+Iteration 1 done
+Iteration no 2 @ 11:13:13
+Iteration 2 done
+
+
+FINAL RESULTS baking  pastry utensils :
+Training Accuracy:0.9642(0.0049)
+Test Accuracy:0.8007(0.0339)
+Testing F1:0.6214(0.0440)
+
+Best Classifier for baking  pastry utensils : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+baking  pastry utensils   SUCCESS!!!!!!!
+

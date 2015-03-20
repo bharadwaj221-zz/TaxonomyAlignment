@@ -1,0 +1,1 @@
+Only one label data for laptops laptops cancel = [1]

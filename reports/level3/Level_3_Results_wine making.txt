@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:04:56
+Iteration 0 done
+Iteration no 1 @ 05:04:56
+Iteration 1 done
+Iteration no 2 @ 05:04:56
+Iteration 2 done
+
+
+FINAL RESULTS wine making :
+Training Accuracy:0.9367(0.0083)
+Test Accuracy:0.7380(0.0215)
+Testing F1:0.7317(0.0182)
+
+Best Classifier for wine making : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+wine making   SUCCESS!!!!!!!
+

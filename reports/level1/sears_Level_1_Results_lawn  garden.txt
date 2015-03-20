@@ -1,0 +1,19 @@
+Iteration no 0 @ 18:32:29
+Iteration 0 done
+Iteration no 1 @ 18:34:22
+Iteration 1 done
+Iteration no 2 @ 18:34:49
+Iteration 2 done
+
+
+FINAL RESULTS lawn  garden :
+Training Accuracy:0.9703(0.0002)
+Test Accuracy:0.9470(0.0003)
+Testing F1:0.8548(0.0002)
+
+Best Classifier for lawn  garden : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+lawn  garden   SUCCESS!!!!!!!
+

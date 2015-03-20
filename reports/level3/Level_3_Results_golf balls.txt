@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:06:42
+Iteration 0 done
+Iteration no 1 @ 05:06:42
+Iteration 1 done
+Iteration no 2 @ 05:06:42
+Iteration 2 done
+
+
+FINAL RESULTS golf balls :
+Training Accuracy:0.8716(0.0035)
+Test Accuracy:0.7679(0.0075)
+Testing F1:0.5668(0.0241)
+
+Best Classifier for golf balls : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+golf balls   SUCCESS!!!!!!!
+

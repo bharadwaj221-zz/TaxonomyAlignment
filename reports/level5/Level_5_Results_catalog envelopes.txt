@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:27
+Iteration 0 done
+Iteration no 1 @ 10:36:27
+Iteration 1 done
+Iteration no 2 @ 10:36:27
+Iteration 2 done
+
+
+FINAL RESULTS catalog envelopes :
+Training Accuracy:0.9966(0.0006)
+Test Accuracy:0.9938(0.0009)
+Testing F1:0.6651(0.0474)
+
+Best Classifier for catalog envelopes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+catalog envelopes   SUCCESS!!!!!!!
+

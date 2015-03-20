@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:07:54
+Iteration 0 done
+Iteration no 1 @ 05:07:56
+Iteration 1 done
+Iteration no 2 @ 05:07:58
+Iteration 2 done
+
+
+FINAL RESULTS chairs :
+Training Accuracy:0.9718(0.0012)
+Test Accuracy:0.9539(0.0002)
+Testing F1:0.7911(0.0039)
+
+Best Classifier for chairs : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+chairs   SUCCESS!!!!!!!
+

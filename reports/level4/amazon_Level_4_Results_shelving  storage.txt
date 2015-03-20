@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:13:03
+Iteration 0 done
+Iteration no 1 @ 11:13:04
+Iteration 1 done
+Iteration no 2 @ 11:13:05
+Iteration 2 done
+
+
+FINAL RESULTS shelving  storage :
+Training Accuracy:0.9845(0.0015)
+Test Accuracy:0.9655(0.0022)
+Testing F1:0.7647(0.0106)
+
+Best Classifier for shelving  storage : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+shelving  storage   SUCCESS!!!!!!!
+

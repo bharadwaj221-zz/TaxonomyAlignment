@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:04:14
+Iteration 0 done
+Iteration no 1 @ 05:04:14
+Iteration 1 done
+Iteration no 2 @ 05:04:14
+Iteration 2 done
+
+
+FINAL RESULTS finishing products :
+Training Accuracy:0.9968(0.0026)
+Test Accuracy:0.7939(0.0245)
+Testing F1:0.6162(0.0269)
+
+Best Classifier for finishing products : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+finishing products   SUCCESS!!!!!!!
+

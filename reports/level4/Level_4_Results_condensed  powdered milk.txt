@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:49
+Iteration 0 done
+Iteration no 1 @ 05:30:49
+Iteration 1 done
+Iteration no 2 @ 05:30:50
+Iteration 2 done
+
+
+FINAL RESULTS condensed  powdered milk :
+Training Accuracy:0.9936(0.0091)
+Test Accuracy:0.9167(0.0395)
+Testing F1:0.8701(0.0728)
+
+Best Classifier for condensed  powdered milk : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+condensed  powdered milk   SUCCESS!!!!!!!
+

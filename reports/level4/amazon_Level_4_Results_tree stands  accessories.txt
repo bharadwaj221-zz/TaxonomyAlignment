@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:11:58
+Iteration 0 done
+Iteration no 1 @ 11:11:58
+Iteration 1 done
+Iteration no 2 @ 11:11:58
+Iteration 2 done
+
+
+FINAL RESULTS tree stands  accessories :
+Training Accuracy:0.9495(0.0070)
+Test Accuracy:0.7562(0.0105)
+Testing F1:0.6229(0.0336)
+
+Best Classifier for tree stands  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tree stands  accessories   SUCCESS!!!!!!!
+

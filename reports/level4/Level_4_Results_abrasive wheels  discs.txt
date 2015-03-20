@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:54
+Iteration 0 done
+Iteration no 1 @ 05:30:54
+Iteration 1 done
+Iteration no 2 @ 05:30:54
+Iteration 2 done
+
+
+FINAL RESULTS abrasive wheels  discs :
+Training Accuracy:0.9707(0.0008)
+Test Accuracy:0.8443(0.0252)
+Testing F1:0.6773(0.0371)
+
+Best Classifier for abrasive wheels  discs : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+abrasive wheels  discs   SUCCESS!!!!!!!
+

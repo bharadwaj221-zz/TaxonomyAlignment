@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:14:14
+Iteration 0 done
+Iteration no 1 @ 11:14:14
+Iteration 1 done
+Iteration no 2 @ 11:14:14
+Iteration 2 done
+
+
+FINAL RESULTS corers  pitters :
+Training Accuracy:0.9653(0.0128)
+Test Accuracy:0.5824(0.0047)
+Testing F1:0.5728(0.0072)
+
+Best Classifier for corers  pitters : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+corers  pitters   SUCCESS!!!!!!!
+

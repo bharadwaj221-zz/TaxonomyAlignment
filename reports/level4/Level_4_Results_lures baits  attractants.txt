@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:30
+Iteration 0 done
+Iteration no 1 @ 05:38:31
+Iteration 1 done
+Iteration no 2 @ 05:38:33
+Iteration 2 done
+
+
+FINAL RESULTS lures baits  attractants :
+Training Accuracy:0.9407(0.0014)
+Test Accuracy:0.8918(0.0029)
+Testing F1:0.7850(0.0083)
+
+Best Classifier for lures baits  attractants : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+lures baits  attractants   SUCCESS!!!!!!!
+

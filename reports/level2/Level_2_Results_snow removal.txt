@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:25:28
+Iteration 0 done
+Iteration no 1 @ 17:25:28
+Iteration 1 done
+Iteration no 2 @ 17:25:28
+Iteration 2 done
+
+
+FINAL RESULTS snow removal :
+Training Accuracy:0.9943(0.0022)
+Test Accuracy:0.9124(0.0113)
+Testing F1:0.8854(0.0242)
+
+Best Classifier for snow removal : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+snow removal   SUCCESS!!!!!!!
+

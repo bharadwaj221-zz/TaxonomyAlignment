@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:56
+Iteration 0 done
+Iteration no 1 @ 11:23:56
+Iteration 1 done
+Iteration no 2 @ 11:23:56
+Iteration 2 done
+
+
+FINAL RESULTS skull caps :
+Training Accuracy:0.9676(0.0036)
+Test Accuracy:0.8799(0.0244)
+Testing F1:0.8427(0.0219)
+
+Best Classifier for skull caps : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+skull caps   SUCCESS!!!!!!!
+

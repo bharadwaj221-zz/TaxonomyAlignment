@@ -1,0 +1,1 @@
+Only one label data for identification badges = [1]

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:12
+Iteration 0 done
+Iteration no 1 @ 05:31:12
+Iteration 1 done
+Iteration no 2 @ 05:31:12
+Iteration 2 done
+
+
+FINAL RESULTS thermostats  accessories :
+Training Accuracy:0.9894(0.0017)
+Test Accuracy:0.9440(0.0046)
+Testing F1:0.6895(0.0509)
+
+Best Classifier for thermostats  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+thermostats  accessories   SUCCESS!!!!!!!
+

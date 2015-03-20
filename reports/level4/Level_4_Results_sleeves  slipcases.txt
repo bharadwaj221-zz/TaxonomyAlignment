@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:03
+Iteration 0 done
+Iteration no 1 @ 05:31:04
+Iteration 1 done
+Iteration no 2 @ 05:31:05
+Iteration 2 done
+
+
+FINAL RESULTS sleeves  slipcases :
+Training Accuracy:0.9983(0.0000)
+Test Accuracy:0.9975(0.0003)
+Testing F1:0.7635(0.0722)
+
+Best Classifier for sleeves  slipcases : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+sleeves  slipcases   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:42
+Iteration 0 done
+Iteration no 1 @ 05:05:42
+Iteration 1 done
+Iteration no 2 @ 05:05:43
+Iteration 2 done
+
+
+FINAL RESULTS highchairs  booster seats :
+Training Accuracy:0.9642(0.0053)
+Test Accuracy:0.7873(0.0469)
+Testing F1:0.5953(0.0752)
+
+Best Classifier for highchairs  booster seats : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+highchairs  booster seats   SUCCESS!!!!!!!
+

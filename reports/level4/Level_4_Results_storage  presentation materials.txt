@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:35
+Iteration 0 done
+Iteration no 1 @ 05:38:35
+Iteration 1 done
+Iteration no 2 @ 05:38:35
+Iteration 2 done
+
+
+FINAL RESULTS storage  presentation materials :
+Training Accuracy:0.9204(0.0046)
+Test Accuracy:0.7029(0.0111)
+Testing F1:0.6720(0.0053)
+
+Best Classifier for storage  presentation materials : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+storage  presentation materials   SUCCESS!!!!!!!
+

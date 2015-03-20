@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:27:37
+Iteration 0 done
+Iteration no 1 @ 15:27:38
+Iteration 1 done
+Iteration no 2 @ 15:27:38
+Iteration 2 done
+
+
+FINAL RESULTS outdoor living :
+Training Accuracy:0.9939(0.0010)
+Test Accuracy:0.9439(0.0032)
+Testing F1:0.9316(0.0041)
+
+Best Classifier for outdoor living : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+outdoor living   SUCCESS!!!!!!!
+

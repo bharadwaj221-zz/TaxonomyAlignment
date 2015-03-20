@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:53:38
+Iteration 0 done
+Iteration no 1 @ 10:53:38
+Iteration 1 done
+Iteration no 2 @ 10:53:38
+Iteration 2 done
+
+
+FINAL RESULTS water filtration  softeners :
+Training Accuracy:0.9729(0.0020)
+Test Accuracy:0.8741(0.0102)
+Testing F1:0.7956(0.0115)
+
+Best Classifier for water filtration  softeners : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+water filtration  softeners   SUCCESS!!!!!!!
+

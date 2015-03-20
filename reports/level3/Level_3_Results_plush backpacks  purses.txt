@@ -1,0 +1,1 @@
+Only one label data for plush backpacks  purses = [1]

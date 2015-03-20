@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:46:19
+Iteration 0 done
+Iteration no 1 @ 15:46:19
+Iteration 1 done
+Iteration no 2 @ 15:46:19
+Iteration 2 done
+
+
+FINAL RESULTS personalized rings :
+Training Accuracy:0.9578(0.0040)
+Test Accuracy:0.9409(0.0033)
+Testing F1:0.4848(0.0009)
+
+Best Classifier for personalized rings : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+personalized rings   SUCCESS!!!!!!!
+

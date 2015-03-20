@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:49
+Iteration 0 done
+Iteration no 1 @ 11:23:49
+Iteration 1 done
+Iteration no 2 @ 11:23:49
+Iteration 2 done
+
+
+FINAL RESULTS gas tanks  accessories :
+Training Accuracy:0.9868(0.0046)
+Test Accuracy:0.8997(0.0454)
+Testing F1:0.8739(0.0720)
+
+Best Classifier for gas tanks  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+gas tanks  accessories   SUCCESS!!!!!!!
+

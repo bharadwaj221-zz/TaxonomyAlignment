@@ -1,0 +1,1 @@
+Only one label data for belt holsters  clips = [1]

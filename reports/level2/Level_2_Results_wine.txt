@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:23:31
+Iteration 0 done
+Iteration no 1 @ 17:23:31
+Iteration 1 done
+Iteration no 2 @ 17:23:31
+Iteration 2 done
+
+
+FINAL RESULTS wine :
+Training Accuracy:0.9981(0.0016)
+Test Accuracy:0.9123(0.0030)
+Testing F1:0.8971(0.0045)
+
+Best Classifier for wine : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+wine   SUCCESS!!!!!!!
+

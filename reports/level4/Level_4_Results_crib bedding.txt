@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:19
+Iteration 0 done
+Iteration no 1 @ 05:39:19
+Iteration 1 done
+Iteration no 2 @ 05:39:19
+Iteration 2 done
+
+
+FINAL RESULTS crib bedding :
+Training Accuracy:0.9739(0.0014)
+Test Accuracy:0.9217(0.0013)
+Testing F1:0.8382(0.0154)
+
+Best Classifier for crib bedding : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+crib bedding   SUCCESS!!!!!!!
+

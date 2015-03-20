@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:48
+Iteration 0 done
+Iteration no 1 @ 05:39:48
+Iteration 1 done
+Iteration no 2 @ 05:39:48
+Iteration 2 done
+
+
+FINAL RESULTS replacement water filters :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9179(0.0208)
+Testing F1:0.7111(0.0772)
+
+Best Classifier for replacement water filters : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+replacement water filters   SUCCESS!!!!!!!
+

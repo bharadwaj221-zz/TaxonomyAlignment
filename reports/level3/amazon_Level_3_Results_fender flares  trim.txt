@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:55:57
+Iteration 0 done
+Iteration no 1 @ 10:55:58
+Iteration 1 done
+Iteration no 2 @ 10:55:58
+Iteration 2 done
+
+
+FINAL RESULTS fender flares  trim :
+Training Accuracy:0.9997(0.0003)
+Test Accuracy:0.9929(0.0032)
+Testing F1:0.9467(0.0234)
+
+Best Classifier for fender flares  trim : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fender flares  trim   SUCCESS!!!!!!!
+

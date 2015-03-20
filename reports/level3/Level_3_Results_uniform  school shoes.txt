@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:09:31
+Iteration 0 done
+Iteration no 1 @ 05:09:31
+Iteration 1 done
+Iteration no 2 @ 05:09:31
+Iteration 2 done
+
+
+FINAL RESULTS uniform  school shoes :
+Training Accuracy:0.9668(0.0027)
+Test Accuracy:0.9248(0.0085)
+Testing F1:0.9069(0.0076)
+
+Best Classifier for uniform  school shoes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+uniform  school shoes   SUCCESS!!!!!!!
+

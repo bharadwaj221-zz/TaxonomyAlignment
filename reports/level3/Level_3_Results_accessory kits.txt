@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:47
+Iteration 0 done
+Iteration no 1 @ 05:05:48
+Iteration 1 done
+Iteration no 2 @ 05:05:49
+Iteration 2 done
+
+
+FINAL RESULTS accessory kits :
+Training Accuracy:0.9375(0.0022)
+Test Accuracy:0.9104(0.0037)
+Testing F1:0.6793(0.0164)
+
+Best Classifier for accessory kits : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+accessory kits   SUCCESS!!!!!!!
+

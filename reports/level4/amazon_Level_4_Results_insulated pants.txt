@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:13:20
+Iteration 0 done
+Iteration no 1 @ 11:13:20
+Iteration 1 done
+Iteration no 2 @ 11:13:20
+Iteration 2 done
+
+
+FINAL RESULTS insulated pants :
+Training Accuracy:0.9527(0.0243)
+Test Accuracy:0.8579(0.0476)
+Testing F1:0.8360(0.0597)
+
+Best Classifier for insulated pants : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+insulated pants   SUCCESS!!!!!!!
+

@@ -1,0 +1,1 @@
+Only one label data for binder insert strips = [1]

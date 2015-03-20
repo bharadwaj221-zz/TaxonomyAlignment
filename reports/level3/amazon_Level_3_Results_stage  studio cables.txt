@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:53:52
+Iteration 0 done
+Iteration no 1 @ 10:53:52
+Iteration 1 done
+Iteration no 2 @ 10:53:52
+Iteration 2 done
+
+
+FINAL RESULTS stage  studio cables :
+Training Accuracy:0.9982(0.0017)
+Test Accuracy:0.9333(0.0035)
+Testing F1:0.9249(0.0043)
+
+Best Classifier for stage  studio cables : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+stage  studio cables   SUCCESS!!!!!!!
+

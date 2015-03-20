@@ -1,0 +1,1 @@
+Only one label data for record storage boxes = [1]

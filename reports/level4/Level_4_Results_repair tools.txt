@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:40:09
+Iteration 0 done
+Iteration no 1 @ 05:40:09
+Iteration 1 done
+Iteration no 2 @ 05:40:09
+Iteration 2 done
+
+
+FINAL RESULTS repair tools :
+Training Accuracy:0.9905(0.0044)
+Test Accuracy:0.8567(0.0086)
+Testing F1:0.5613(0.0687)
+
+Best Classifier for repair tools : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+repair tools   SUCCESS!!!!!!!
+

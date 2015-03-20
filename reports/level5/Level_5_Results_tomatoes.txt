@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:43
+Iteration 0 done
+Iteration no 1 @ 10:36:43
+Iteration 1 done
+Iteration no 2 @ 10:36:43
+Iteration 2 done
+
+
+FINAL RESULTS tomatoes :
+Training Accuracy:0.9886(0.0002)
+Test Accuracy:0.9240(0.0122)
+Testing F1:0.9189(0.0118)
+
+Best Classifier for tomatoes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tomatoes   SUCCESS!!!!!!!
+

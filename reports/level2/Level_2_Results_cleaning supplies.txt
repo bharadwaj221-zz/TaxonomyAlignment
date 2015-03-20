@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:23:53
+Iteration 0 done
+Iteration no 1 @ 17:23:54
+Iteration 1 done
+Iteration no 2 @ 17:23:54
+Iteration 2 done
+
+
+FINAL RESULTS cleaning supplies :
+Training Accuracy:0.9699(0.0013)
+Test Accuracy:0.8725(0.0064)
+Testing F1:0.8417(0.0082)
+
+Best Classifier for cleaning supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cleaning supplies   SUCCESS!!!!!!!
+

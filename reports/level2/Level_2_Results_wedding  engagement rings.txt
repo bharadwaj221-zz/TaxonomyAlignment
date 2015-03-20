@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:26:39
+Iteration 0 done
+Iteration no 1 @ 17:27:34
+Iteration 1 done
+Iteration no 2 @ 17:28:28
+Iteration 2 done
+
+
+FINAL RESULTS wedding  engagement rings :
+Training Accuracy:0.9225(0.0007)
+Test Accuracy:0.9211(0.0005)
+Testing F1:0.7199(0.0004)
+
+Best Classifier for wedding  engagement rings : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+wedding  engagement rings   SUCCESS!!!!!!!
+

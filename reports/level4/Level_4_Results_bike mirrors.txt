@@ -1,0 +1,1 @@
+Only one label data for bike mirrors = [1]

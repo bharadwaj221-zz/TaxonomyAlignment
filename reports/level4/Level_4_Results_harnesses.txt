@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:32:05
+Iteration 0 done
+Iteration no 1 @ 05:32:05
+Iteration 1 done
+Iteration no 2 @ 05:32:06
+Iteration 2 done
+
+
+FINAL RESULTS harnesses :
+Training Accuracy:0.9043(0.0030)
+Test Accuracy:0.8577(0.0010)
+Testing F1:0.6513(0.0386)
+
+Best Classifier for harnesses : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+harnesses   SUCCESS!!!!!!!
+

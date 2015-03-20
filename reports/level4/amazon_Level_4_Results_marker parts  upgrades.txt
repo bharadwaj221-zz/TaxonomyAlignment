@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:11:56
+Iteration 0 done
+Iteration no 1 @ 11:11:56
+Iteration 1 done
+Iteration no 2 @ 11:11:57
+Iteration 2 done
+
+
+FINAL RESULTS marker parts  upgrades :
+Training Accuracy:0.9368(0.0020)
+Test Accuracy:0.8165(0.0064)
+Testing F1:0.7226(0.0161)
+
+Best Classifier for marker parts  upgrades : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+marker parts  upgrades   SUCCESS!!!!!!!
+

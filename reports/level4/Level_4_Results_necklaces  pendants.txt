@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:01
+Iteration 0 done
+Iteration no 1 @ 05:39:01
+Iteration 1 done
+Iteration no 2 @ 05:39:02
+Iteration 2 done
+
+
+FINAL RESULTS necklaces  pendants :
+Training Accuracy:0.9855(0.0008)
+Test Accuracy:0.9522(0.0024)
+Testing F1:0.6735(0.0384)
+
+Best Classifier for necklaces  pendants : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+necklaces  pendants   SUCCESS!!!!!!!
+

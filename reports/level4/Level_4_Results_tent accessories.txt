@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:47
+Iteration 0 done
+Iteration no 1 @ 05:30:47
+Iteration 1 done
+Iteration no 2 @ 05:30:47
+Iteration 2 done
+
+
+FINAL RESULTS tent accessories :
+Training Accuracy:0.9834(0.0031)
+Test Accuracy:0.9222(0.0104)
+Testing F1:0.7538(0.0243)
+
+Best Classifier for tent accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tent accessories   SUCCESS!!!!!!!
+

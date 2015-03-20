@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:01:19
+Iteration 0 done
+Iteration no 1 @ 05:01:20
+Iteration 1 done
+Iteration no 2 @ 05:01:21
+Iteration 2 done
+
+
+FINAL RESULTS tennis :
+Training Accuracy:0.9807(0.0015)
+Test Accuracy:0.9568(0.0016)
+Testing F1:0.9271(0.0049)
+
+Best Classifier for tennis : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tennis   SUCCESS!!!!!!!
+

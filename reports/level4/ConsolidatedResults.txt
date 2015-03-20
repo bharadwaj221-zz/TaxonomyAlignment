@@ -1,0 +1,1383 @@
+abrasive wheels  discs:0.6773
+abs:0.8518
+accents:0.9224
+accessories  supplies:0.9384
+accessories:0.7837
+accessory kits:0.7954
+acoustic  classical guitar parts:0.8760
+active base layers:0.9411
+active hoodies:0.8313
+active leggings:0.9133
+active pants:0.8223
+active  performance:0.7353
+active shirts  tees:0.9210
+active skirts:0.6655
+active skorts:0.9645
+active tracksuits:0.6339
+active:0.8410
+active underwear:0.7771
+adapters  multioutlets:0.8701
+adapters:0.9089
+adhesive sheets  sprays:0.8403
+adult helmets:0.7929
+air conditioning:0.7051
+air filters  accessories:0.7769
+air guns:0.5209
+air gun tools  accessories:0.6396
+airsoft guns  rifles:0.6498
+airsoft pellets  ammunition:0.6778
+airsoft protective gear:0.9615
+airsoft tools  accessories:0.7608
+air tool accessories:0.8078
+alarm clocks:0.5606
+albums cases  sleeves:0.7817
+alternators  generators:0.7661
+amplifier accessories:0.9352
+amplifiers:0.7986
+anchors:0.6067
+ankle  foot:0.7769
+anniversary rings:0.8548
+antennas:0.7659
+antibiotics  antiseptics:0.9090
+antifungals:0.7539
+antioxidants:0.7416
+apparel:0.9131
+appliance cords:0.8595
+aprons:0.4994
+aromatherapy:0.7405
+arrows  shafts:0.7818
+arts  crafts supplies:0.8555
+artwork:0.7777
+athletic socks:0.8077
+atv:0.9335
+audio cables:0.7712
+audio  video accessories:0.8647
+audio  video:0.9071
+automatic irrigation equipment:0.5917
+automatic pool cleaners:0.7495
+automotive glass:0.8005
+axle:0.8602
+baby clothing:0.7399
+baby skin care:0.8738
+baby:0.9279
+backcountry equipment:0.7916
+backpack accessories:0.7870
+backpacks  bags:0.6907
+backpacks:0.6713
+back  shoulder:0.4968
+bags cases  covers:0.8221
+bags  cases:0.7690
+bags:0.7200
+bakers racks:0.5954
+baking chocolates carob  cocoa:0.6620
+baking mixes:0.7738
+baking  pastry utensils:0.6156
+baking tools  accessories:0.5015
+baking tools:0.6394
+ball bearings:0.9278
+ballet  dance:0.8284
+balls:0.6515
+bandages  bandaging supplies:0.7170
+bandages  dressings:0.6970
+bar cocktail  wine glasses:0.6813
+bar  wine tools:0.8421
+baseball caps:0.8924
+baseball equipment:0.8418
+baseball  softball:0.7202
+baseball:0.5355
+base layers:0.8747
+basketball equipment:0.7658
+basketball:0.8055
+bass guitar parts:0.9337
+bassinet bedding:0.7899
+basters  marinaters:0.5926
+bath  body aids:0.9237
+bathing guards:0.8260
+bathroom fixture accessories:0.8417
+bathroom hardware  installation:0.8074
+bathroom mirrors:0.9139
+bathroom safety  accessibilty:0.7497
+bathroom sink  bathtub accessories:0.6775
+bathroom sink faucets:0.7408
+bathroom sinks:0.7340
+bathroom sink vanities  accessories:0.8438
+bathroom storage  mirrors:0.7026
+bathtub accessories:0.7824
+bathtub faucets  showerheads:0.8342
+bathtubs:0.7182
+bath:0.7947
+batteries  chargers:0.6613
+batteries:0.6418
+battery accessories:0.7442
+battery charger cases:0.7323
+battery packs  chargers:0.7259
+beans:0.7098
+bearings:0.5813
+bedding:0.8262
+bedpans  urinals:0.7569
+beds  bed frames:0.8414
+beds  sofas:0.6316
+beds:0.8263
+bells  chimes:0.7877
+belts:0.8420
+berries:0.9500
+bibs  burp cloths:0.5832
+bidet  bidet parts:0.6313
+bike baskets:0.5297
+bike bells:0.7427
+bike brakes  parts:0.8613
+bike locks:0.7221
+bike lube:0.7785
+bike pack accessories:0.7504
+bike pumps:0.6906
+biking gloves:0.8434
+bikinis:0.9639
+billiards:0.8056
+binder accessories:0.7906
+binders:0.7042
+blades:0.7349
+blanket sleepers:0.8627
+blank media:0.7560
+blazers  jackets:0.5659
+blazers:0.8957
+blinds  shades:0.8935
+blouses  buttondown shirts:0.9649
+bluetooth headsets:0.5859
+bluray drives:0.6921
+bmx bikes:0.7235
+board bags:0.7361
+board shorts:0.8606
+boat cabin products:0.7788
+boat covers:0.9764
+boat electronics:0.7011
+boat engine parts:0.7410
+boating:0.7738
+boat motors:0.6844
+boat plumbing:0.7640
+boats:0.6399
+boat trailer accessories:0.8816
+body  frame parts:0.7602
+body parts:0.8669
+booklet  catalog envelopes:0.9860
+boots  paw protectors:0.5671
+boots:0.7341
+bottles:0.9394
+bottoms:0.7461
+bowling balls:0.7619
+bowling:0.6478
+bowls:0.4740
+bows:0.7936
+bow ties  cummerbunds:0.7976
+boxer briefs:0.9246
+boxers:0.8533
+boxing gloves:0.6812
+boxing:0.8520
+boys:0.7871
+bracelets:0.5871
+braces splints  slings:0.7142
+brake shoes:0.8061
+brake  tail light assemblies:0.9527
+braking:0.8765
+bras:0.7721
+brazing equipment:0.6746
+breadcrumbs  seasoned coatings:0.6077
+breast pumps:0.5220
+breath fresheners:0.7454
+briefcases:0.5308
+briefs:0.8875
+brushes:0.8077
+buffing  polishing accessories:0.3435
+bulk cables:0.4003
+bumpers:0.8746
+business envelopes:0.5921
+business paper products:0.7364
+buttondown shirts:0.9159
+cabinets:0.8606
+cable assemblies:0.8066
+cable insertion  extraction tools:0.9467
+cables  accessories:0.7492
+cables  adapters:0.8271
+cables  interconnects:0.6517
+cables:0.8202
+cake pans:0.4287
+calcium:0.5356
+calipers  parts:0.8092
+calipers:0.7165
+camp bedding:0.8023
+camping furniture:0.7031
+camping  hiking:0.5914
+camping shelters:0.8440
+camp kitchen:0.6776
+candleholders:0.7783
+candles:0.6974
+candy making supplies:0.9169
+cane accessories:0.8605
+canning:0.9862
+capri pants:0.9131
+caps  hats:0.8242
+carabiners:0.6781
+car accessories:0.6869
+car audio:0.7289
+carbon  carbonless copy paper:0.9171
+carburetors  parts:0.7760
+car chargers:0.8491
+car cradles  mounts:0.9463
+card files holders  racks:0.8149
+cardigans:0.9298
+cards  card stock:0.7788
+car electronics:0.8525
+car flags:1.0000
+cargo carriers:0.8143
+cargo liners:0.9645
+cargo racks:0.8389
+cargo shorts:0.9298
+cargo:0.9286
+car kits:0.9094
+car light truck  suv:0.7148
+car magnets:0.9526
+car polishes  waxes:0.7610
+car rack accessories:0.7991
+carriers:0.6700
+carryons:0.8137
+car safety  security:0.8783
+car travel accessories:0.8418
+car video:0.8217
+car wash equipment:0.7801
+cases holsters  clips:0.4775
+cases  sleeves:0.6511
+cases:0.3390
+cash bags:0.9049
+casino equipment:0.8187
+casseroles:0.6041
+casters:0.8147
+casual buttondown shirts:0.9049
+casual daypacks:0.7257
+casual  dress socks:0.8936
+casual socks:0.8246
+casual:0.9207
+catalytic converters  parts:0.8162
+caulk:0.8236
+cb radios  scanners:0.7681
+cd drives:0.6384
+cd players  recorders:0.7435
+cell phone accessories:0.8274
+cell phone docks:0.9009
+centrifuges:0.7016
+cereal bowls:0.7854
+chain  rope fittings:0.4592
+chain saw accessories:0.6580
+chainsaw accessories:0.9177
+chair mats:0.7550
+chairs:0.8126
+chargers:0.8288
+charms  charm bracelets:0.7501
+chassis:0.7869
+cheerleading:0.8190
+chefs clothing:0.7645
+chemicals  fluids:0.8456
+chest  back protectors:0.7849
+chew toys:0.9463
+childrens party supplies:0.9127
+chisels:0.4912
+chocolate:0.9132
+choppers  mincers:0.6521
+chromatography columns  supplies:0.7628
+circuit breakers:0.7299
+citrus fruits:0.9909
+clamps:0.5253
+clasp envelopes:0.7926
+classroom decorations:0.6025
+clays  doughs:0.8090
+cleaners:0.6800
+cleaning  care:0.5111
+cleaning  repair:0.8209
+cleaning tools:0.8428
+cleaning:0.7869
+cleansers:0.6053
+climbing holds:0.9829
+climbing:0.7097
+clips clamps  rings:0.7843
+clothing sets:0.6500
+clothing:0.7415
+cloths  towels:0.5586
+clutches  parts:0.7812
+coffee machine accessories:0.7152
+coffee  tea:0.9742
+coin  button cell:0.7311
+coin  small parts envelopes:0.8804
+cold weather:0.7520
+collar charms:0.8929
+collars:0.7669
+collectible buildings  accessories:0.9056
+comfort bikes:0.6631
+compasses:0.6723
+components  parts:0.7380
+compression shorts:0.9035
+computer:0.7509
+concert percussion accessories:0.8028
+condensed  powdered milk:0.8701
+condenser microphones:0.4063
+congas quintos  tumbas:0.7598
+connectors:0.9586
+contact lens care:0.6571
+control arms  parts:0.7419
+controllers:0.7060
+controls:0.7921
+cookbook stands  recipe holders:0.6634
+cookies biscuits  snacks:0.6344
+cooking oils vinegars  sprays:0.8806
+cooking tools  accessories:0.8102
+cooking utensils:0.4998
+coolers  accessories:0.7083
+coolers:0.8826
+cordless tool accessories:0.8763
+corers  pitters:0.5728
+corkscrews  openers:0.6264
+cosmetic bags:0.7330
+costumes:0.4017
+coughing  sore throats:0.9486
+counters playmats  gameplay accessories:0.8748
+countertop microwave ovens:0.5607
+court equipment:0.6546
+covers:0.7422
+coverups:0.9514
+coverups  wraps:0.9507
+cradle bedding:0.9465
+crates  kennels:0.6080
+creams balms  aftershaves:0.7331
+cream  sugar:0.6718
+crib bedding:0.8382
+cribs  nursery beds:0.8196
+crosscountry skiing:0.8321
+cruiser bikes:0.6390
+crutch accessories:0.8300
+cue sticks  accessories:0.4540
+cuff links shirt studs  tie clips:0.6228
+cuff links:0.8598
+cups mugs  saucers:0.3763
+cups  straws:0.6602
+cups:0.6808
+cuticle care:0.8189
+cutters:0.6215
+cv constant velocity:0.8664
+cycling computers:0.4199
+cycling:0.7709
+cymbals:0.7889
+dance:0.8654
+darts  dartboards:0.8167
+decals  bumper stickers:0.7334
+decals:0.5698
+decking  fencing:0.9216
+decorating tools:0.7694
+decorations:0.9103
+decorative accessories:0.8729
+decorative lights:0.7775
+décor:0.8754
+dehydrators:0.6408
+denim:0.9493
+dental care:0.8561
+denture care:0.6732
+derailleurs  shifters:0.7099
+desks:0.6491
+desk supplies holders  dispensers:0.7726
+desktop calendars  supplies:0.5448
+dessert syrups  sauces:0.8321
+diamond bands:0.4974
+digestive supplements:0.6069
+digital camera accessories:0.9514
+diodes:0.7566
+dips  spreads:0.8542
+disc golf:0.9544
+disc sports:0.8284
+display cases:0.9651
+disposable apparel:0.7901
+disposables:0.8501
+distribution:0.7419
+distributors  parts:0.8305
+diving suits:0.8354
+docking  anchoring equipment:0.8518
+door handles:0.8391
+doors:0.8555
+doumbeks  darbukas:0.7614
+down  down alternative:0.7922
+downhill skiing:0.8680
+drawing media:0.8757
+drawstring bags:0.5688
+dress coats:0.7237
+dresses:0.6181
+dressing aids:0.8016
+dress shirts:0.9399
+dress  trouser socks:0.7848
+dress:0.9423
+drill accessories:0.7838
+drill bits:0.7681
+drills:0.7387
+drivers:0.7400
+drivetrain components:0.8316
+drive train:0.8573
+driving fog  spot lights:0.9963
+drug tests:0.7276
+drum set accessories:0.6812
+drumsticks mallets  brushes:0.7226
+drums:0.8399
+dry bags:0.5475
+dry:0.7359
+duct tape:0.8439
+duffle bags:0.9340
+dumbbells:0.8401
+dusting:0.8588
+dvd drives:0.7290
+dynamic microphones:0.5694
+earrings:0.4582
+eating  drinking aids:0.8112
+eau de parfum:0.6516
+eau de toilette:0.6416
+effects processors:0.8312
+effects:0.6870
+electrical boxes conduit  fittings:0.7611
+electrical equipment:0.8039
+electrical:0.7762
+electric bicycles:0.7963
+electric clippers  blades:0.7950
+electric guitar effects:0.9019
+electric guitar parts:0.7979
+electric shavers:0.6056
+electric wine bottle openers:0.7354
+electronics:0.6787
+emergency  safety equipment:0.9911
+end mills:0.2993
+engine blocks:0.7004
+engine heaters  accessories:0.8877
+engine kit products:0.8543
+engine parts:0.7987
+engine:0.6610
+enzymes:0.6213
+equestrian sport boots:0.7847
+equipment bags:0.6320
+erasers  correction products:0.6112
+erasers:0.6484
+ergonomic supports:0.8459
+essential fatty acids:0.5797
+eternity rings:0.9632
+evaporation  drying equipment:0.8388
+exercise bands:0.9078
+exercise bikes:0.4703
+exfoliators  scrubs:0.6611
+exfoliators:0.7316
+exhaust system:0.8482
+exhaust:0.6436
+expansion  jumbo envelopes:0.6195
+external battery packs:0.5561
+external lights:0.8106
+eyeglasses care:0.7945
+eyelash tools:0.7290
+eye protection:0.7144
+eye shadow:0.7328
+eyewear  eyewear accessories:0.9100
+eyewear  hearing protection:0.6316
+eyewear:0.6630
+face  eye protection:0.7005
+face protection:0.6888
+face:0.2853
+fairway woods:0.8156
+fall protection:0.7377
+fan shop:0.9331
+fans  parts:0.8552
+fasteners:0.9491
+fastening tool accessories:0.8207
+fenders  quarter panels:0.8985
+fenders:0.5047
+field equipment:0.8293
+file cabinets:0.7977
+file  folder accessories:0.7423
+file folders:0.9142
+file jackets  file pockets:0.7557
+files  rasps:0.8647
+filing envelopes:0.6251
+filing products:0.6587
+filter accessories:0.6926
+filters:0.7310
+filtration:0.8698
+finishing tool accessories:0.7358
+fireplace accessories:0.8085
+firewire port cards:0.4898
+fishing craft  trolling motors:0.8841
+fishing line:0.8118
+fishing tools  maintenance equipment:0.8078
+fishing wear  apparel:0.8771
+fish:0.8944
+fitness  crosstraining:0.8821
+flashlights:0.6074
+flasks:0.5722
+flat front:0.9472
+flatware:0.8341
+flea lice  tick control:0.6700
+fleece jackets:0.8957
+fleece:0.8698
+fleece vests:0.9154
+flexible couplings:0.1494
+flooring:0.8811
+floor mats:0.9161
+flours  meals:0.7807
+folders:0.6853
+folding tables  chairs:0.9833
+food service:0.7892
+food storage:0.8791
+food:0.7110
+football equipment:0.7216
+football:0.8217
+footies  rompers:0.7298
+footies:0.8158
+footwear:0.7404
+forks:0.5528
+forms  check envelopes:0.6181
+foundation:0.7609
+frame  body parts:0.6536
+frames:0.9796
+french presses:0.6953
+freshwater systems:0.8819
+frosting icing  decorations:0.9213
+fruit juice:0.7841
+fruits:0.8962
+fuel injection:0.8549
+fuel pumps  accessories:0.8305
+fuel system:0.8331
+fuel tanks  accessories:0.6433
+fuel transfer  lubrication:0.8228
+full car covers:0.8623
+fur  faux fur:0.7877
+furnace parts  accessories:0.6777
+furniture:0.8484
+fuses:0.6927
+futons:0.6881
+game calls:0.6872
+games:0.6371
+gaming mice:0.7587
+garlic tools:0.6343
+gauges:0.7820
+girls:0.8502
+gloves mittens  liners:0.8774
+gloves  mittens:0.7494
+gloves:0.8677
+goggles:0.7472
+golf equipment:0.8216
+golf:0.8125
+gowns:0.4895
+gps system accessories:0.7963
+gps units:0.7779
+grains  rice:0.8018
+graters:0.6783
+gravy boats  stands:0.5101
+greeting card envelopes:0.4994
+grilling cookware:0.9447
+grills  accessories:0.6943
+grills:0.4887
+grinders:0.7930
+grooming supplies:0.9075
+grooving inserts:0.6411
+gstrings  thongs:0.7266
+gun accessories:0.8326
+gun holsters cases  bags:0.7769
+gun holsters  cases:0.8455
+gun maintenance:0.6505
+guns  rifles:0.6566
+gun storage  safes:0.8276
+gym  competition equipment:0.9520
+hair extensions  wigs:0.6917
+hair removal:0.7466
+halters:0.7753
+hammers:0.6850
+hand  arm protection:0.6134
+handbag accessories:0.9796
+hand blenders:0.7288
+handcuffs  restraints:0.8352
+handlebars headsets  stems:0.8120
+hand mixers:0.4805
+hands  nails:0.7294
+hand wrist  finger:0.5919
+hangers clamps  flanges:0.8303
+hangers:0.6768
+hardware:0.7897
+harnesses:0.6513
+hats  caps:0.7257
+hazardous storage equipment:0.6853
+headers  accessories:0.7996
+headers  parts:0.6813
+headlights:0.5398
+headphone accessories:0.9576
+headphones:0.7259
+head protection:0.7344
+headsets  microphones:0.5708
+headsets:0.4703
+health care  food service:0.8921
+health supplies:0.8192
+hearing protection:0.7709
+heaters  accessories:0.8553
+heating  cooling equipment:0.5078
+heating:0.6510
+heatshrink tubing:0.8253
+helmet accessories:0.8455
+helmets:0.7295
+henleys:0.9110
+highball glasses:0.6027
+hiking  trekking:0.6872
+hitch accessories:0.8252
+hitches:0.7918
+hobby building hand tools:0.9368
+hobby paints  painting tools:0.9699
+hobby rc vehicles:0.9419
+hockey equipment:0.7995
+hockey:0.9114
+hoists  accessories:0.7003
+holders  dispensers:0.7453
+holsters  clips:0.5364
+holsters:0.8083
+home office desk chairs:0.9091
+hoodies:0.7412
+hooks  hangers:0.6682
+hose fittings:0.4045
+hose lines  fittings:0.6686
+hoses  accessories:0.7452
+hoses:0.7266
+hosiery:0.7560
+hot  cold therapies:0.7599
+hubs:0.7013
+hunting accessories:0.8061
+hunting optics:0.6309
+hunting  tactical knives:0.4118
+hunting:0.8636
+hybrid bikes:0.9225
+hybrid clubs:0.6479
+hydration packs  bladders:0.4833
+hydration:0.7583
+ice buckets  tongs:0.6516
+icecream scoops:0.7413
+ice hockey:0.8545
+idler arms  parts:0.9482
+ignition:0.8198
+incense  incense holders:0.9498
+index dividers:0.7004
+indicators  accessories:0.6528
+indoor fountain accessories:0.8951
+industrial  construction:0.8639
+industrial switches:0.5312
+infants  toddlers:0.5011
+inline skate parts:0.7620
+inline skates:0.7505
+input devices:0.7068
+inserts  insoles:0.6295
+installation accessories  harnesses:0.8807
+insulated  down jackets:0.7290
+insulated pants:0.8360
+insulated:0.6991
+interfaces:0.6083
+interior:0.7795
+internal batteries:0.6569
+internal cd drives:0.6252
+interoffice  routing envelopes:0.6439
+intimates:0.8855
+irons:0.7760
+itching  rash treatments:0.8951
+jackets  coats:0.6877
+jackets:0.5216
+jackets  vests:0.6321
+jacks:0.8396
+jeans:0.9280
+jerseys:0.5547
+jewelry boxes:0.6221
+jewelry sets:0.7390
+jewelry:0.7132
+joint  muscle pain relief:0.8867
+jumping equipment:0.7047
+kayaks:0.7367
+keyboard  mice accessories:0.9114
+keyboards  styluses:0.9227
+keyboards:0.6017
+key chains:0.9659
+key tags:0.6435
+kids backpacks:0.7797
+kitchen accessories:0.8042
+kitchen  bar sinks:0.5356
+kitchen  dining:0.8474
+kitchen faucets:0.6687
+kitchen sink accessories:0.7483
+kitchen sinks:0.8587
+kitchen toys:0.5811
+knee  leg:0.4977
+knits  tees:0.9394
+knives  tools:0.7243
+knives:0.7311
+lab bottles  jars:0.4140
+lab bottles:0.8393
+lab consumables:0.7380
+lab dishes:0.4520
+labeling tapes:0.9752
+labels  stickers:0.6591
+lab flasks:0.4057
+lab funnels:0.4080
+lab racks:0.5703
+lab tubes:0.4647
+lab utensils:0.5079
+lab vials:0.4510
+lamps:0.4035
+landscape lighting  accessories:0.7061
+landscape lighting:0.7979
+laptop  messenger bags:0.9006
+lathe accessories:0.6443
+leaf springs  parts:0.8148
+leashes:0.5608
+leather  faux leather:0.9386
+leaveners  yeasts:0.8521
+led  neon lights:0.9412
+license plate frames:0.9766
+lice treatments:0.6936
+lifting cranes:0.4854
+light boxes  loupes:0.7683
+light bulbs:0.5523
+lighting accessories:0.9385
+lighting assemblies:0.6697
+lighting controls  modifiers:0.6807
+lighting parts  accessories:0.4045
+lighting:0.5041
+lights  lanterns:0.6601
+lightweight jackets:0.7212
+linear bearings:0.6924
+lingerie sets:0.9088
+lingerie:0.8590
+link:0.7596
+lip glosses:0.7859
+lipstick:0.7978
+loaders  accessories:0.7309
+logic products:0.8244
+lounge  recreation chairs:0.7249
+low strength aids:0.9477
+low vision aids:0.8976
+luggage sets:0.7245
+luggage tags:0.8513
+lures baits  attractants:0.7850
+machine polishing equipment:0.9121
+magnesium:0.7557
+magnetic:0.8339
+magnets:0.9851
+mailers:0.6413
+maintenance supplies:0.6471
+managerial  executive chairs:0.8146
+manifold  parts:0.8463
+maracas  shakers:0.7363
+marching percussion accessories:0.7880
+marker parts  upgrades:0.7226
+markers  highlighters:0.7228
+martial arts:0.6905
+masks:0.4774
+masonry tools:0.7515
+massage tools:0.8657
+master cylinders  parts:0.6102
+maternity:0.9762
+mats  flooring:0.8504
+mats:0.8837
+mattresses  box springs:0.6623
+measuring tools  scales:0.8182
+meat  seafood:0.7404
+media storage  organization:0.8555
+medical:0.5485
+medication aids:0.6697
+meet equipment:0.9436
+memorabilia display  storage:0.8050
+memory cards:0.9152
+mens:0.8600
+men:0.7761
+messenger bags:0.7033
+metal tubing:0.4803
+metalworking  multipurpose drill bits:0.8159
+meters:0.7474
+mexican dinner kits:0.9010
+microphones:0.6207
+microplates:0.5080
+microscope accessories:0.9186
+microscopes  equipment:0.9230
+micro sd cards:0.9803
+military  tactical:0.8354
+military:0.4726
+millwork:0.7725
+minerals:0.8570
+mixed spices  seasonings:0.6357
+mixers:0.7970
+mixing  blending equipment:0.7707
+model building tools:0.8048
+model kits:0.6127
+moisturizers:0.7922
+moldings:0.8080
+money handling products:0.9083
+monitor accessories:0.7377
+mopping supplies:0.7037
+mopping:0.8345
+more accessories:0.5004
+motorcycle:0.8549
+motorized scooters:0.6316
+mountain bikes:0.4196
+mounted bearings:0.9147
+mounts  accessories:0.6304
+mouse pads  wrist rests:0.5306
+mouthpieces:0.8593
+mower accessories:0.9620
+mower parts  accessories:0.7255
+mower replacement parts:0.7820
+mp3 player accessories:0.7056
+multifunction tools:0.6592
+multiple vitaminmineral supplements:0.7656
+multitools  accessories:0.8133
+mushrooms  truffles:0.8306
+mustard:0.8156
+nailers  staplers:0.5753
+nail treatments:0.7498
+napkins:0.6766
+nasal sprays  drops:0.8056
+necklaces  pendants:0.6735
+necklaces:0.5265
+neckties:0.8953
+nightgowns  sleepshirts:0.9581
+nightgowns:0.8745
+night out  cocktail:0.9408
+night out  special occasion:0.8009
+nonaspirin:0.9121
+noodles:0.8713
+novelty headwear:1.0000
+nursery storage  organization:0.7938
+nursing:0.8889
+nut butters:0.9005
+nutrition drinks  shakes:0.8795
+nuts  seeds:0.8424
+nuts:0.6638
+oatmeal:0.7667
+oil filters  accessories:0.6637
+oils:0.8303
+oil:0.9268
+olives:0.8742
+one pieces:0.9874
+onepieces:0.9578
+optical inspection apparatus:0.7408
+optics:0.6573
+oral pain relief:0.8138
+oscilloscopes  accessories:0.5472
+outdoor kitchen accessories:0.8141
+outdoor kitchen appliances:0.8846
+outdoor lighting accessories:0.9468
+outdoor tabletop lighting:0.7058
+outerwear  coats:0.8681
+outerwear:0.7387
+outfits:0.7598
+outlets:0.5973
+outside micrometers  accessories:0.6813
+packaged:0.9252
+packing materials:0.7359
+packing organizers:0.7837
+packing tape:0.4984
+paddle accessories:0.9084
+padfolio ring binders:0.7500
+paintbrushes:0.7623
+paints  primers:0.6056
+paint tools  equipment:0.6325
+pajama sets:0.8900
+panniers  rack trunks:0.6582
+panties:0.8252
+pants  capris:0.6839
+pants  chaps:0.8900
+pant sets:0.8841
+pants:0.6110
+paper trimmers:0.7434
+paper:0.8164
+parallel port cards:0.4929
+parking brake components:0.7550
+parts  accessories:0.7109
+parts  components:0.7600
+parts:0.9440
+pasta:0.7744
+patio lawn  garden:0.8696
+pc headsets:0.4562
+pda  handheld accessories:0.8779
+pedals:0.5388
+pencils:0.6818
+pendant lights:0.4896
+pens  refills:0.6583
+pepper  peppercorns:0.6364
+personal care products:0.5937
+personal care:0.7815
+personal defense equipment:0.9458
+pet clothing:0.7340
+pet collars  harnesses:0.6243
+photomints:1.0000
+ph testing:0.9491
+picks  pick holders:0.5554
+piercing jewelry:0.9144
+pillow shams:0.8250
+pillows:0.9177
+pins:0.8471
+pipettes:0.7613
+pipettors  accessories:0.5975
+plain bands:0.9922
+plastic tubing:0.5029
+plates  cutlery:0.6783
+plates:0.6026
+platforms stands  shelves:0.7713
+player equipment:0.9048
+playwear:0.9032
+pleated:0.8937
+pliers:0.6870
+plugin switches:0.8781
+poker equipment:0.6490
+polo shirts:0.7914
+polos:0.9476
+ponds:0.8207
+pool heater parts  accessories:0.9169
+pool toys:0.9044
+pooper scoopers  bags:0.7022
+popcorn poppers:0.5457
+porch  patio lights:0.8109
+potatoes  stuffings:0.9842
+potato mashers  ricers:0.7055
+pot holders  oven mitts:0.6403
+potholders  oven mitts:0.4189
+powders:0.6391
+power brushes:0.5510
+powerline network adapters:0.4010
+power steering:0.8125
+power toothbrushes:0.6889
+prebuilt  diecast models:0.4959
+prescription contact lenses:0.8756
+prescription eyewear frames:0.4351
+presentation pointers:0.7330
+presentation supplies:0.8391
+pressure washer accessories:0.8055
+printer accessories:0.7373
+printer ink  toner:0.7099
+printer supplies:0.6843
+printer transfer belts rollers  units:0.6215
+printer trays  drawers:0.6122
+professional massage equipment:0.7013
+projector accessories:0.8727
+protectants:0.8354
+protective body equipment:0.7122
+protective briefs  underwear:0.8584
+protective gear:0.7889
+protective workwear:0.6794
+pudding  gelatin mixes:0.6975
+pulleys:0.7991
+pullovers:0.9254
+pumps  circulation:0.9778
+punches:0.6834
+punching bag accessories:0.7829
+punching bags:0.8032
+race equipment:0.8502
+racing:0.8114
+rack adapters:0.7618
+rack  pinion:0.7343
+racquet sports:0.8184
+raid controllers:0.3946
+rain boots:0.8824
+rain footwear:0.8239
+rain wear:0.8722
+rainwear:0.9067
+raised bowls  feeding stations:0.7816
+ramps:0.9092
+rash guard shirts:0.8954
+rash guards:0.8197
+raw building materials:0.8495
+rawhide:0.7429
+rc vehicle parts:0.8262
+rc vehicles:0.9188
+reading glasses:0.7149
+receivers  amplifiers:0.8597
+reeds:0.8339
+reels:0.7040
+reflectors:0.8354
+relays:0.7346
+releases  aids:0.6997
+relishes:0.7718
+remote controls:0.7229
+repair tools:0.5613
+repellents:0.8893
+replacement filters:0.8422
+replacement water filters:0.7111
+resistors:0.9400
+respiratory protection:0.7371
+rice dishes:0.8559
+riding headwear:0.7699
+rigging:0.9836
+rigid couplings:0.7282
+rings:0.6390
+rink equipment:0.7250
+rivets:0.6498
+road bikes:0.8474
+robes:0.8833
+rod  reel combos:0.6348
+rod  reel storage:0.7713
+rods:0.7116
+roller bearings:0.9142
+roller seats  creepers:0.7761
+roller skate parts:0.4824
+roller skates:0.8190
+rompers:0.9452
+roofing:0.8965
+ropes cords  webbing:0.8394
+rotisseries  roasters:0.8473
+round:0.5855
+router accessories:0.8172
+rugby:0.8720
+rulers:0.4996
+rules squares  protractors:0.6969
+running:0.6670
+saddles  accessories:0.7923
+safety barriers:0.8156
+safety  flotation devices:0.7423
+safety footwear:0.8102
+safety  survival:0.6839
+salad dressings:0.7392
+salad plates:0.4972
+salt  pepper:0.6169
+salt  salt substitutes:0.6027
+sander accessories:0.7240
+sanders:0.6748
+sanding discs:0.8306
+sandpaper:0.8684
+sandwich makers  panini presses:0.6645
+sandwich:0.5483
+satellite tv equipment:0.9475
+sauces:0.7127
+saw accessories:0.8226
+saw blades  accessories:0.8786
+saws:0.7449
+scales:0.6516
+scanners  testers:0.8905
+scarves:0.7121
+scarves  wraps:0.7009
+scented oils  oil diffusers:0.7233
+scents  scent eliminators:0.5515
+school uniforms:0.6402
+scissors trimmers  shears:0.6200
+scooters:0.6607
+screen protectors:0.5610
+screwdrivers:0.7936
+screws  bolts:0.6828
+screws:0.9757
+scrubs  lab coats:0.8412
+scsi port cards:0.4975
+sculptures:0.7706
+seals:0.7186
+seasoning  spice tools:0.7938
+seat covers:0.7164
+seat packs:0.4305
+serveware:0.7626
+serving bowls  tureens:0.4521
+serving dishes trays  platters:0.6294
+serving utensils:0.7102
+sets:0.8263
+sex toys:0.7481
+shaft collars:0.7815
+shampoos  conditioners:0.5048
+shapewear:0.7708
+sheets  pillowcases:0.7072
+sheets:0.8651
+shellfish:0.9261
+shells  soft shells:0.9001
+shells:0.5173
+shelving  storage:0.7647
+shifters  parts:0.7934
+shifters:0.4919
+shirts by activity:0.8870
+shirts:0.7130
+shoes:0.8522
+shop tools:0.6561
+shortbread:0.9409
+short sets:0.9066
+shorts:0.7494
+shoulder bags:0.6143
+shoulder  chin rests:0.9061
+shower accessories:0.7871
+shower curtains hooks  liners:0.7200
+showerheads:0.4915
+showers:0.8068
+shower  tub faucets:0.8295
+shrugs:0.9409
+sights  optics:0.7627
+signal components:0.7416
+signal light assemblies:0.9078
+single herbs  spices:0.8887
+singleline telephones:0.6562
+skateboarding:0.6952
+skateboard parts:0.6454
+skiing:0.7111
+skins:0.9984
+skinsuits:0.7124
+skirt sets:0.8827
+skirts skooters  skorts:0.7878
+skirts:0.7453
+ski wax:0.9269
+sleep bottoms:0.8843
+sleeping bags:0.4152
+sleep  lounge:0.8421
+sleepsacks:0.7964
+sleep sets:0.9621
+sleep tops:0.8145
+sleepwear  robes:0.6873
+sleeves  slipcases:0.7635
+sleeves:0.5670
+slings:0.7879
+slippers:0.9091
+slips:0.7711
+snowboarding:0.6827
+snowboards:0.7602
+snow boots:0.6292
+snow chains:0.7951
+snow  ice equipment:0.6084
+snowshoes:0.7607
+snow sports:0.9715
+snow wear:0.8674
+soccer:0.6804
+sockets  socket sets:0.5328
+socks  hosiery:0.7257
+socks  support hose:0.8286
+socks:0.8216
+softballs:0.5833
+software:0.4966
+soldering equipment:0.8024
+soup bowls:0.7719
+soups stews  chilis:0.7088
+spark plugs  wires:0.7246
+speaker accessories:0.7655
+speaker parts  components:0.5174
+speaker repair:0.7968
+speakers:0.6623
+special occasion:0.8843
+specialty clocks:0.9542
+specialty plates:0.6623
+speedometers:0.9790
+spoons:0.4991
+sport coats  blazers:0.5471
+sport sandals:0.8608
+sports bras:0.9090
+sports duffels:0.7867
+sports  outdoors:0.7103
+sport watches:0.9214
+square  rectangular:0.4830
+stabilizers:0.8890
+stair parts:0.8936
+stairs  steps:0.6765
+standard skateboards  longboards:0.6991
+standing shelf units:0.8999
+stand mixers:0.4830
+stands:0.6586
+standup paddleboarding:0.6835
+starters  parts:0.7557
+steering equipment:0.7462
+stocks broths  bouillon:0.8803
+stools:0.8708
+storage  presentation materials:0.6720
+straps  strap locks:0.5709
+strings:0.9047
+string trimmer accessories:0.7827
+strippers:0.7146
+strobe lighting:0.4844
+styling accessories:0.8476
+styling products:0.6825
+styling tools:0.7389
+suitcases:0.8520
+suit pants:0.5473
+suits:0.7495
+sunglasses  eyewear accessories:0.8333
+sunglasses:0.5758
+sunsuits:0.9685
+supplements  vitamins:0.7028
+surfboards:0.8660
+surfing booties:0.8724
+surveillance video equipment:0.8886
+suspenders:0.8446
+suspension fork  chassis:0.8916
+suspension:0.9506
+sway bars  parts:0.8164
+sweaters:0.7995
+sweat headbands  wristbands:0.9797
+sweatpants:0.6883
+sweatshirts:0.6812
+sweeping supplies:0.7996
+sweeping:0.8912
+swim:0.7169
+swimwear:0.4237
+switches:0.8207
+syrups sugars  sweeteners:0.8164
+systems:0.7340
+table games:0.9377
+tables:0.7315
+table tennis:0.8739
+tabletop accessories:0.6683
+tabletop lighting:0.8962
+tableware:0.9422
+tackle storage:0.7086
+tactical bags  packs:0.7047
+taillights:0.5514
+tankinis:0.8969
+tanks  camis:0.9506
+tanks regulators  parts:0.7580
+tank tops:0.6868
+tape:0.6537
+taps  dies:0.7388
+teaching materials:0.7172
+teapots  coffee servers:0.5659
+tea samplers:0.9579
+tea strainers:0.5788
+tees:0.9145
+telemark skiing:0.7688
+telephone accessories:0.7451
+telescope accessories:0.5022
+templates  stencils:0.9304
+tennis:0.7563
+tent accessories:0.7538
+tents:0.6285
+terminal blocks:0.8171
+terminals:0.5276
+terminal tackle:0.8915
+test strips:0.9511
+thermal underwear:0.8756
+thermometers  accessories:0.5099
+thermometers:0.6621
+thermostats  accessories:0.6895
+throwing equipment:0.7197
+tie rod ends  parts:0.6781
+tights:0.8087
+tiles:0.9334
+tire covers:0.8138
+tire pressure monitoring system tpms:0.7203
+tires:0.4210
+toasters:0.6744
+toddler bedding:0.8212
+toe rings:0.8296
+toilet accessories:0.8933
+toiletry bags:0.7936
+toilet seats  commodes:0.7946
+toilets  toilet parts:0.6434
+tools:1.0000
+tops  tees:0.8013
+tops:0.7571
+toss games:0.7449
+tote bags:0.5957
+towel holders:0.7200
+tow hooks  straps:0.9441
+toy figures:0.8770
+toy sports:0.8974
+track  active jackets:0.8177
+track  field  cross country:0.7171
+track pants:0.8273
+track rail  cable lighting:0.7015
+tracksuits  sweatsuits:0.6488
+tracksuits:0.5700
+trailers:0.7619
+trail running:0.8793
+trainer accessories:0.7738
+training equipment:0.8010
+transducers:0.2719
+transistors:0.3317
+transmission filters  accessories:0.7872
+transmissions  parts:0.7368
+trash bags:0.6905
+travel chargers:0.7955
+travel duffels:0.6656
+travel totes:0.7938
+travel wallets:0.7981
+treadmills:0.8193
+treatments  masks:0.6834
+treatment tools:0.9561
+tree stands  accessories:0.5414
+trench  rain:0.9271
+tropical  exotic fruit:0.9649
+trunks  shorts:0.9816
+trunks:0.9118
+tshirts:0.7658
+tube fittings:0.3097
+tubes:0.6576
+tunics:0.9195
+tuxedos:0.6191
+tv accessories:0.7047
+twopieces:0.7588
+twoway radio accessories:0.8428
+twoway radios:0.6700
+undershirts:0.8526
+underwear:0.8534
+uniform dress shoes:0.7287
+universal joints  parts:0.9714
+urinals  urinal parts:0.6485
+usb cables:0.6410
+vacuum bags:0.8169
+vacuum filters:0.5075
+vacuum  pump equipment:0.9324
+vacuums:0.6040
+valve cover  stem:0.8472
+vegetables:0.9404
+vehicle audio  video installation:0.8185
+vehicle lifts hoists  jacks:0.8856
+vests:0.6822
+video projector accessories:0.8850
+vinegars:0.7518
+violins:0.9334
+vitamin b:0.7478
+voip:0.6714
+volleyballs:0.5739
+volleyball:0.7091
+waist packs:0.7413
+walker accessories:0.7679
+walkers:0.8425
+walking:0.6806
+wall clocks:0.7792
+wallets card cases  money organizers:0.7717
+wallets:0.6550
+wall lamps  sconces:0.5912
+wall plates:0.4992
+wall switches:0.8026
+washers:0.4744
+waste water  sanitation:0.7567
+watches:0.8182
+water bottle cages:0.5989
+water bottles:0.4996
+water dispensers  coolers:0.7665
+water purification equipment:0.8083
+water shoes:0.8111
+weapons  parts:0.8007
+weapons:0.8171
+wear to work:0.9559
+weatherproofing:0.8550
+wedding  engagement rings:0.9862
+wedding rings:0.8560
+wedding:0.9183
+wedges  utility clubs:0.6831
+weight racks:0.7072
+welding accessories:0.8838
+welding equipment:0.7803
+welding  soldering accessories:0.9372
+wetsuits:0.6338
+wet:0.6948
+wheelchair accessories:0.7351
+wheelchairs:0.7721
+wheels  tires:0.7623
+wheels:0.7315
+wigs:0.3630
+winch accessories:0.8766
+winches hoists  pulleys:0.8692
+window rods:0.7616
+window shutters:0.8911
+windows:0.8966
+wine stoppers  pourers:0.6732
+wipers:0.6177
+wired headsets:0.7107
+wireless microphones:0.6415
+womens handbags  purses:0.8599
+womens:0.9090
+women:0.7488
+wood drill bits:0.7141
+wool  blends:0.8778
+workout shorts:0.9269
+workstands:0.4735
+work utility  safety:0.5344
+work wear:0.9142
+wrenches:0.6747
+wrestling:0.7330
+wrist rests:1.0000
+writing  correction supplies:0.9174
+yoga:0.5839

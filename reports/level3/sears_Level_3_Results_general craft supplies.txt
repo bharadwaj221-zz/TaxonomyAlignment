@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:47:43
+Iteration 0 done
+Iteration no 1 @ 14:47:44
+Iteration 1 done
+Iteration no 2 @ 14:47:45
+Iteration 2 done
+Iteration no 3 @ 14:47:46
+Iteration 3 done
+Iteration no 4 @ 14:47:48
+Iteration 4 done
+
+
+FINAL RESULTS general craft supplies :
+Training Accuracy:0.99655
+Test Accuracy:0.9937
+Testing F1:0.993699904176
+
+Best Classifier for general craft supplies : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+general craft supplies   SUCCESS!!!!!!!
+

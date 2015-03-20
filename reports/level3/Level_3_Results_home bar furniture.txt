@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:10:17
+Iteration 0 done
+Iteration no 1 @ 05:10:17
+Iteration 1 done
+Iteration no 2 @ 05:10:18
+Iteration 2 done
+
+
+FINAL RESULTS home bar furniture :
+Training Accuracy:0.9909(0.0007)
+Test Accuracy:0.9708(0.0021)
+Testing F1:0.8315(0.0096)
+
+Best Classifier for home bar furniture : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+home bar furniture   SUCCESS!!!!!!!
+

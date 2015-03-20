@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:29
+Iteration 0 done
+Iteration no 1 @ 10:36:29
+Iteration 1 done
+Iteration no 2 @ 10:36:29
+Iteration 2 done
+
+
+FINAL RESULTS teapots  coffee servers :
+Training Accuracy:0.9492(0.0067)
+Test Accuracy:0.6838(0.0327)
+Testing F1:0.7378(0.0315)
+
+Best Classifier for teapots  coffee servers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+teapots  coffee servers   SUCCESS!!!!!!!
+

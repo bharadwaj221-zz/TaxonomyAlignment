@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:14:06
+Iteration 0 done
+Iteration no 1 @ 10:14:09
+Iteration 1 done
+Iteration no 2 @ 10:14:12
+Iteration 2 done
+
+
+FINAL RESULTS canned dry  packaged foods :
+Training Accuracy:0.9384(0.0012)
+Test Accuracy:0.8653(0.0014)
+Testing F1:0.7873(0.0020)
+
+Best Classifier for canned dry  packaged foods : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+canned dry  packaged foods   SUCCESS!!!!!!!
+

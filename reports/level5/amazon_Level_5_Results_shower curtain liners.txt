@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:50
+Iteration 0 done
+Iteration no 1 @ 11:23:50
+Iteration 1 done
+Iteration no 2 @ 11:23:50
+Iteration 2 done
+
+
+FINAL RESULTS shower curtain liners :
+Training Accuracy:0.9902(0.0139)
+Test Accuracy:0.7908(0.1136)
+Testing F1:0.7693(0.1301)
+
+Best Classifier for shower curtain liners : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+shower curtain liners   SUCCESS!!!!!!!
+

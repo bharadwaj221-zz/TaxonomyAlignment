@@ -1,0 +1,19 @@
+Iteration no 0 @ 16:10:37
+Iteration 0 done
+Iteration no 1 @ 16:10:37
+Iteration 1 done
+Iteration no 2 @ 16:10:37
+Iteration 2 done
+
+
+FINAL RESULTS outdoor activities :
+Training Accuracy:0.9924(0.0013)
+Test Accuracy:0.8631(0.0131)
+Testing F1:0.8631(0.0131)
+
+Best Classifier for outdoor activities : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+outdoor activities   SUCCESS!!!!!!!
+

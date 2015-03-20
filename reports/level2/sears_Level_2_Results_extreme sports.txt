@@ -1,0 +1,25 @@
+Iteration no 0 @ 15:35:45
+Iteration 0 done
+Iteration no 1 @ 15:35:45
+Iteration 1 done
+Iteration no 2 @ 15:35:45
+Iteration 2 done
+Iteration no 0 @ 15:35:45
+Iteration 0 done
+Iteration no 1 @ 15:35:45
+Iteration 1 done
+Iteration no 2 @ 15:35:45
+Iteration 2 done
+
+
+FINAL RESULTS extreme sports :
+Training Accuracy:1.0
+Test Accuracy:0.984984984985
+Testing F1:0.984984680316
+
+Best Classifier for extreme sports : 
+LinearSVC(C=10, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+extreme sports   SUCCESS!!!!!!!
+

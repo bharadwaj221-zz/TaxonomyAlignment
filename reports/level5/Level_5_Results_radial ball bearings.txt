@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:38
+Iteration 0 done
+Iteration no 1 @ 10:36:38
+Iteration 1 done
+Iteration no 2 @ 10:36:39
+Iteration 2 done
+
+
+FINAL RESULTS radial ball bearings :
+Training Accuracy:0.9927(0.0004)
+Test Accuracy:0.9864(0.0020)
+Testing F1:0.8775(0.0242)
+
+Best Classifier for radial ball bearings : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+radial ball bearings   SUCCESS!!!!!!!
+

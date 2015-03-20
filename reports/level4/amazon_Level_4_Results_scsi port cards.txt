@@ -1,0 +1,1 @@
+Only one label data for scsi port cards = [1]

@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:10:25
+Iteration 0 done
+Iteration no 1 @ 10:10:46
+Iteration 1 done
+Iteration no 2 @ 10:11:07
+Iteration 2 done
+
+
+FINAL RESULTS novelty  more :
+Training Accuracy:0.9784(0.0002)
+Test Accuracy:0.9711(0.0005)
+Testing F1:0.8922(0.0023)
+
+Best Classifier for novelty  more : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+novelty  more   SUCCESS!!!!!!!
+

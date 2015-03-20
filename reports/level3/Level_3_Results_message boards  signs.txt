@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:06:22
+Iteration 0 done
+Iteration no 1 @ 05:06:23
+Iteration 1 done
+Iteration no 2 @ 05:06:23
+Iteration 2 done
+
+
+FINAL RESULTS message boards  signs :
+Training Accuracy:0.9971(0.0008)
+Test Accuracy:0.9730(0.0082)
+Testing F1:0.9474(0.0126)
+
+Best Classifier for message boards  signs : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+message boards  signs   SUCCESS!!!!!!!
+

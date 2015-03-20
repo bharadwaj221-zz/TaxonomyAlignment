@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:15:02
+Iteration 0 done
+Iteration no 1 @ 10:15:05
+Iteration 1 done
+Iteration no 2 @ 10:15:10
+Iteration 2 done
+
+
+FINAL RESULTS bar tools  glasses :
+Training Accuracy:0.9641(0.0002)
+Test Accuracy:0.9257(0.0010)
+Testing F1:0.7811(0.0043)
+
+Best Classifier for bar tools  glasses : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bar tools  glasses   SUCCESS!!!!!!!
+

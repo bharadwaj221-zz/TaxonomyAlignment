@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:41
+Iteration 0 done
+Iteration no 1 @ 04:59:41
+Iteration 1 done
+Iteration no 2 @ 04:59:41
+Iteration 2 done
+
+
+FINAL RESULTS diamond accented :
+Training Accuracy:0.9560(0.0206)
+Test Accuracy:0.7499(0.0136)
+Testing F1:0.7321(0.0205)
+
+Best Classifier for diamond accented : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+diamond accented   SUCCESS!!!!!!!
+

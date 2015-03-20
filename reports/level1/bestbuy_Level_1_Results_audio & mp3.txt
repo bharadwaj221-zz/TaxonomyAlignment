@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:14:22
+Iteration 0 done
+Iteration no 1 @ 14:14:24
+Iteration 1 done
+Iteration no 2 @ 14:14:24
+Iteration 2 done
+Iteration no 3 @ 14:14:25
+Iteration 3 done
+Iteration no 4 @ 14:14:26
+Iteration 4 done
+
+
+FINAL RESULTS audio & mp3 :
+Training Accuracy:0.965673277477
+Test Accuracy:0.954461886579
+Testing F1:0.924430252331
+
+Best Classifier for audio & mp3 : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+audio & mp3   SUCCESS!!!!!!!
+

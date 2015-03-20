@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:31
+Iteration 0 done
+Iteration no 1 @ 11:23:31
+Iteration 1 done
+Iteration no 2 @ 11:23:31
+Iteration 2 done
+
+
+FINAL RESULTS fume  smoke extraction :
+Training Accuracy:0.9829(0.0121)
+Test Accuracy:0.6763(0.0718)
+Testing F1:0.6662(0.0653)
+
+Best Classifier for fume  smoke extraction : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fume  smoke extraction   SUCCESS!!!!!!!
+

@@ -1,0 +1,1 @@
+Only one label data for replacement parts  accessories = [1]

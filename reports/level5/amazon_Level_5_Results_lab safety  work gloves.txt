@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:49
+Iteration 0 done
+Iteration no 1 @ 11:23:49
+Iteration 1 done
+Iteration no 2 @ 11:23:50
+Iteration 2 done
+
+
+FINAL RESULTS lab safety  work gloves :
+Training Accuracy:0.9587(0.0021)
+Test Accuracy:0.8742(0.0028)
+Testing F1:0.7348(0.0245)
+
+Best Classifier for lab safety  work gloves : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+lab safety  work gloves   SUCCESS!!!!!!!
+

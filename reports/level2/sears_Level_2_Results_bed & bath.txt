@@ -1,0 +1,25 @@
+Iteration no 0 @ 15:36:02
+Iteration 0 done
+Iteration no 1 @ 15:36:03
+Iteration 1 done
+Iteration no 2 @ 15:36:04
+Iteration 2 done
+Iteration no 0 @ 15:36:05
+Iteration 0 done
+Iteration no 1 @ 15:36:06
+Iteration 1 done
+Iteration no 2 @ 15:36:06
+Iteration 2 done
+
+
+FINAL RESULTS bed & bath :
+Training Accuracy:0.998100189981
+Test Accuracy:0.715143028606
+Testing F1:0.671812303285
+
+Best Classifier for bed & bath : 
+LinearSVC(C=10, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bed & bath   SUCCESS!!!!!!!
+

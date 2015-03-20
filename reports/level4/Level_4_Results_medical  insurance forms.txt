@@ -1,0 +1,1 @@
+Only one label data for medical  insurance forms = [1]

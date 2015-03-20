@@ -1,0 +1,19 @@
+Iteration no 0 @ 16:55:50
+Iteration 0 done
+Iteration no 1 @ 16:55:51
+Iteration 1 done
+Iteration no 2 @ 16:55:52
+Iteration 2 done
+
+
+FINAL RESULTS video games :
+Training Accuracy:0.9871(0.0006)
+Test Accuracy:0.9567(0.0014)
+Testing F1:0.9587(0.0035)
+
+Best Classifier for video games : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+video games   SUCCESS!!!!!!!
+

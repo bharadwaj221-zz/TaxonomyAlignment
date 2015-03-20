@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:38
+Iteration 0 done
+Iteration no 1 @ 05:31:38
+Iteration 1 done
+Iteration no 2 @ 05:31:38
+Iteration 2 done
+
+
+FINAL RESULTS countertop microwave ovens :
+Training Accuracy:0.9901(0.0014)
+Test Accuracy:0.9763(0.0048)
+Testing F1:0.5607(0.0953)
+
+Best Classifier for countertop microwave ovens : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+countertop microwave ovens   SUCCESS!!!!!!!
+

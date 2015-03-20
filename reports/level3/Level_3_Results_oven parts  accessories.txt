@@ -1,0 +1,1 @@
+Only one label data for oven parts  accessories = [1]

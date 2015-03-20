@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:19
+Iteration 0 done
+Iteration no 1 @ 05:39:20
+Iteration 1 done
+Iteration no 2 @ 05:39:20
+Iteration 2 done
+
+
+FINAL RESULTS basketball equipment :
+Training Accuracy:0.9937(0.0002)
+Test Accuracy:0.9813(0.0031)
+Testing F1:0.7658(0.0420)
+
+Best Classifier for basketball equipment : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+basketball equipment   SUCCESS!!!!!!!
+

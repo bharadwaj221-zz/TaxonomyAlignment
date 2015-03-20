@@ -1,0 +1,1 @@
+Only one label data for inkjet printer paper = [1]

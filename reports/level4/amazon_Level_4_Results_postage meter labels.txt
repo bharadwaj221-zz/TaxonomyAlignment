@@ -1,0 +1,1 @@
+Only one label data for postage meter labels = [1]

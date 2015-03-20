@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:05:34
+Iteration 0 done
+Iteration no 1 @ 10:05:55
+Iteration 1 done
+Iteration no 2 @ 10:05:59
+Iteration 2 done
+
+
+FINAL RESULTS writing  correction supplies :
+Training Accuracy:0.9825(0.0003)
+Test Accuracy:0.9672(0.0013)
+Testing F1:0.9237(0.0052)
+
+Best Classifier for writing  correction supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+writing  correction supplies   SUCCESS!!!!!!!
+

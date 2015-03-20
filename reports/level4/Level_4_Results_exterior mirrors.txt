@@ -1,0 +1,1 @@
+Only one label data for exterior mirrors = [1]

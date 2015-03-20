@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:33
+Iteration 0 done
+Iteration no 1 @ 10:36:33
+Iteration 1 done
+Iteration no 2 @ 10:36:33
+Iteration 2 done
+
+
+FINAL RESULTS printer transfer belts rollers  units :
+Training Accuracy:0.9898(0.0020)
+Test Accuracy:0.9065(0.0249)
+Testing F1:0.7553(0.0842)
+
+Best Classifier for printer transfer belts rollers  units : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+printer transfer belts rollers  units   SUCCESS!!!!!!!
+

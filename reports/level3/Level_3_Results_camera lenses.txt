@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:08:02
+Iteration 0 done
+Iteration no 1 @ 05:08:03
+Iteration 1 done
+Iteration no 2 @ 05:08:03
+Iteration 2 done
+
+
+FINAL RESULTS camera lenses :
+Training Accuracy:0.9638(0.0008)
+Test Accuracy:0.9607(0.0006)
+Testing F1:0.3113(0.0102)
+
+Best Classifier for camera lenses : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+camera lenses   SUCCESS!!!!!!!
+

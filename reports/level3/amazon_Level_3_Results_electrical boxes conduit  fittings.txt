@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:59:03
+Iteration 0 done
+Iteration no 1 @ 10:59:03
+Iteration 1 done
+Iteration no 2 @ 10:59:03
+Iteration 2 done
+
+
+FINAL RESULTS electrical boxes conduit  fittings :
+Training Accuracy:0.9791(0.0022)
+Test Accuracy:0.8687(0.0047)
+Testing F1:0.7718(0.0041)
+
+Best Classifier for electrical boxes conduit  fittings : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+electrical boxes conduit  fittings   SUCCESS!!!!!!!
+

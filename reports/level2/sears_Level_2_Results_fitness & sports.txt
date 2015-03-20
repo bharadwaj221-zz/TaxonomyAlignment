@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:27:36
+Iteration 0 done
+Iteration no 1 @ 15:27:38
+Iteration 1 done
+Iteration no 2 @ 15:27:40
+Iteration 2 done
+
+
+FINAL RESULTS fitness & sports :
+Training Accuracy:0.9762(0.0007)
+Test Accuracy:0.8676(0.0012)
+Testing F1:0.8285(0.0008)
+
+Best Classifier for fitness & sports : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fitness & sports   SUCCESS!!!!!!!
+

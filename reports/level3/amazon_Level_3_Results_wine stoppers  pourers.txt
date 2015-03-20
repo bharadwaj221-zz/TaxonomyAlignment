@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:00:54
+Iteration 0 done
+Iteration no 1 @ 11:00:54
+Iteration 1 done
+Iteration no 2 @ 11:00:54
+Iteration 2 done
+
+
+FINAL RESULTS wine stoppers  pourers :
+Training Accuracy:0.9632(0.0058)
+Test Accuracy:0.8015(0.0095)
+Testing F1:0.7860(0.0127)
+
+Best Classifier for wine stoppers  pourers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+wine stoppers  pourers   SUCCESS!!!!!!!
+

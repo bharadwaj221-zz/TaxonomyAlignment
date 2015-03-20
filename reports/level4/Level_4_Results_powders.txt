@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:13
+Iteration 0 done
+Iteration no 1 @ 05:38:13
+Iteration 1 done
+Iteration no 2 @ 05:38:13
+Iteration 2 done
+
+
+FINAL RESULTS powders :
+Training Accuracy:0.9598(0.0099)
+Test Accuracy:0.6353(0.0226)
+Testing F1:0.6391(0.0236)
+
+Best Classifier for powders : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+powders   SUCCESS!!!!!!!
+

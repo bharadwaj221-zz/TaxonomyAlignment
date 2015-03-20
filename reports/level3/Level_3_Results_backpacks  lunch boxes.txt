@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:24
+Iteration 0 done
+Iteration no 1 @ 04:59:24
+Iteration 1 done
+Iteration no 2 @ 04:59:24
+Iteration 2 done
+
+
+FINAL RESULTS backpacks  lunch boxes :
+Training Accuracy:0.9867(0.0035)
+Test Accuracy:0.9147(0.0023)
+Testing F1:0.6751(0.0145)
+
+Best Classifier for backpacks  lunch boxes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+backpacks  lunch boxes   SUCCESS!!!!!!!
+

@@ -1,0 +1,1 @@
+Only one label data for hub assemblies = [1]

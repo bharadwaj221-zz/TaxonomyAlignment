@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:31
+Iteration 0 done
+Iteration no 1 @ 10:36:31
+Iteration 1 done
+Iteration no 2 @ 10:36:31
+Iteration 2 done
+
+
+FINAL RESULTS ballpoint pens :
+Training Accuracy:0.9868(0.0109)
+Test Accuracy:0.8591(0.0271)
+Testing F1:0.8552(0.0288)
+
+Best Classifier for ballpoint pens : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+ballpoint pens   SUCCESS!!!!!!!
+

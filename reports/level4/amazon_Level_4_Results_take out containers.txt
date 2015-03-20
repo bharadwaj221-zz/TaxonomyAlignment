@@ -1,0 +1,1 @@
+Only one label data for take out containers = [1]

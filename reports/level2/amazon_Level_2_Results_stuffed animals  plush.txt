@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:22:18
+Iteration 0 done
+Iteration no 1 @ 10:22:19
+Iteration 1 done
+Iteration no 2 @ 10:22:20
+Iteration 2 done
+
+
+FINAL RESULTS stuffed animals  plush :
+Training Accuracy:0.9794(0.0008)
+Test Accuracy:0.9364(0.0026)
+Testing F1:0.9066(0.0030)
+
+Best Classifier for stuffed animals  plush : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+stuffed animals  plush   SUCCESS!!!!!!!
+

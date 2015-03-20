@@ -1,0 +1,23 @@
+Iteration no 0 @ 06:16:18
+Iteration 0 done
+Iteration no 1 @ 06:16:18
+Iteration 1 done
+Iteration no 2 @ 06:16:19
+Iteration 2 done
+Iteration no 3 @ 06:16:19
+Iteration 3 done
+Iteration no 4 @ 06:16:20
+Iteration 4 done
+
+
+FINAL RESULTS household essentials :
+Training Accuracy:0.970841889117
+Test Accuracy:0.880425880426
+Testing F1:0.858006131766
+
+Best Classifier for household essentials : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+household essentials   SUCCESS!!!!!!!
+

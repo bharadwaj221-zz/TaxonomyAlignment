@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:42
+Iteration 0 done
+Iteration no 1 @ 05:30:45
+Iteration 1 done
+Iteration no 2 @ 05:30:45
+Iteration 2 done
+
+
+FINAL RESULTS model kits :
+Training Accuracy:0.9972(0.0003)
+Test Accuracy:0.9476(0.0014)
+Testing F1:0.6127(0.0444)
+
+Best Classifier for model kits : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+model kits   SUCCESS!!!!!!!
+

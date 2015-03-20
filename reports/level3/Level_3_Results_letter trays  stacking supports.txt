@@ -1,0 +1,1 @@
+Only one label data for letter trays  stacking supports = [1]

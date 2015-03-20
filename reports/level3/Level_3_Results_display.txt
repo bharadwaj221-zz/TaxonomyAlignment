@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:08:11
+Iteration 0 done
+Iteration no 1 @ 05:08:11
+Iteration 1 done
+Iteration no 2 @ 05:08:11
+Iteration 2 done
+
+
+FINAL RESULTS display :
+Training Accuracy:0.9957(0.0013)
+Test Accuracy:0.9556(0.0020)
+Testing F1:0.7187(0.0289)
+
+Best Classifier for display : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+display   SUCCESS!!!!!!!
+

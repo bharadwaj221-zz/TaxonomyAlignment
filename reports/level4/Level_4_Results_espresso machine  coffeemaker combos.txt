@@ -1,0 +1,1 @@
+Only one label data for espresso machine  coffeemaker combos = [1]

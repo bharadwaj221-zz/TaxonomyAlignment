@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:39
+Iteration 0 done
+Iteration no 1 @ 11:23:39
+Iteration 1 done
+Iteration no 2 @ 11:23:39
+Iteration 2 done
+
+
+FINAL RESULTS tomtoms :
+Training Accuracy:0.9943(0.0081)
+Test Accuracy:0.8866(0.0141)
+Testing F1:0.8314(0.0281)
+
+Best Classifier for tomtoms : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tomtoms   SUCCESS!!!!!!!
+

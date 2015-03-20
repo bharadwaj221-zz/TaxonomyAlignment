@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:03:30
+Iteration 0 done
+Iteration no 1 @ 05:03:31
+Iteration 1 done
+Iteration no 2 @ 05:03:31
+Iteration 2 done
+
+
+FINAL RESULTS bridal sets :
+Training Accuracy:0.9967(0.0009)
+Test Accuracy:0.9908(0.0024)
+Testing F1:0.9303(0.0182)
+
+Best Classifier for bridal sets : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bridal sets   SUCCESS!!!!!!!
+

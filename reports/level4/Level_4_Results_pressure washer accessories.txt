@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:54
+Iteration 0 done
+Iteration no 1 @ 05:30:55
+Iteration 1 done
+Iteration no 2 @ 05:30:55
+Iteration 2 done
+
+
+FINAL RESULTS pressure washer accessories :
+Training Accuracy:0.9900(0.0057)
+Test Accuracy:0.8849(0.0105)
+Testing F1:0.8055(0.0249)
+
+Best Classifier for pressure washer accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pressure washer accessories   SUCCESS!!!!!!!
+

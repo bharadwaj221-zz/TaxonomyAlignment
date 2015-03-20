@@ -1,0 +1,1 @@
+Only one label data for usb cables = [1]

@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:38:39
+Iteration 0 done
+Iteration no 1 @ 15:38:41
+Iteration 1 done
+Iteration no 2 @ 15:38:44
+Iteration 2 done
+
+
+FINAL RESULTS computers & laptops :
+Training Accuracy:0.9749(0.0009)
+Test Accuracy:0.9111(0.0031)
+Testing F1:0.8279(0.0051)
+
+Best Classifier for computers & laptops : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+computers & laptops   SUCCESS!!!!!!!
+

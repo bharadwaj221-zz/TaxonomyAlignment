@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:47:42
+Iteration 0 done
+Iteration no 1 @ 14:47:43
+Iteration 1 done
+Iteration no 2 @ 14:47:44
+Iteration 2 done
+Iteration no 3 @ 14:47:44
+Iteration 3 done
+Iteration no 4 @ 14:47:45
+Iteration 4 done
+
+
+FINAL RESULTS tailgating & outdoor :
+Training Accuracy:0.987366938657
+Test Accuracy:0.975314777999
+Testing F1:0.956410684782
+
+Best Classifier for tailgating & outdoor : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tailgating & outdoor   SUCCESS!!!!!!!
+

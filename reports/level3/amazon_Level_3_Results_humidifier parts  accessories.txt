@@ -1,0 +1,1 @@
+Only one label data for humidifier parts  accessories = [1]

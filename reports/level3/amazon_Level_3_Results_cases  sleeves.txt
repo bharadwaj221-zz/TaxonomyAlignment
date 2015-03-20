@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:51:09
+Iteration 0 done
+Iteration no 1 @ 10:51:16
+Iteration 1 done
+Iteration no 2 @ 10:51:23
+Iteration 2 done
+
+
+FINAL RESULTS cases  sleeves :
+Training Accuracy:0.8472(0.0011)
+Test Accuracy:0.8158(0.0035)
+Testing F1:0.5023(0.0144)
+
+Best Classifier for cases  sleeves : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cases  sleeves   SUCCESS!!!!!!!
+

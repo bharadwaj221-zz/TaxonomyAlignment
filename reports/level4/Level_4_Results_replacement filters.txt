@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:47
+Iteration 0 done
+Iteration no 1 @ 05:31:47
+Iteration 1 done
+Iteration no 2 @ 05:31:47
+Iteration 2 done
+
+
+FINAL RESULTS replacement filters :
+Training Accuracy:0.9894(0.0052)
+Test Accuracy:0.9080(0.0173)
+Testing F1:0.8422(0.0262)
+
+Best Classifier for replacement filters : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+replacement filters   SUCCESS!!!!!!!
+

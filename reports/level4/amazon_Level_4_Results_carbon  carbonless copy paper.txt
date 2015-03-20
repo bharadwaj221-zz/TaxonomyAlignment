@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:14:07
+Iteration 0 done
+Iteration no 1 @ 11:14:07
+Iteration 1 done
+Iteration no 2 @ 11:14:07
+Iteration 2 done
+
+
+FINAL RESULTS carbon  carbonless copy paper :
+Training Accuracy:0.9977(0.0016)
+Test Accuracy:0.9535(0.0258)
+Testing F1:0.9171(0.0456)
+
+Best Classifier for carbon  carbonless copy paper : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+carbon  carbonless copy paper   SUCCESS!!!!!!!
+

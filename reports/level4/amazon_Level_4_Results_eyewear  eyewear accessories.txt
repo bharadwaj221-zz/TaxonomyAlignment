@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:36
+Iteration 0 done
+Iteration no 1 @ 11:12:36
+Iteration 1 done
+Iteration no 2 @ 11:12:37
+Iteration 2 done
+
+
+FINAL RESULTS eyewear  eyewear accessories :
+Training Accuracy:0.9848(0.0010)
+Test Accuracy:0.9656(0.0014)
+Testing F1:0.9307(0.0046)
+
+Best Classifier for eyewear  eyewear accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+eyewear  eyewear accessories   SUCCESS!!!!!!!
+

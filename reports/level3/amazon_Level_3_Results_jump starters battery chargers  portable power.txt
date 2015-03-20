@@ -1,0 +1,19 @@
+Iteration no 0 @ 18:07:32
+Iteration 0 done
+Iteration no 1 @ 18:07:32
+Iteration 1 done
+Iteration no 2 @ 18:07:33
+Iteration 2 done
+
+
+FINAL RESULTS jump starters battery chargers  portable power :
+Training Accuracy:0.9427(0.0018)
+Test Accuracy:0.7449(0.0121)
+Testing F1:0.5255(0.0337)
+
+Best Classifier for jump starters battery chargers  portable power : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+jump starters battery chargers  portable power   SUCCESS!!!!!!!
+

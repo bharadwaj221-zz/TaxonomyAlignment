@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:34
+Iteration 0 done
+Iteration no 1 @ 10:36:35
+Iteration 1 done
+Iteration no 2 @ 10:36:35
+Iteration 2 done
+
+
+FINAL RESULTS specialty candles :
+Training Accuracy:0.9894(0.0021)
+Test Accuracy:0.8704(0.0127)
+Testing F1:0.7703(0.0074)
+
+Best Classifier for specialty candles : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+specialty candles   SUCCESS!!!!!!!
+

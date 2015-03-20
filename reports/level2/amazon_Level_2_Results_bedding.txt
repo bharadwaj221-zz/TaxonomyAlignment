@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:34:09
+Iteration 0 done
+Iteration no 1 @ 15:34:10
+Iteration 1 done
+Iteration no 2 @ 15:34:10
+Iteration 2 done
+
+
+FINAL RESULTS bedding :
+Training Accuracy:0.9826(0.0013)
+Test Accuracy:0.9587(0.0033)
+Testing F1:0.9587(0.0033)
+
+Best Classifier for bedding : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bedding   SUCCESS!!!!!!!
+

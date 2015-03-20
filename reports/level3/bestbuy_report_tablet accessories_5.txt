@@ -1,0 +1,6 @@
+             precision    recall  f1-score   support
+
+          1       0.99      0.99      0.99       655
+          2       0.95      0.97      0.96       149
+
+avg / total       0.99      0.99      0.99       804

@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:03:50
+Iteration 0 done
+Iteration no 1 @ 05:03:51
+Iteration 1 done
+Iteration no 2 @ 05:03:52
+Iteration 2 done
+
+
+FINAL RESULTS car electronics accessories :
+Training Accuracy:0.8516(0.0034)
+Test Accuracy:0.7063(0.0057)
+Testing F1:0.6678(0.0183)
+
+Best Classifier for car electronics accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+car electronics accessories   SUCCESS!!!!!!!
+

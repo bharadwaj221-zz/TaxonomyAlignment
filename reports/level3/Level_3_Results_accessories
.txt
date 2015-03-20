@@ -1,0 +1,2 @@
+Only one label data for accessories
+ = []

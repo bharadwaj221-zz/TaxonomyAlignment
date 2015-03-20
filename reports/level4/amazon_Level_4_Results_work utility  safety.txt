@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:13:54
+Iteration 0 done
+Iteration no 1 @ 11:13:56
+Iteration 1 done
+Iteration no 2 @ 11:13:57
+Iteration 2 done
+
+
+FINAL RESULTS work utility  safety :
+Training Accuracy:0.9111(0.0005)
+Test Accuracy:0.8822(0.0035)
+Testing F1:0.5938(0.0040)
+
+Best Classifier for work utility  safety : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+work utility  safety   SUCCESS!!!!!!!
+

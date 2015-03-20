@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:45
+Iteration 0 done
+Iteration no 1 @ 05:38:45
+Iteration 1 done
+Iteration no 2 @ 05:38:45
+Iteration 2 done
+
+
+FINAL RESULTS bathroom storage  mirrors :
+Training Accuracy:0.9982(0.0017)
+Test Accuracy:0.9725(0.0025)
+Testing F1:0.7026(0.0432)
+
+Best Classifier for bathroom storage  mirrors : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bathroom storage  mirrors   SUCCESS!!!!!!!
+

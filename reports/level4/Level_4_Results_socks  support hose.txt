@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:30:41
+Iteration 0 done
+Iteration no 1 @ 05:30:43
+Iteration 1 done
+Iteration no 2 @ 05:30:43
+Iteration 2 done
+
+
+FINAL RESULTS socks  support hose :
+Training Accuracy:0.9984(0.0022)
+Test Accuracy:0.9317(0.0125)
+Testing F1:0.8286(0.0285)
+
+Best Classifier for socks  support hose : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+socks  support hose   SUCCESS!!!!!!!
+

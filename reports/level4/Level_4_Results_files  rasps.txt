@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:53
+Iteration 0 done
+Iteration no 1 @ 05:38:53
+Iteration 1 done
+Iteration no 2 @ 05:38:53
+Iteration 2 done
+
+
+FINAL RESULTS files  rasps :
+Training Accuracy:0.9846(0.0046)
+Test Accuracy:0.9112(0.0136)
+Testing F1:0.8647(0.0258)
+
+Best Classifier for files  rasps : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+files  rasps   SUCCESS!!!!!!!
+

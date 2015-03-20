@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:06:58
+Iteration 0 done
+Iteration no 1 @ 05:07:00
+Iteration 1 done
+Iteration no 2 @ 05:07:02
+Iteration 2 done
+
+
+FINAL RESULTS guitar  bass accessories :
+Training Accuracy:0.9407(0.0014)
+Test Accuracy:0.9067(0.0009)
+Testing F1:0.9004(0.0038)
+
+Best Classifier for guitar  bass accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+guitar  bass accessories   SUCCESS!!!!!!!
+

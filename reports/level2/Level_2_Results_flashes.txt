@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:26:34
+Iteration 0 done
+Iteration no 1 @ 17:26:34
+Iteration 1 done
+Iteration no 2 @ 17:26:34
+Iteration 2 done
+
+
+FINAL RESULTS flashes :
+Training Accuracy:0.8924(0.0084)
+Test Accuracy:0.6874(0.0185)
+Testing F1:0.6458(0.0448)
+
+Best Classifier for flashes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+flashes   SUCCESS!!!!!!!
+

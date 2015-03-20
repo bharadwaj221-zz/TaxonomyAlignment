@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:38:27
+Iteration 0 done
+Iteration no 1 @ 05:38:27
+Iteration 1 done
+Iteration no 2 @ 05:38:27
+Iteration 2 done
+
+
+FINAL RESULTS choppers  mincers :
+Training Accuracy:0.9689(0.0035)
+Test Accuracy:0.6541(0.0452)
+Testing F1:0.6521(0.0263)
+
+Best Classifier for choppers  mincers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+choppers  mincers   SUCCESS!!!!!!!
+

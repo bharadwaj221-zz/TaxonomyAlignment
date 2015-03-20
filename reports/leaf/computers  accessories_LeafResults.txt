@@ -1,0 +1,15 @@
+Iteration no 0 @ 15:40:21
+Iteration 0 done
+Iteration no 1 @ 16:44:08
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.8216(0.0007)
+Test Accuracy:0.7279(0.0003)
+Testing F1:0.7131(0.0000)
+
+Best Classifier for computers  accessories : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)computers  accessories   SUCCESS!!!!!!!
+

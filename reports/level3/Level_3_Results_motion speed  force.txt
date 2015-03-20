@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:00:28
+Iteration 0 done
+Iteration no 1 @ 05:00:28
+Iteration 1 done
+Iteration no 2 @ 05:00:28
+Iteration 2 done
+
+
+FINAL RESULTS motion speed  force :
+Training Accuracy:0.9808(0.0034)
+Test Accuracy:0.7451(0.0257)
+Testing F1:0.6794(0.0172)
+
+Best Classifier for motion speed  force : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+motion speed  force   SUCCESS!!!!!!!
+

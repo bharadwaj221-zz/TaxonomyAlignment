@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:15
+Iteration 0 done
+Iteration no 1 @ 05:05:15
+Iteration 1 done
+Iteration no 2 @ 05:05:15
+Iteration 2 done
+
+
+FINAL RESULTS adhesive tapes :
+Training Accuracy:0.9880(0.0039)
+Test Accuracy:0.8428(0.0258)
+Testing F1:0.7579(0.0299)
+
+Best Classifier for adhesive tapes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+adhesive tapes   SUCCESS!!!!!!!
+

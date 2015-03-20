@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:26:00
+Iteration 0 done
+Iteration no 1 @ 17:26:00
+Iteration 1 done
+Iteration no 2 @ 17:26:00
+Iteration 2 done
+
+
+FINAL RESULTS wall ovens :
+Training Accuracy:0.9387(0.0085)
+Test Accuracy:0.7851(0.0268)
+Testing F1:0.7446(0.0393)
+
+Best Classifier for wall ovens : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+wall ovens   SUCCESS!!!!!!!
+

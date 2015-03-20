@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:15:40
+Iteration 0 done
+Iteration no 1 @ 14:15:40
+Iteration 1 done
+Iteration no 2 @ 14:15:41
+Iteration 2 done
+Iteration no 3 @ 14:15:41
+Iteration 3 done
+Iteration no 4 @ 14:15:41
+Iteration 4 done
+
+
+FINAL RESULTS car audio :
+Training Accuracy:0.986303744799
+Test Accuracy:0.98613998614
+Testing F1:0.986964965446
+
+Best Classifier for car audio : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+car audio   SUCCESS!!!!!!!
+

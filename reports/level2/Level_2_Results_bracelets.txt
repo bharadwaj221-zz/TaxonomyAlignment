@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:29:43
+Iteration 0 done
+Iteration no 1 @ 17:30:00
+Iteration 1 done
+Iteration no 2 @ 17:30:17
+Iteration 2 done
+
+
+FINAL RESULTS bracelets :
+Training Accuracy:0.8461(0.0002)
+Test Accuracy:0.8167(0.0005)
+Testing F1:0.7112(0.0026)
+
+Best Classifier for bracelets : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bracelets   SUCCESS!!!!!!!
+

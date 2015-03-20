@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:22:03
+Iteration 0 done
+Iteration no 1 @ 17:35:21
+Iteration 1 done
+Iteration no 2 @ 17:44:53
+Iteration 2 done
+
+
+FINAL RESULTS women :
+Training Accuracy:0.8926(0.0001)
+Test Accuracy:0.8772(0.0002)
+Testing F1:0.6299(0.0026)
+
+Best Classifier for women : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+women   SUCCESS!!!!!!!
+

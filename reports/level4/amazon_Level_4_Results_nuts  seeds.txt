@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:12
+Iteration 0 done
+Iteration no 1 @ 11:12:13
+Iteration 1 done
+Iteration no 2 @ 11:12:13
+Iteration 2 done
+
+
+FINAL RESULTS nuts  seeds :
+Training Accuracy:0.9540(0.0047)
+Test Accuracy:0.8459(0.0160)
+Testing F1:0.8424(0.0182)
+
+Best Classifier for nuts  seeds : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+nuts  seeds   SUCCESS!!!!!!!
+

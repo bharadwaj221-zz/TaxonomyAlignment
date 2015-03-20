@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:07:53
+Iteration 0 done
+Iteration no 1 @ 05:07:53
+Iteration 1 done
+Iteration no 2 @ 05:07:53
+Iteration 2 done
+
+
+FINAL RESULTS fiber optic products :
+Training Accuracy:0.9992(0.0012)
+Test Accuracy:0.9544(0.0128)
+Testing F1:0.9529(0.0131)
+
+Best Classifier for fiber optic products : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fiber optic products   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:15:52
+Iteration 0 done
+Iteration no 1 @ 11:15:52
+Iteration 1 done
+Iteration no 2 @ 11:15:52
+Iteration 2 done
+
+
+FINAL RESULTS nasal sprays  drops :
+Training Accuracy:0.9761(0.0069)
+Test Accuracy:0.8378(0.0491)
+Testing F1:0.8056(0.0628)
+
+Best Classifier for nasal sprays  drops : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+nasal sprays  drops   SUCCESS!!!!!!!
+

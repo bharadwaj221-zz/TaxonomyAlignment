@@ -1,0 +1,25 @@
+Iteration no 0 @ 15:35:45
+Iteration 0 done
+Iteration no 1 @ 15:35:45
+Iteration 1 done
+Iteration no 2 @ 15:35:45
+Iteration 2 done
+Iteration no 0 @ 15:35:46
+Iteration 0 done
+Iteration no 1 @ 15:35:46
+Iteration 1 done
+Iteration no 2 @ 15:35:46
+Iteration 2 done
+
+
+FINAL RESULTS televisions :
+Training Accuracy:0.998500187477
+Test Accuracy:0.590022505626
+Testing F1:0.448927191218
+
+Best Classifier for televisions : 
+LinearSVC(C=10, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+televisions   SUCCESS!!!!!!!
+

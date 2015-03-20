@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:49:31
+Iteration 0 done
+Iteration no 1 @ 13:51:14
+Iteration 1 done
+Iteration no 2 @ 13:52:57
+Iteration 2 done
+
+
+FINAL RESULTS  :
+Training Accuracy:0.9029(0.0005)
+Test Accuracy:0.8423(0.0004)
+Testing F1:0.7473(0.0004)
+
+Best Classifier for  : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+   SUCCESS!!!!!!!
+

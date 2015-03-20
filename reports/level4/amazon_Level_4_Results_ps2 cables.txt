@@ -1,0 +1,1 @@
+Only one label data for ps2 cables = [1]

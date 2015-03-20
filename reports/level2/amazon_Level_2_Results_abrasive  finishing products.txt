@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:16:20
+Iteration 0 done
+Iteration no 1 @ 10:16:20
+Iteration 1 done
+Iteration no 2 @ 10:16:21
+Iteration 2 done
+
+
+FINAL RESULTS abrasive  finishing products :
+Training Accuracy:0.9736(0.0015)
+Test Accuracy:0.8400(0.0176)
+Testing F1:0.8015(0.0227)
+
+Best Classifier for abrasive  finishing products : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+abrasive  finishing products   SUCCESS!!!!!!!
+

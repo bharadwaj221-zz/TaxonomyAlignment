@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:21:26
+Iteration 0 done
+Iteration no 1 @ 17:21:39
+Iteration 1 done
+Iteration no 2 @ 17:21:45
+Iteration 2 done
+
+
+FINAL RESULTS oils  fluids :
+Training Accuracy:0.9990(0.0001)
+Test Accuracy:0.9940(0.0003)
+Testing F1:0.8314(0.0095)
+
+Best Classifier for oils  fluids : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+oils  fluids   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:52:55
+Iteration 0 done
+Iteration no 1 @ 10:52:55
+Iteration 1 done
+Iteration no 2 @ 10:52:56
+Iteration 2 done
+
+
+FINAL RESULTS bibs :
+Training Accuracy:0.9578(0.0141)
+Test Accuracy:0.8701(0.0354)
+Testing F1:0.8221(0.0444)
+
+Best Classifier for bibs : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bibs   SUCCESS!!!!!!!
+

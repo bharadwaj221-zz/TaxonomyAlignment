@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:33
+Iteration 0 done
+Iteration no 1 @ 04:59:34
+Iteration 1 done
+Iteration no 2 @ 04:59:35
+Iteration 2 done
+
+
+FINAL RESULTS pencils :
+Training Accuracy:0.9737(0.0017)
+Test Accuracy:0.9422(0.0041)
+Testing F1:0.9298(0.0051)
+
+Best Classifier for pencils : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pencils   SUCCESS!!!!!!!
+

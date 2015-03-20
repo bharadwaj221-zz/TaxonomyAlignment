@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:42
+Iteration 0 done
+Iteration no 1 @ 05:39:42
+Iteration 1 done
+Iteration no 2 @ 05:39:42
+Iteration 2 done
+
+
+FINAL RESULTS dvd drives :
+Training Accuracy:0.9877(0.0057)
+Test Accuracy:0.9723(0.0132)
+Testing F1:0.7290(0.1712)
+
+Best Classifier for dvd drives : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+dvd drives   SUCCESS!!!!!!!
+

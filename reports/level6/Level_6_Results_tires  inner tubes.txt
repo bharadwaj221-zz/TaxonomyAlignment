@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:52:56
+Iteration 0 done
+Iteration no 1 @ 10:52:56
+Iteration 1 done
+Iteration no 2 @ 10:52:56
+Iteration 2 done
+
+
+FINAL RESULTS tires  inner tubes :
+Training Accuracy:0.9888(0.0002)
+Test Accuracy:0.9831(0.0015)
+Testing F1:0.7792(0.0176)
+
+Best Classifier for tires  inner tubes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tires  inner tubes   SUCCESS!!!!!!!
+

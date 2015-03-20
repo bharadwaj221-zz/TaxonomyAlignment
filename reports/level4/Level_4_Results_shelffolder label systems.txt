@@ -1,0 +1,1 @@
+Only one label data for shelffolder label systems = [1]

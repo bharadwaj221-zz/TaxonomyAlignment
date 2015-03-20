@@ -1,0 +1,15 @@
+Iteration no 0 @ 02:52:22
+Iteration 0 done
+Iteration no 1 @ 02:57:56
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.9344(0.0002)
+Test Accuracy:0.7677(0.0009)
+Testing F1:0.7644(0.0007)
+
+Best Classifier for patio lawn  garden : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)patio lawn  garden   SUCCESS!!!!!!!
+

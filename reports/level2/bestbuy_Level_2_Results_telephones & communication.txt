@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:15:41
+Iteration 0 done
+Iteration no 1 @ 14:15:41
+Iteration 1 done
+Iteration no 2 @ 14:15:41
+Iteration 2 done
+Iteration no 3 @ 14:15:42
+Iteration 3 done
+Iteration no 4 @ 14:15:42
+Iteration 4 done
+
+
+FINAL RESULTS telephones & communication :
+Training Accuracy:0.979020979021
+Test Accuracy:0.97027972028
+Testing F1:0.962589444108
+
+Best Classifier for telephones & communication : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+telephones & communication   SUCCESS!!!!!!!
+

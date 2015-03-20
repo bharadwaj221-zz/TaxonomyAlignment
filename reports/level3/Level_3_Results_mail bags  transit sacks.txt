@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:03:15
+Iteration 0 done
+Iteration no 1 @ 05:03:15
+Iteration 1 done
+Iteration no 2 @ 05:03:15
+Iteration 2 done
+
+
+FINAL RESULTS mail bags  transit sacks :
+Training Accuracy:0.9715(0.0070)
+Test Accuracy:0.9158(0.0138)
+Testing F1:0.8781(0.0199)
+
+Best Classifier for mail bags  transit sacks : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+mail bags  transit sacks   SUCCESS!!!!!!!
+

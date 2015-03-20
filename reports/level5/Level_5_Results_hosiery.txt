@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:24
+Iteration 0 done
+Iteration no 1 @ 10:36:24
+Iteration 1 done
+Iteration no 2 @ 10:36:24
+Iteration 2 done
+
+
+FINAL RESULTS hosiery :
+Training Accuracy:0.9493(0.0178)
+Test Accuracy:0.7285(0.0163)
+Testing F1:0.7270(0.0159)
+
+Best Classifier for hosiery : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+hosiery   SUCCESS!!!!!!!
+

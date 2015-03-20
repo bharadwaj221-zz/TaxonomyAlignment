@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:23:47
+Iteration 0 done
+Iteration no 1 @ 11:23:47
+Iteration 1 done
+Iteration no 2 @ 11:23:48
+Iteration 2 done
+
+
+FINAL RESULTS boy shorts :
+Training Accuracy:0.9815(0.0026)
+Test Accuracy:0.9609(0.0077)
+Testing F1:0.7093(0.0865)
+
+Best Classifier for boy shorts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+boy shorts   SUCCESS!!!!!!!
+

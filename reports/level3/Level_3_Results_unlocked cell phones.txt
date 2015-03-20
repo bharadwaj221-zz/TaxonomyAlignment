@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:05:30
+Iteration 0 done
+Iteration no 1 @ 05:05:30
+Iteration 1 done
+Iteration no 2 @ 05:05:30
+Iteration 2 done
+
+
+FINAL RESULTS unlocked cell phones :
+Training Accuracy:0.9228(0.0113)
+Test Accuracy:0.7909(0.0174)
+Testing F1:0.6409(0.0245)
+
+Best Classifier for unlocked cell phones : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+unlocked cell phones   SUCCESS!!!!!!!
+

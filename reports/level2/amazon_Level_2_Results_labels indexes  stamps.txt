@@ -1,0 +1,19 @@
+Iteration no 0 @ 18:06:00
+Iteration 0 done
+Iteration no 1 @ 18:06:04
+Iteration 1 done
+Iteration no 2 @ 18:06:08
+Iteration 2 done
+
+
+FINAL RESULTS labels indexes  stamps :
+Training Accuracy:0.9828(0.0003)
+Test Accuracy:0.9662(0.0004)
+Testing F1:0.8887(0.0053)
+
+Best Classifier for labels indexes  stamps : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+labels indexes  stamps   SUCCESS!!!!!!!
+

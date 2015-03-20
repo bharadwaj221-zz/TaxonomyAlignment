@@ -1,0 +1,1 @@
+Only one label data for power tool accessories = [2]

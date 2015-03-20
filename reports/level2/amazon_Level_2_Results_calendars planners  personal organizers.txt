@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:16:46
+Iteration 0 done
+Iteration no 1 @ 10:16:47
+Iteration 1 done
+Iteration no 2 @ 10:16:48
+Iteration 2 done
+
+
+FINAL RESULTS calendars planners  personal organizers :
+Training Accuracy:0.9737(0.0019)
+Test Accuracy:0.9329(0.0030)
+Testing F1:0.8862(0.0058)
+
+Best Classifier for calendars planners  personal organizers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+calendars planners  personal organizers   SUCCESS!!!!!!!
+

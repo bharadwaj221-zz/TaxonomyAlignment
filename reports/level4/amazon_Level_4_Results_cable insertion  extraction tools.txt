@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:14
+Iteration 0 done
+Iteration no 1 @ 11:12:14
+Iteration 1 done
+Iteration no 2 @ 11:12:14
+Iteration 2 done
+
+
+FINAL RESULTS cable insertion  extraction tools :
+Training Accuracy:0.9987(0.0019)
+Test Accuracy:0.9624(0.0076)
+Testing F1:0.9467(0.0044)
+
+Best Classifier for cable insertion  extraction tools : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cable insertion  extraction tools   SUCCESS!!!!!!!
+

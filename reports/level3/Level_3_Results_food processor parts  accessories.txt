@@ -1,0 +1,1 @@
+Only one label data for food processor parts  accessories = [1]

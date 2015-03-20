@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:35:18
+Iteration 0 done
+Iteration no 1 @ 15:35:18
+Iteration 1 done
+Iteration no 2 @ 15:35:18
+Iteration 2 done
+
+
+FINAL RESULTS cycling :
+Training Accuracy:0.9800(0.0015)
+Test Accuracy:0.9626(0.0025)
+Testing F1:0.9562(0.0028)
+
+Best Classifier for cycling : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cycling   SUCCESS!!!!!!!
+

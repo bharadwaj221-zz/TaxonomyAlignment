@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:52:51
+Iteration 0 done
+Iteration no 1 @ 10:52:51
+Iteration 1 done
+Iteration no 2 @ 10:52:54
+Iteration 2 done
+
+
+FINAL RESULTS leotards :
+Training Accuracy:0.9333(0.0030)
+Test Accuracy:0.7886(0.0367)
+Testing F1:0.7643(0.0390)
+
+Best Classifier for leotards : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+leotards   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:25
+Iteration 0 done
+Iteration no 1 @ 04:59:25
+Iteration 1 done
+Iteration no 2 @ 04:59:34
+Iteration 2 done
+
+
+FINAL RESULTS basketball :
+Training Accuracy:0.9615(0.0004)
+Test Accuracy:0.9150(0.0022)
+Testing F1:0.7608(0.0041)
+
+Best Classifier for basketball : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+basketball   SUCCESS!!!!!!!
+

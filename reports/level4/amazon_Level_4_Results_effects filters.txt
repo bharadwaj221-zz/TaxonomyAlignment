@@ -1,0 +1,1 @@
+Only one label data for effects filters = [1]

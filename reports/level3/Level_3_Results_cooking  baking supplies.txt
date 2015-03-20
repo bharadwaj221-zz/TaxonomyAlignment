@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:10:43
+Iteration 0 done
+Iteration no 1 @ 05:10:46
+Iteration 1 done
+Iteration no 2 @ 05:10:49
+Iteration 2 done
+
+
+FINAL RESULTS cooking  baking supplies :
+Training Accuracy:0.9761(0.0005)
+Test Accuracy:0.9390(0.0018)
+Testing F1:0.8265(0.0055)
+
+Best Classifier for cooking  baking supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cooking  baking supplies   SUCCESS!!!!!!!
+

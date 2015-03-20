@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:01:25
+Iteration 0 done
+Iteration no 1 @ 05:01:26
+Iteration 1 done
+Iteration no 2 @ 05:01:26
+Iteration 2 done
+
+
+FINAL RESULTS coffee  espresso machine parts  accessories :
+Training Accuracy:0.9899(0.0013)
+Test Accuracy:0.9245(0.0009)
+Testing F1:0.6690(0.0095)
+
+Best Classifier for coffee  espresso machine parts  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+coffee  espresso machine parts  accessories   SUCCESS!!!!!!!
+

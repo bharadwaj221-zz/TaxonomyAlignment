@@ -1,0 +1,15 @@
+Iteration no 0 @ 18:15:20
+Iteration 0 done
+Iteration no 1 @ 18:17:55
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.8751(0.0008)
+Test Accuracy:0.7602(0.0007)
+Testing F1:0.7520(0.0009)
+
+Best Classifier for camera  photo : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)camera  photo   SUCCESS!!!!!!!
+

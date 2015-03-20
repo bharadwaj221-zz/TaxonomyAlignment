@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:32:42
+Iteration 0 done
+Iteration no 1 @ 15:32:43
+Iteration 1 done
+Iteration no 2 @ 15:32:43
+Iteration 2 done
+
+
+FINAL RESULTS industrial & scientific :
+Training Accuracy:0.9985(0.0001)
+Test Accuracy:0.9700(0.0017)
+Testing F1:0.9685(0.0018)
+
+Best Classifier for industrial & scientific : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+industrial & scientific   SUCCESS!!!!!!!
+

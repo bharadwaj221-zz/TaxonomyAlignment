@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:14:34
+Iteration 0 done
+Iteration no 1 @ 11:14:34
+Iteration 1 done
+Iteration no 2 @ 11:14:34
+Iteration 2 done
+
+
+FINAL RESULTS heating  cooling equipment :
+Training Accuracy:0.9967(0.0009)
+Test Accuracy:0.7619(0.0339)
+Testing F1:0.6192(0.0508)
+
+Best Classifier for heating  cooling equipment : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+heating  cooling equipment   SUCCESS!!!!!!!
+

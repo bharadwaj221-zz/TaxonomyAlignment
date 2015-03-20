@@ -1,0 +1,19 @@
+Iteration no 0 @ 15:54:58
+Iteration 0 done
+Iteration no 1 @ 15:55:00
+Iteration 1 done
+Iteration no 2 @ 15:55:01
+Iteration 2 done
+
+
+FINAL RESULTS motorcycle parts :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9998(0.0001)
+Testing F1:0.9989(0.0006)
+
+Best Classifier for motorcycle parts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+motorcycle parts   SUCCESS!!!!!!!
+

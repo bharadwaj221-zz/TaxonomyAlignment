@@ -1,0 +1,1 @@
+Only one label data for boxed knife sets = [1]

@@ -1,0 +1,15 @@
+Iteration no 0 @ 19:49:23
+Iteration 0 done
+Iteration no 1 @ 20:18:34
+Iteration 1 done
+
+FINAL RESULTS:
+Training Accuracy:0.7773(0.0005)
+Test Accuracy:0.6142(0.0003)
+Testing F1:0.6010(0.0004)
+
+Best Classifier for beauty : 
+LinearSVC(C=100, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss=l2, multi_class=ovr, penalty=l2,
+     random_state=None, tol=0.0001, verbose=0)beauty   SUCCESS!!!!!!!
+

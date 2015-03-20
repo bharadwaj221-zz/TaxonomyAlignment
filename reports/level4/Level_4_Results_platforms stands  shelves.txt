@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:23
+Iteration 0 done
+Iteration no 1 @ 05:31:23
+Iteration 1 done
+Iteration no 2 @ 05:31:23
+Iteration 2 done
+
+
+FINAL RESULTS platforms stands  shelves :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.7928(0.0531)
+Testing F1:0.7713(0.0695)
+
+Best Classifier for platforms stands  shelves : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+platforms stands  shelves   SUCCESS!!!!!!!
+

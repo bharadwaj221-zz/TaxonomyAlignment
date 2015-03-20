@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:26
+Iteration 0 done
+Iteration no 1 @ 05:39:27
+Iteration 1 done
+Iteration no 2 @ 05:39:27
+Iteration 2 done
+
+
+FINAL RESULTS tableware :
+Training Accuracy:0.9859(0.0009)
+Test Accuracy:0.9521(0.0038)
+Testing F1:0.9422(0.0029)
+
+Best Classifier for tableware : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+tableware   SUCCESS!!!!!!!
+

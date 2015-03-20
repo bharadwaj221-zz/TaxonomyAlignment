@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:07:24
+Iteration 0 done
+Iteration no 1 @ 05:07:26
+Iteration 1 done
+Iteration no 2 @ 05:07:29
+Iteration 2 done
+
+
+FINAL RESULTS costumes  accessories :
+Training Accuracy:0.9810(0.0002)
+Test Accuracy:0.9585(0.0020)
+Testing F1:0.5546(0.0304)
+
+Best Classifier for costumes  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+costumes  accessories   SUCCESS!!!!!!!
+

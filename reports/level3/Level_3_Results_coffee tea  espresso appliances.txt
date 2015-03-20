@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:10:56
+Iteration 0 done
+Iteration no 1 @ 05:10:57
+Iteration 1 done
+Iteration no 2 @ 05:10:57
+Iteration 2 done
+
+
+FINAL RESULTS coffee tea  espresso appliances :
+Training Accuracy:0.9091(0.0022)
+Test Accuracy:0.5631(0.0064)
+Testing F1:0.5053(0.0097)
+
+Best Classifier for coffee tea  espresso appliances : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+coffee tea  espresso appliances   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:44
+Iteration 0 done
+Iteration no 1 @ 04:59:46
+Iteration 1 done
+Iteration no 2 @ 04:59:47
+Iteration 2 done
+
+
+FINAL RESULTS chargers :
+Training Accuracy:0.9589(0.0006)
+Test Accuracy:0.9257(0.0009)
+Testing F1:0.6763(0.0257)
+
+Best Classifier for chargers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+chargers   SUCCESS!!!!!!!
+

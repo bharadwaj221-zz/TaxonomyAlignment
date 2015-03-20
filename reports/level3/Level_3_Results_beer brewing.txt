@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:57
+Iteration 0 done
+Iteration no 1 @ 04:59:57
+Iteration 1 done
+Iteration no 2 @ 04:59:58
+Iteration 2 done
+
+
+FINAL RESULTS beer brewing :
+Training Accuracy:0.9837(0.0012)
+Test Accuracy:0.8763(0.0011)
+Testing F1:0.6441(0.0286)
+
+Best Classifier for beer brewing : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+beer brewing   SUCCESS!!!!!!!
+

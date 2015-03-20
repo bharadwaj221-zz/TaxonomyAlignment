@@ -1,0 +1,19 @@
+Iteration no 0 @ 16:54:17
+Iteration 0 done
+Iteration no 1 @ 16:54:23
+Iteration 1 done
+Iteration no 2 @ 16:54:29
+Iteration 2 done
+
+
+FINAL RESULTS exercise  fitness :
+Training Accuracy:0.9465(0.0000)
+Test Accuracy:0.9023(0.0016)
+Testing F1:0.7104(0.0118)
+
+Best Classifier for exercise  fitness : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+exercise  fitness   SUCCESS!!!!!!!
+

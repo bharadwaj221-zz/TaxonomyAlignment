@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:26:11
+Iteration 0 done
+Iteration no 1 @ 17:26:13
+Iteration 1 done
+Iteration no 2 @ 17:26:15
+Iteration 2 done
+
+
+FINAL RESULTS paintball  airsoft :
+Training Accuracy:0.9901(0.0003)
+Test Accuracy:0.9765(0.0010)
+Testing F1:0.9738(0.0011)
+
+Best Classifier for paintball  airsoft : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+paintball  airsoft   SUCCESS!!!!!!!
+

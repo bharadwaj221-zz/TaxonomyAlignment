@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:33
+Iteration 0 done
+Iteration no 1 @ 10:36:33
+Iteration 1 done
+Iteration no 2 @ 10:36:33
+Iteration 2 done
+
+
+FINAL RESULTS serving forks :
+Training Accuracy:0.9580(0.0045)
+Test Accuracy:0.7066(0.0055)
+Testing F1:0.7178(0.0075)
+
+Best Classifier for serving forks : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+serving forks   SUCCESS!!!!!!!
+

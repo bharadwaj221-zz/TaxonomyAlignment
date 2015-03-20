@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:45
+Iteration 0 done
+Iteration no 1 @ 05:31:45
+Iteration 1 done
+Iteration no 2 @ 05:31:45
+Iteration 2 done
+
+
+FINAL RESULTS bar cocktail  wine glasses :
+Training Accuracy:0.9872(0.0105)
+Test Accuracy:0.7108(0.0673)
+Testing F1:0.6813(0.0814)
+
+Best Classifier for bar cocktail  wine glasses : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bar cocktail  wine glasses   SUCCESS!!!!!!!
+

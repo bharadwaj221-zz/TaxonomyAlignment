@@ -1,0 +1,1 @@
+Only one label data for fastpitch softball bats = [1]

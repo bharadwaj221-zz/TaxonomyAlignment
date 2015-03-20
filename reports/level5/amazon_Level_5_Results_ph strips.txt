@@ -1,0 +1,1 @@
+Only one label data for ph strips = [1]

@@ -1,0 +1,23 @@
+Iteration no 0 @ 05:26:29
+Iteration 0 done
+Iteration no 1 @ 05:26:30
+Iteration 1 done
+Iteration no 2 @ 05:26:30
+Iteration 2 done
+Iteration no 3 @ 05:26:30
+Iteration 3 done
+Iteration no 4 @ 05:26:30
+Iteration 4 done
+
+
+FINAL RESULTS vehicles hobby & r c :
+Training Accuracy:0.969807868253
+Test Accuracy:0.907272727273
+Testing F1:0.864716399443
+
+Best Classifier for vehicles hobby & r c : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+vehicles hobby & r c   SUCCESS!!!!!!!
+

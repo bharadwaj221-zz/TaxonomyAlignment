@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:48
+Iteration 0 done
+Iteration no 1 @ 10:56:49
+Iteration 1 done
+Iteration no 2 @ 10:56:50
+Iteration 2 done
+
+
+FINAL RESULTS mobility aids  equipment :
+Training Accuracy:0.9662(0.0012)
+Test Accuracy:0.9067(0.0024)
+Testing F1:0.8458(0.0078)
+
+Best Classifier for mobility aids  equipment : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+mobility aids  equipment   SUCCESS!!!!!!!
+

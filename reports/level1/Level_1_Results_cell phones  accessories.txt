@@ -1,0 +1,19 @@
+Iteration no 0 @ 16:41:26
+Iteration 0 done
+Iteration no 1 @ 16:42:23
+Iteration 1 done
+Iteration no 2 @ 16:42:55
+Iteration 2 done
+
+
+FINAL RESULTS cell phones  accessories :
+Training Accuracy:0.9875(0.0001)
+Test Accuracy:0.9847(0.0001)
+Testing F1:0.5450(0.0027)
+
+Best Classifier for cell phones  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cell phones  accessories   SUCCESS!!!!!!!
+

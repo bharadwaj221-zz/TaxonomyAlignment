@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:28:10
+Iteration 0 done
+Iteration no 1 @ 17:28:11
+Iteration 1 done
+Iteration no 2 @ 17:28:13
+Iteration 2 done
+
+
+FINAL RESULTS religious jewelry :
+Training Accuracy:0.9949(0.0002)
+Test Accuracy:0.9901(0.0004)
+Testing F1:0.7313(0.0009)
+
+Best Classifier for religious jewelry : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+religious jewelry   SUCCESS!!!!!!!
+

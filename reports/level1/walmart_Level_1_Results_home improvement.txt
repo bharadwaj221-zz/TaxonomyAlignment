@@ -1,0 +1,23 @@
+Iteration no 0 @ 06:16:22
+Iteration 0 done
+Iteration no 1 @ 06:16:51
+Iteration 1 done
+Iteration no 2 @ 06:17:16
+Iteration 2 done
+Iteration no 3 @ 06:17:35
+Iteration 3 done
+Iteration no 4 @ 06:17:52
+Iteration 4 done
+
+
+FINAL RESULTS home improvement :
+Training Accuracy:0.942837146824
+Test Accuracy:0.866886192431
+Testing F1:0.820317068545
+
+Best Classifier for home improvement : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+home improvement   SUCCESS!!!!!!!
+

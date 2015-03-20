@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:14:17
+Iteration 0 done
+Iteration no 1 @ 11:14:17
+Iteration 1 done
+Iteration no 2 @ 11:14:17
+Iteration 2 done
+
+
+FINAL RESULTS printer ink  toner :
+Training Accuracy:0.9969(0.0044)
+Test Accuracy:0.9317(0.0313)
+Testing F1:0.9209(0.0392)
+
+Best Classifier for printer ink  toner : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+printer ink  toner   SUCCESS!!!!!!!
+

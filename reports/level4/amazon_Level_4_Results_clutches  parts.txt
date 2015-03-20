@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:03
+Iteration 0 done
+Iteration no 1 @ 11:12:03
+Iteration 1 done
+Iteration no 2 @ 11:12:03
+Iteration 2 done
+
+
+FINAL RESULTS clutches  parts :
+Training Accuracy:0.9441(0.0018)
+Test Accuracy:0.8956(0.0051)
+Testing F1:0.7988(0.0228)
+
+Best Classifier for clutches  parts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+clutches  parts   SUCCESS!!!!!!!
+

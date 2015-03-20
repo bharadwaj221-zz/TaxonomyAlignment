@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:31:26
+Iteration 0 done
+Iteration no 1 @ 17:31:26
+Iteration 1 done
+Iteration no 2 @ 17:31:27
+Iteration 2 done
+
+
+FINAL RESULTS digital cameras :
+Training Accuracy:0.7914(0.0018)
+Test Accuracy:0.6851(0.0059)
+Testing F1:0.6286(0.0117)
+
+Best Classifier for digital cameras : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+digital cameras   SUCCESS!!!!!!!
+

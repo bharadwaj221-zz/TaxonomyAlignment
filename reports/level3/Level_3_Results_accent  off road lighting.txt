@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:08:26
+Iteration 0 done
+Iteration no 1 @ 05:08:26
+Iteration 1 done
+Iteration no 2 @ 05:08:26
+Iteration 2 done
+
+
+FINAL RESULTS accent  off road lighting :
+Training Accuracy:0.9974(0.0019)
+Test Accuracy:0.9320(0.0096)
+Testing F1:0.8872(0.0239)
+
+Best Classifier for accent  off road lighting : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+accent  off road lighting   SUCCESS!!!!!!!
+

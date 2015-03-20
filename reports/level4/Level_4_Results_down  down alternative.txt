@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:54
+Iteration 0 done
+Iteration no 1 @ 05:31:54
+Iteration 1 done
+Iteration no 2 @ 05:31:54
+Iteration 2 done
+
+
+FINAL RESULTS down  down alternative :
+Training Accuracy:0.9822(0.0017)
+Test Accuracy:0.9565(0.0052)
+Testing F1:0.7922(0.0374)
+
+Best Classifier for down  down alternative : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+down  down alternative   SUCCESS!!!!!!!
+

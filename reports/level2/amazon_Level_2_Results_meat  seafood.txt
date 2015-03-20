@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:20:02
+Iteration 0 done
+Iteration no 1 @ 10:20:02
+Iteration 1 done
+Iteration no 2 @ 10:20:03
+Iteration 2 done
+
+
+FINAL RESULTS meat  seafood :
+Training Accuracy:0.9965(0.0008)
+Test Accuracy:0.9709(0.0022)
+Testing F1:0.9435(0.0047)
+
+Best Classifier for meat  seafood : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+meat  seafood   SUCCESS!!!!!!!
+

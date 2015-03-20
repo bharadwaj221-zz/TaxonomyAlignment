@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:13
+Iteration 0 done
+Iteration no 1 @ 10:56:13
+Iteration 1 done
+Iteration no 2 @ 10:56:14
+Iteration 2 done
+
+
+FINAL RESULTS oncourse accessories :
+Training Accuracy:0.9733(0.0009)
+Test Accuracy:0.9486(0.0044)
+Testing F1:0.8737(0.0122)
+
+Best Classifier for oncourse accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+oncourse accessories   SUCCESS!!!!!!!
+

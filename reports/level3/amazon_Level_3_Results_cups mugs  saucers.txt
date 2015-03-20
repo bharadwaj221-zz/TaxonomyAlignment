@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:54
+Iteration 0 done
+Iteration no 1 @ 10:56:58
+Iteration 1 done
+Iteration no 2 @ 10:57:03
+Iteration 2 done
+
+
+FINAL RESULTS cups mugs  saucers :
+Training Accuracy:0.9186(0.0004)
+Test Accuracy:0.8270(0.0012)
+Testing F1:0.6183(0.0015)
+
+Best Classifier for cups mugs  saucers : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cups mugs  saucers   SUCCESS!!!!!!!
+

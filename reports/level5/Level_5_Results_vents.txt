@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:23
+Iteration 0 done
+Iteration no 1 @ 10:36:23
+Iteration 1 done
+Iteration no 2 @ 10:36:23
+Iteration 2 done
+
+
+FINAL RESULTS vents :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9718(0.0081)
+Testing F1:0.9100(0.0059)
+
+Best Classifier for vents : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+vents   SUCCESS!!!!!!!
+

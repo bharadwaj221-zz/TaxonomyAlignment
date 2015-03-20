@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:13:56
+Iteration 0 done
+Iteration no 1 @ 11:13:56
+Iteration 1 done
+Iteration no 2 @ 11:13:56
+Iteration 2 done
+
+
+FINAL RESULTS pc headsets :
+Training Accuracy:0.9914(0.0006)
+Test Accuracy:0.9844(0.0009)
+Testing F1:0.6089(0.0405)
+
+Best Classifier for pc headsets : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pc headsets   SUCCESS!!!!!!!
+

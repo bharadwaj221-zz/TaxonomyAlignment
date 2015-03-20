@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:47:05
+Iteration 0 done
+Iteration no 1 @ 14:47:07
+Iteration 1 done
+Iteration no 2 @ 14:47:08
+Iteration 2 done
+Iteration no 3 @ 14:47:10
+Iteration 3 done
+Iteration no 4 @ 14:47:11
+Iteration 4 done
+
+
+FINAL RESULTS books :
+Training Accuracy:0.942338229456
+Test Accuracy:0.836707688236
+Testing F1:0.809208396376
+
+Best Classifier for books : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+books   SUCCESS!!!!!!!
+

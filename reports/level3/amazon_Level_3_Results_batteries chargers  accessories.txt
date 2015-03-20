@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:51:32
+Iteration 0 done
+Iteration no 1 @ 10:51:33
+Iteration 1 done
+Iteration no 2 @ 10:51:34
+Iteration 2 done
+
+
+FINAL RESULTS batteries chargers  accessories :
+Training Accuracy:0.9865(0.0007)
+Test Accuracy:0.9508(0.0013)
+Testing F1:0.8096(0.0024)
+
+Best Classifier for batteries chargers  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+batteries chargers  accessories   SUCCESS!!!!!!!
+

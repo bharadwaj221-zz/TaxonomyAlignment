@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:52:11
+Iteration 0 done
+Iteration no 1 @ 10:52:11
+Iteration 1 done
+Iteration no 2 @ 10:52:11
+Iteration 2 done
+
+
+FINAL RESULTS stamps  stamp supplies :
+Training Accuracy:0.9821(0.0010)
+Test Accuracy:0.9676(0.0046)
+Testing F1:0.8715(0.0023)
+
+Best Classifier for stamps  stamp supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+stamps  stamp supplies   SUCCESS!!!!!!!
+

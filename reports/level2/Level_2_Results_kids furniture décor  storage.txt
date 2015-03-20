@@ -1,0 +1,19 @@
+Iteration no 0 @ 17:30:29
+Iteration 0 done
+Iteration no 1 @ 17:30:29
+Iteration 1 done
+Iteration no 2 @ 17:30:30
+Iteration 2 done
+
+
+FINAL RESULTS kids furniture décor  storage :
+Training Accuracy:0.9940(0.0003)
+Test Accuracy:0.9624(0.0027)
+Testing F1:0.8722(0.0177)
+
+Best Classifier for kids furniture décor  storage : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+kids furniture décor  storage   SUCCESS!!!!!!!
+

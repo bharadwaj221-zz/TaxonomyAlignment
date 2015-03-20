@@ -1,0 +1,25 @@
+Iteration no 0 @ 15:36:01
+Iteration 0 done
+Iteration no 1 @ 15:36:01
+Iteration 1 done
+Iteration no 2 @ 15:36:02
+Iteration 2 done
+Iteration no 0 @ 15:36:02
+Iteration 0 done
+Iteration no 1 @ 15:36:03
+Iteration 1 done
+Iteration no 2 @ 15:36:03
+Iteration 2 done
+
+
+FINAL RESULTS portable audio & electronics :
+Training Accuracy:0.998928647954
+Test Accuracy:0.795113587655
+Testing F1:0.773212501912
+
+Best Classifier for portable audio & electronics : 
+LinearSVC(C=10, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+portable audio & electronics   SUCCESS!!!!!!!
+

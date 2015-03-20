@@ -1,0 +1,1 @@
+Only one label data for firewire port cards = [1]

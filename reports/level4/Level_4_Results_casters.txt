@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:39:20
+Iteration 0 done
+Iteration no 1 @ 05:39:20
+Iteration 1 done
+Iteration no 2 @ 05:39:20
+Iteration 2 done
+
+
+FINAL RESULTS casters :
+Training Accuracy:0.9558(0.0090)
+Test Accuracy:0.9109(0.0042)
+Testing F1:0.8147(0.0091)
+
+Best Classifier for casters : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+casters   SUCCESS!!!!!!!
+

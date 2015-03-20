@@ -1,0 +1,1 @@
+Only one label data for servers & thin clients = [1]

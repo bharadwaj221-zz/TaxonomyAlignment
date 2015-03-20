@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:21
+Iteration 0 done
+Iteration no 1 @ 10:56:22
+Iteration 1 done
+Iteration no 2 @ 10:56:22
+Iteration 2 done
+
+
+FINAL RESULTS identification badges  supplies :
+Training Accuracy:0.9782(0.0004)
+Test Accuracy:0.9602(0.0041)
+Testing F1:0.8416(0.0152)
+
+Best Classifier for identification badges  supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+identification badges  supplies   SUCCESS!!!!!!!
+

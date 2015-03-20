@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:07:38
+Iteration 0 done
+Iteration no 1 @ 05:07:38
+Iteration 1 done
+Iteration no 2 @ 05:07:38
+Iteration 2 done
+
+
+FINAL RESULTS laptop  netbook computer accessories :
+Training Accuracy:0.9797(0.0028)
+Test Accuracy:0.8739(0.0107)
+Testing F1:0.8361(0.0190)
+
+Best Classifier for laptop  netbook computer accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+laptop  netbook computer accessories   SUCCESS!!!!!!!
+

@@ -1,0 +1,23 @@
+Iteration no 0 @ 06:15:51
+Iteration 0 done
+Iteration no 1 @ 06:15:51
+Iteration 1 done
+Iteration no 2 @ 06:15:52
+Iteration 2 done
+Iteration no 3 @ 06:15:53
+Iteration 3 done
+Iteration no 4 @ 06:15:54
+Iteration 4 done
+
+
+FINAL RESULTS pets :
+Training Accuracy:0.981523257063
+Test Accuracy:0.906317146541
+Testing F1:0.871397844588
+
+Best Classifier for pets : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pets   SUCCESS!!!!!!!
+

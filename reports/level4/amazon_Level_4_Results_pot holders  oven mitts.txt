@@ -1,0 +1,19 @@
+Iteration no 0 @ 11:12:42
+Iteration 0 done
+Iteration no 1 @ 11:12:42
+Iteration 1 done
+Iteration no 2 @ 11:12:42
+Iteration 2 done
+
+
+FINAL RESULTS pot holders  oven mitts :
+Training Accuracy:0.9564(0.0072)
+Test Accuracy:0.6371(0.0078)
+Testing F1:0.6403(0.0106)
+
+Best Classifier for pot holders  oven mitts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+pot holders  oven mitts   SUCCESS!!!!!!!
+

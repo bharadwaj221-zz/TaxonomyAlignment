@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:52:56
+Iteration 0 done
+Iteration no 1 @ 10:52:56
+Iteration 1 done
+Iteration no 2 @ 10:52:56
+Iteration 2 done
+
+
+FINAL RESULTS intercooler parts :
+Training Accuracy:0.9881(0.0096)
+Test Accuracy:0.9213(0.0221)
+Testing F1:0.8995(0.0302)
+
+Best Classifier for intercooler parts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+intercooler parts   SUCCESS!!!!!!!
+

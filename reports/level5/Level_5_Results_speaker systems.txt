@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:23
+Iteration 0 done
+Iteration no 1 @ 10:36:23
+Iteration 1 done
+Iteration no 2 @ 10:36:23
+Iteration 2 done
+
+
+FINAL RESULTS speaker systems :
+Training Accuracy:1.0000(0.0000)
+Test Accuracy:0.9181(0.0056)
+Testing F1:0.7008(0.0702)
+
+Best Classifier for speaker systems : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+speaker systems   SUCCESS!!!!!!!
+

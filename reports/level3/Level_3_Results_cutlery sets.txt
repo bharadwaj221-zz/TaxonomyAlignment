@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:04:01
+Iteration 0 done
+Iteration no 1 @ 05:04:01
+Iteration 1 done
+Iteration no 2 @ 05:04:01
+Iteration 2 done
+
+
+FINAL RESULTS cutlery sets :
+Training Accuracy:0.8764(0.0071)
+Test Accuracy:0.6124(0.0156)
+Testing F1:0.6333(0.0075)
+
+Best Classifier for cutlery sets : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+cutlery sets   SUCCESS!!!!!!!
+

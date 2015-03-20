@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:56:53
+Iteration 0 done
+Iteration no 1 @ 10:56:54
+Iteration 1 done
+Iteration no 2 @ 10:56:55
+Iteration 2 done
+
+
+FINAL RESULTS bags packs  accessories :
+Training Accuracy:0.9711(0.0002)
+Test Accuracy:0.9425(0.0010)
+Testing F1:0.8500(0.0045)
+
+Best Classifier for bags packs  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bags packs  accessories   SUCCESS!!!!!!!
+

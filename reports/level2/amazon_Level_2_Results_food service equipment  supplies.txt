@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:05:34
+Iteration 0 done
+Iteration no 1 @ 10:05:51
+Iteration 1 done
+Iteration no 2 @ 10:05:52
+Iteration 2 done
+
+
+FINAL RESULTS food service equipment  supplies :
+Training Accuracy:0.9971(0.0002)
+Test Accuracy:0.9544(0.0014)
+Testing F1:0.7898(0.0018)
+
+Best Classifier for food service equipment  supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+food service equipment  supplies   SUCCESS!!!!!!!
+

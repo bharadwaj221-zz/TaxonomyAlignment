@@ -1,0 +1,19 @@
+Iteration no 0 @ 10:36:26
+Iteration 0 done
+Iteration no 1 @ 10:36:26
+Iteration 1 done
+Iteration no 2 @ 10:36:26
+Iteration 2 done
+
+
+FINAL RESULTS sweat headbands :
+Training Accuracy:0.9859(0.0026)
+Test Accuracy:0.9293(0.0102)
+Testing F1:0.6945(0.0951)
+
+Best Classifier for sweat headbands : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+sweat headbands   SUCCESS!!!!!!!
+

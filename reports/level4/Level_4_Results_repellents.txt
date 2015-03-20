@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:18
+Iteration 0 done
+Iteration no 1 @ 05:31:18
+Iteration 1 done
+Iteration no 2 @ 05:31:18
+Iteration 2 done
+
+
+FINAL RESULTS repellents :
+Training Accuracy:0.9944(0.0040)
+Test Accuracy:0.9266(0.0285)
+Testing F1:0.8893(0.0426)
+
+Best Classifier for repellents : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+repellents   SUCCESS!!!!!!!
+

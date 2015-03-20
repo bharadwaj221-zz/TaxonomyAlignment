@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:15:54
+Iteration 0 done
+Iteration no 1 @ 14:15:54
+Iteration 1 done
+Iteration no 2 @ 14:15:55
+Iteration 2 done
+Iteration no 3 @ 14:15:55
+Iteration 3 done
+Iteration no 4 @ 14:15:55
+Iteration 4 done
+
+
+FINAL RESULTS headphones :
+Training Accuracy:0.869428969359
+Test Accuracy:0.798050139276
+Testing F1:0.728849611602
+
+Best Classifier for headphones : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+headphones   SUCCESS!!!!!!!
+

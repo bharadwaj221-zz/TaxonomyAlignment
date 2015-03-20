@@ -1,0 +1,23 @@
+Iteration no 0 @ 06:15:49
+Iteration 0 done
+Iteration no 1 @ 06:15:53
+Iteration 1 done
+Iteration no 2 @ 06:15:57
+Iteration 2 done
+Iteration no 3 @ 06:16:01
+Iteration 3 done
+Iteration no 4 @ 06:16:04
+Iteration 4 done
+
+
+FINAL RESULTS toys :
+Training Accuracy:0.968611233518
+Test Accuracy:0.868243243243
+Testing F1:0.821748657608
+
+Best Classifier for toys : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+toys   SUCCESS!!!!!!!
+

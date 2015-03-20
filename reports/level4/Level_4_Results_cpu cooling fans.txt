@@ -1,0 +1,1 @@
+Only one label data for cpu cooling fans = [1]

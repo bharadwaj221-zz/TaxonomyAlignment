@@ -1,0 +1,1 @@
+Only one label data for water cooling systems = [1]

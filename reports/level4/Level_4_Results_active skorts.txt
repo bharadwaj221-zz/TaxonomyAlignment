@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:51
+Iteration 0 done
+Iteration no 1 @ 05:31:51
+Iteration 1 done
+Iteration no 2 @ 05:31:51
+Iteration 2 done
+
+
+FINAL RESULTS active skorts :
+Training Accuracy:0.9738(0.0069)
+Test Accuracy:0.9620(0.0130)
+Testing F1:0.9645(0.0121)
+
+Best Classifier for active skorts : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+active skorts   SUCCESS!!!!!!!
+

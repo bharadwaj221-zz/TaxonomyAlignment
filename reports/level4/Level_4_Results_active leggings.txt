@@ -1,0 +1,19 @@
+Iteration no 0 @ 05:31:44
+Iteration 0 done
+Iteration no 1 @ 05:31:44
+Iteration 1 done
+Iteration no 2 @ 05:31:44
+Iteration 2 done
+
+
+FINAL RESULTS active leggings :
+Training Accuracy:0.9747(0.0056)
+Test Accuracy:0.9380(0.0286)
+Testing F1:0.9133(0.0404)
+
+Best Classifier for active leggings : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+active leggings   SUCCESS!!!!!!!
+

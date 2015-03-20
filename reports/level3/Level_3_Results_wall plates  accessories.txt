@@ -1,0 +1,19 @@
+Iteration no 0 @ 04:59:36
+Iteration 0 done
+Iteration no 1 @ 04:59:38
+Iteration 1 done
+Iteration no 2 @ 04:59:41
+Iteration 2 done
+
+
+FINAL RESULTS wall plates  accessories :
+Training Accuracy:0.9819(0.0003)
+Test Accuracy:0.9524(0.0019)
+Testing F1:0.7627(0.0667)
+
+Best Classifier for wall plates  accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+wall plates  accessories   SUCCESS!!!!!!!
+
