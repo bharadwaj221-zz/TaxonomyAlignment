@@ -26,7 +26,7 @@ def correctCrumb(s):
         s=string.replace(s,'\'','')
     
         
-    if s.lower().startswith('amazon.com') or s.startswith('>'):    
+    if s.lower().startswith('amazon.com') or s.startswith('>') or s.lower().startswith('online shopping'):    
         s=(s.partition('>')[2])
     if s.endswith('>'):
         s=s[:-1]

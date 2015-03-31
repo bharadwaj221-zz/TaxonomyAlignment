@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:24:26
+Iteration 0 done
+Iteration no 1 @ 14:24:26
+Iteration 1 done
+Iteration no 2 @ 14:24:26
+Iteration 2 done
+Iteration no 3 @ 14:24:27
+Iteration 3 done
+Iteration no 4 @ 14:24:27
+Iteration 4 done
+
+
+FINAL RESULTS business & money books :
+Training Accuracy:0.916118730039
+Test Accuracy:0.843233082707
+Testing F1:0.678167456098
+
+Best Classifier for business & money books : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+business & money books   SUCCESS!!!!!!!
+

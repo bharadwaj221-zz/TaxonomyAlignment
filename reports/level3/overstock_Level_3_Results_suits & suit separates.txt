@@ -1,0 +1,1 @@
+Only one label data for suits & suit separates = [1]

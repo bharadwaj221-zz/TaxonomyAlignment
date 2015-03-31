@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:19:10
+Iteration 0 done
+Iteration no 1 @ 14:19:25
+Iteration 1 done
+Iteration no 2 @ 14:19:37
+Iteration 2 done
+Iteration no 3 @ 14:19:50
+Iteration 3 done
+Iteration no 4 @ 14:20:01
+Iteration 4 done
+
+
+FINAL RESULTS books & media :
+Training Accuracy:0.968145433477
+Test Accuracy:0.933789530066
+Testing F1:0.905886872363
+
+Best Classifier for books & media : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+books & media   SUCCESS!!!!!!!
+

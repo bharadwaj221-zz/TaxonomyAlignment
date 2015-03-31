@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:24:18
+Iteration 0 done
+Iteration no 1 @ 14:24:23
+Iteration 1 done
+Iteration no 2 @ 14:24:28
+Iteration 2 done
+Iteration no 3 @ 14:24:32
+Iteration 3 done
+Iteration no 4 @ 14:24:35
+Iteration 4 done
+
+
+FINAL RESULTS womens shoes :
+Training Accuracy:0.903814478384
+Test Accuracy:0.811126328833
+Testing F1:0.788437936936
+
+Best Classifier for womens shoes : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+womens shoes   SUCCESS!!!!!!!
+

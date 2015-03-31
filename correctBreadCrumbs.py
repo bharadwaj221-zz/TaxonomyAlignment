@@ -21,6 +21,8 @@ for i in range(len(Crumbs)):
     parts=s.split('>')
     if '\xc3\xa9' in s:
         s=string.replace(s,'\xc3\xa9','e')
+    if '\xef\x80' in s:
+	continue
     
     if ',' in s:
         s=string.replace(s,',','')
@@ -37,8 +39,11 @@ for i in range(len(Crumbs)):
     if flag:
         continue
         
-    if s.startswith('Amazon.com') or s.startswith('>') or s.lower().startswith('best buy'):    
-        s=(s.partition('>')[2])
+    if s.startswith('Amazon.com') or s.startswith('>') or s.lower().startswith('best buy') or s.lower().startswith('online shopping'):    
+        try:
+		s=(s.partition('>')[3])
+	except:
+		continue
         
     
     if s.endswith('>'):

@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:20:34
+Iteration 0 done
+Iteration no 1 @ 14:20:35
+Iteration 1 done
+Iteration no 2 @ 14:20:35
+Iteration 2 done
+Iteration no 3 @ 14:20:35
+Iteration 3 done
+Iteration no 4 @ 14:20:35
+Iteration 4 done
+
+
+FINAL RESULTS watches :
+Training Accuracy:0.990087113247
+Test Accuracy:0.987980769231
+Testing F1:0.987660692781
+
+Best Classifier for watches : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+watches   SUCCESS!!!!!!!
+

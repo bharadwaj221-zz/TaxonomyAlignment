@@ -1,0 +1,23 @@
+Iteration no 0 @ 14:19:10
+Iteration 0 done
+Iteration no 1 @ 14:19:14
+Iteration 1 done
+Iteration no 2 @ 14:19:19
+Iteration 2 done
+Iteration no 3 @ 14:19:22
+Iteration 3 done
+Iteration no 4 @ 14:19:25
+Iteration 4 done
+
+
+FINAL RESULTS home & garden :
+Training Accuracy:0.990232933984
+Test Accuracy:0.978916791604
+Testing F1:0.964911708934
+
+Best Classifier for home & garden : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+home & garden   SUCCESS!!!!!!!
+
