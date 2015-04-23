@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:22
+Iteration no 0 @ 16:44:45
 Iteration 0 done
-Iteration no 1 @ 15:34:24
+Iteration no 1 @ 16:44:45
 Iteration 1 done
-Iteration no 2 @ 15:34:24
+Iteration no 2 @ 16:44:45
 Iteration 2 done
+Iteration no 3 @ 16:44:45
+Iteration 3 done
+Iteration no 4 @ 16:44:45
+Iteration 4 done
 
 
 FINAL RESULTS health care :
-Training Accuracy:0.9902(0.0011)
-Test Accuracy:0.9257(0.0059)
-Testing F1:0.9193(0.0062)
+Training Accuracy:0.989720998532
+Test Accuracy:0.947058823529
+Testing F1:0.942430905799
 
 Best Classifier for health care : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 health care   SUCCESS!!!!!!!

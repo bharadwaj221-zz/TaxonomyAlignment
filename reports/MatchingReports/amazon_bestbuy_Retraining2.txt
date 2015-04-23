@@ -2,8 +2,8 @@ Category point & shoot cameras Added to RData at 2 to parent camera & photo
 Category a v cables & connectors Added to RData at 3 to parent audio & video accessories
 Category car audio installation parts Added to RData at 2 to parent car & vehicle electronics
 Category deck installation parts Added to RData at 2 to parent car & vehicle electronics
+Category towers only Added to RData at 2 to parent computers & accessories
 Category camera lenses Added to RData at 2 to parent camera & photo
-Category imaging video & design software Added to RData at 2 to parent computers & accessories
 Category car speakers Added to RData at 2 to parent car & vehicle electronics
 Category car subwoofers & enclosures Added to RData at 2 to parent car & vehicle electronics
 Category tv stands Added to RData at 3 to parent audio & video accessories

@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:32:43
+Iteration no 0 @ 16:42:55
 Iteration 0 done
-Iteration no 1 @ 15:32:53
+Iteration no 1 @ 16:43:07
 Iteration 1 done
-Iteration no 2 @ 15:33:25
+Iteration no 2 @ 16:43:19
 Iteration 2 done
+Iteration no 3 @ 16:43:29
+Iteration 3 done
+Iteration no 4 @ 16:43:36
+Iteration 4 done
 
 
 FINAL RESULTS jewelry :
-Training Accuracy:0.8113(0.0005)
-Test Accuracy:0.7341(0.0003)
-Testing F1:0.6489(0.0018)
+Training Accuracy:0.807634251488
+Test Accuracy:0.737968689602
+Testing F1:0.658884524638
 
 Best Classifier for jewelry : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 jewelry   SUCCESS!!!!!!!

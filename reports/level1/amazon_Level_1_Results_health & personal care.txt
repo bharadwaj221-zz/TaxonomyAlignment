@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:32:58
+Iteration no 0 @ 16:42:58
 Iteration 0 done
-Iteration no 1 @ 15:33:25
+Iteration no 1 @ 16:43:00
 Iteration 1 done
-Iteration no 2 @ 15:33:27
+Iteration no 2 @ 16:43:02
 Iteration 2 done
+Iteration no 3 @ 16:43:03
+Iteration 3 done
+Iteration no 4 @ 16:43:05
+Iteration 4 done
 
 
 FINAL RESULTS health & personal care :
-Training Accuracy:0.9615(0.0007)
-Test Accuracy:0.8299(0.0020)
-Testing F1:0.8367(0.0025)
+Training Accuracy:0.957362770914
+Test Accuracy:0.841199108771
+Testing F1:0.848628121492
 
 Best Classifier for health & personal care : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 health & personal care   SUCCESS!!!!!!!

@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:33:28
+Iteration no 0 @ 16:43:21
 Iteration 0 done
-Iteration no 1 @ 15:33:29
+Iteration no 1 @ 16:43:22
 Iteration 1 done
-Iteration no 2 @ 15:33:29
+Iteration no 2 @ 16:43:22
 Iteration 2 done
+Iteration no 3 @ 16:43:23
+Iteration 3 done
+Iteration no 4 @ 16:43:23
+Iteration 4 done
 
 
 FINAL RESULTS toys & games :
-Training Accuracy:0.9952(0.0002)
-Test Accuracy:0.9188(0.0040)
-Testing F1:0.9181(0.0038)
+Training Accuracy:0.993860845839
+Test Accuracy:0.931152010907
+Testing F1:0.931536536814
 
 Best Classifier for toys & games : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 toys & games   SUCCESS!!!!!!!

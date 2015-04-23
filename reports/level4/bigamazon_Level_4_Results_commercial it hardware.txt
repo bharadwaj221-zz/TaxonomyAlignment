@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:14:00
+Iteration 0 done
+Iteration no 1 @ 13:14:00
+Iteration 1 done
+Iteration no 2 @ 13:14:00
+Iteration 2 done
+
+
+FINAL RESULTS commercial it hardware :
+Training Accuracy:0.9540(0.0018)
+Test Accuracy:0.9097(0.0018)
+Testing F1:0.6718(0.0349)
+
+Best Classifier for commercial it hardware : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+commercial it hardware   SUCCESS!!!!!!!
+

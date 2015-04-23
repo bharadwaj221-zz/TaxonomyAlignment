@@ -1,79 +1,774 @@
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_accessories.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_area rugs.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_art gallery.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_audio & video.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_baby bedding.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_baby.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_backpacks & bags.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_bath & towels.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_beauty products.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_bedding accessories.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_bedding & bath.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_binders & accessories.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_blankets & throws.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_books.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_business cases.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_cameras & photo.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_childrens clothing.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_clothing shoes & access..txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_collectibles.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_computers hardware & software.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_crafts.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_designer store.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_down bedding.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_fashion bedding.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_fitness & nutrition.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_furniture.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_garden & patio.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_gift baskets.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_gifts & flowers.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_golf equipment.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_handbags.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_health & beauty.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_home decor.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_home & garden.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_home improvement.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_housewares.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_hunting.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_janitorial & cleaning.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_jewelry.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_jewelry & watch boxes.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_jewelry & watches.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_kids & teen bedding.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_kitchen & dining.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_luggage.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_mattress pads & toppers.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_memory foam.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_mens clothing.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_mens sport clothing.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_monitors & displays.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_movies.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_music.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_nursery decor.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_office electronics.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_office furniture.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_outdoors.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_pc & video games.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_pet apparel.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_pet beds.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_pillows & protectors.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_printers & scanners.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_restaurant supplies.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sale.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_scrapbooking.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sewing & needlework.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sexual wellness.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sheets & pillowcases.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sheets.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_shoes.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sports & fitness.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_sunglasses.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_telephones.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_tools.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_toys & hobbies.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_watches.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_wedding planning.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_winter sports.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_womens clothing.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_womens sport clothing.txt
-TaxonomyAlignment/reports/level2/overstock_Level_2_Results_world jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_2014-04.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_201404.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_abrasive  finishing products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_abrasive & finishing products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_accessories  supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_accessories & supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_accounting  finance.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_accounting & finance.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_action figures  statues.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_action figures & statues.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_action sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_action  toy figures.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_action & toy figures.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_additive manufacturing products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_air conditioners  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_air conditioners & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_air conditioners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_air purifiers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_air tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_all watches.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_alternative rock.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_amazoncom › software › home  hobbies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_amazoncom › software › home publishing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_amazoncom › software › illustration  design.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_amazoncom › software › tax preparation.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_amplifiers  effects.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_amplifiers & effects.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_anklets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_antivirus  security.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_antivirus & security.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_apparel  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_apparel & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_apparel.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_appliances.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_arts crafts & sewing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_arts, crafts & sewing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_arts  crafts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_arts & crafts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_art supplies fashion design  memorykeeping.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_art supplies, fashion design & memory-keeping.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_art supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_artwork.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_automotive enthusiast merchandise.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_automotive repair.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_automotive.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby boys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby  child care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby & child care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby foods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby girls.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby stationery.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby  toddler toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby & toddler toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_baby.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_backyard birding  wildlife.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_backyard birding & wildlife.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bags  cases.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bags & cases.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bakeware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_band  orchestra.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_band & orchestra.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bar tools  glasses.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bar tools & glasses.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bass guitars.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bath  body.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bath & body.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bathing  skin care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bathing & skin care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bath.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_batteries.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beading  jewelry making.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beading  jewelrymaking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beading & jewelry making.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beading & jewelry-making.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beauty.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bedding.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beer keg refrigerators.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beer  spirits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beer & spirits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_beverages.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bikes  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bikes & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bikes skates  rideons.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bikes skates & ride-ons.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_binders  binding systems.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_binders & binding systems.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_binoculars  scopes.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_binoculars & scopes.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_binoculars telescopes  optics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_binoculars, telescopes & optics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_birds.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_blues.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_boat electronics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_boating  water sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_boating & water sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_boys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_boys'.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_bracelets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_breads  bakery.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_breads & bakery.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_breakfast foods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_broadway  vocalists.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_brooches  pins.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_building  construction toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_building supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_building toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_business  office.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_business & office.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_business presentation supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cables  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cables & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cables & connectors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_calendars planners  personal organizers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_calendars planners & personal organizers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_calendars, planners & personal organizers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_camcorders.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_camera  photo.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_camera & photo.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_candy  chocolate.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_candy & chocolate.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_canned dry  packaged foods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_canned dry & packaged foods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car electronics  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car electronics & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car electronics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_carrying cases.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car seats  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car seats & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car seats.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car  vehicle electronics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_car & vehicle electronics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cases  bags.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cases  transport.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cases & transport.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cases.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cats.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cb radios & scanners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cds & vinyl.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ceiling fans  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ceiling fans & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cell phones  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cell phones & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cell phones.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_charbroil.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_charms  charm bracelets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_charms & charm bracelets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_children's jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_childrens jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_children's music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_childrens music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_childrens software.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_children's.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_childrens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_christian.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_classical.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_classic rock.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cleaning supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_clothing & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_clothing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_coffee tea  espresso.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_coffee tea & espresso.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_coffee, tea & espresso.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_coleman.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_collectible trading cards  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_comedy  spoken word.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_compact refrigerators.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_computer components.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_computers  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_computers & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_computer security.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_connected devices.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_contract cell phones.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_contractor supply.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cooking  baking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cooking & baking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cooktops.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cookware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cordless tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_country.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_craft supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cutting  measuring devices.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cutting & measuring devices.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cutting tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_cycling.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dairy cheese  eggs.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dairy, cheese & eggs.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dance  electronic.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dance & electronic.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_data storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dehumidifiers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_denim shop.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_design  illustration.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_design & illustration.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_desk accessories  workspace organizers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_desk accessories & workspace organizers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_desktops.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_diapering.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_digital cameras.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_digital games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_digital slrs.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dining  entertaining.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dining & entertaining.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dining room furniture.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dishwashers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dj electronic music  karaoke.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dj electronic music & karaoke.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dj, electronic music & karaoke.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dogs.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dolls  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dolls & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_drawing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dressing up  costumes.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dressing up & costumes.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dress up  pretend play.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_dress up & pretend play.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_drums  percussion.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_drums & percussion.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_drum sticks & mallets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_earrings.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ebook readers  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ebook readers & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_educational supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_education  crafts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_education & crafts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_education  reference.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_education & reference.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_electrical.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_electronics for kids.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_electronics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_electronics warranties.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_envelopes mailers  shipping supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_envelopes mailers & shipping supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_envelopes, mailers & shipping supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_equestrian sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_exercise  fitness.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_exercise & fitness.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_exterior accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_external components.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fabric care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fabric painting  dyeing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fabric painting & dyeing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fabric.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fan shop.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fans.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_farm  ranch.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_farm & ranch.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fasteners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_feeding.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_filing products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_film cameras.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_film photography.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_filtration.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fionahardware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fire pits  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fire pits & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fish  aquatic pets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fish & aquatic pets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_flashes.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_folk.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_folk  world instruments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_folk & world instruments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_food service equipment  supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_food service equipment & supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_for moms.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_forms recordkeeping  money handling.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_forms recordkeeping & money handling.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_forms, recordkeeping & money handling.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fragrance.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_freezers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fresh flowers  live indoor plants.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_fresh flowers & live indoor plants.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_furnace filters.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_furniture  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_furniture & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_furniture.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_game hardware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gardening  lawn care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gardening & lawn care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gardening.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gear.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_generators  portable power.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_generators & portable power.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gift sets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gifts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_girls.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_girls'.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_glassware  drinkware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_glassware & drinkware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_golf.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gourmet gifts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gps  navigation.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gps & navigation.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_gps system accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_grills  outdoor cooking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_grills & outdoor cooking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_grocery & gourmet food.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_grown-up toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_grownup toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_guitars.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hair care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_handbags.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_handheld digital photo viewers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hard rock  metal.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hard rock & metal.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hardware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_health  baby care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_health & baby care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_health care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_health & personal care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_heating cooling  air quality.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_heating cooling & air quality.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_heating, cooling & air quality.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_heavy equipment  agricultural supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_heavy equipment & agricultural supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hobbies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_holiday  wedding.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home audio  theater.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home audio & theater.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home audio.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home brewing  wine making.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home brewing  winemaking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home brewing & wine making.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home brewing & winemaking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home dcor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home decor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home décor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home  garden gift ideas.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home  hobbies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home improvement.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home & kitchen.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_home publishing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_horses.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_household supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_house supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_humidifiers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hunting  fishing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hunting & fishing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hvac filtration.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hydraulics pneumatics  plumbing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hydraulics pneumatics & plumbing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_hydraulics, pneumatics & plumbing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ice makers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_illustration  design.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_illustration & design.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_industrial electrical.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_industrial hardware.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_industrial power  hand tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_industrial power & hand tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_industrial & scientific.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ink & toner.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_insects.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_instrument accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_instrument instruction.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_interior accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_irons steamers  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_irons, steamers & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_irons  steamers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_irons & steamers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_janitorial  sanitation supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_janitorial & sanitation supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_jazz.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_jewelry sets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_karaoke.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_keyboards.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids  family.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids & family.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids furniture d�cor  storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids furniture decor & storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids furniture décor  storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids' furniture décor & storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids' furniture, décor & storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids furniture  room d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids' furniture & room d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids home store.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kids' home store.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen  bath fixtures.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen & bath fixtures.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen  dining.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen & dining.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen furniture.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen knives  cutlery accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen knives & cutlery accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen  table linens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen & table linens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen utensils  gadgets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_kitchen utensils & gadgets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_knitting  crochet.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_knitting & crochet.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_labels indexes  stamps.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_labels indexes & stamps.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_labels, indexes & stamps.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lab  scientific products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lab & scientific products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lamps  light fixtures.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lamps & light fixtures.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_language  travel.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_language & travel.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_laptop  netbook computer accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_laptop & netbook computer accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_laptops.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_large appliance accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_latin music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_laundry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lawn mowers  outdoor power tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_learning  education.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_learning & education.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_leisure sports  game room.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_leisure sports & game room.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_leisure sports  games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_leisure sports & games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lenses.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lifestyle  hobbies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lifestyle & hobbies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lighting  ceiling fans.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lighting & ceiling fans.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lighting  studio.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lighting & studio.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_light  lighting accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_light & lighting accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lights  lighting accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_lights & lighting accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_live sound  stage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_live sound & stage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_loose gemstones.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_luggage  bags.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_luggage & bags.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mac games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mac software.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mac.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mailroom supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_makeup.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_managers special.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_material handling products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_meat  seafood.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_meat & seafood.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_medical supplies  equipment.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_medical supplies & equipment.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_men's jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mens jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_men's.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_men.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_metal.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_microphones  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_microphones & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_microwave ovens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_miscellaneous.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mobile broadband.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_monitors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_more systems.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_motorcycle  atv.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_motorcycle & atv.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_motorcycle  powersports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_motorcycle & powersports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mowers  outdoor power tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mowers & outdoor power tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_mp3 editing  effects.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_musical instruments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_music notation.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_necklaces.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_needlework.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_networking products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_networking  servers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_networking & servers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_new age.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nintendo 3ds.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nintendo ds.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_no-contract cell phones & devices.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nocontract cell phones  devices.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nocontract cell phones.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nocontract phones  devices.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty  gag toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty & gag toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty  more.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty & more.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty  special use.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty & special use.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_novelty watches.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nursery bedding.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nursery d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nursery furniture.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nursery.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nutrition  wellness.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_nutrition & wellness.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_occupational health  safety products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_occupational health & safety products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office electronics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office furniture  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office furniture & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office furniture  lighting.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office furniture & lighting.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office  school supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office & school supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office storage supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_office supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_oils  fluids.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_oils & fluids.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_operating systems.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_organization  storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_organization & storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_other sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor dcor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor decor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor décor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor gear.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor heaters  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor heaters & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor heaters  fire pits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor heaters & fire pits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor kitchen appliances  storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor kitchen appliances & storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor recreation.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outdoor storage.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_outlet.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paintball  airsoft.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paintball & airsoft.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paint body  trim.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paint body & trim.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paint, body & trim.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_painting supplies  wall treatments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_painting supplies & wall treatments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_painting.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pantry staples.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paper & plastic.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_paper.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_parts  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_parts & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_party decorations  supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_party decorations & supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_party supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_patio furniture  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_patio furniture & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_patio lawn & garden.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_patio, lawn & garden.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pc games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pc.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pdas handhelds  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pdas handhelds & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pdas, handhelds & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_performance parts  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_performance parts & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_personal care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_personalized rings.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pest control.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pet supplies international shipping available.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pet supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_photo editing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_photography.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_photo.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_picnic baskets  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_playsets & vehicles.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_playstation 3.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_playstation 4.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_playstation vita.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_play vehicles.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pointandshoot digital cameras.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pools hot tubs  supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pools hot tubs & supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pools, hot tubs & supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pop.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_portable audio  video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_portable audio & video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_potty training.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_power  hand tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_power & hand tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_power transmission products.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pregnancy  maternity.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_pregnancy & maternity.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_preschool.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_presentation boards.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_printer ink  toner.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_printer ink & toner.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_printers  scanners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_printers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_printmaking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_produce.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_professional dental supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_professional medical supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_programming  web development.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_programming & web development.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_projectors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_puppets  puppet theaters.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_puzzles.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_racket sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_racquet sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_range hoods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_ranges.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rap  hiphop.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rap & hip-hop.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_raw materials.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_recording equipment.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_refrigerator filters.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_refrigerators.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_related accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_religious jewelry.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_replacement parts.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_reptiles  amphibians.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_reptiles & amphibians.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rings.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_robotics.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rock.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rough plumbing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_routers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rv parts  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_rv parts & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_safety  cleaning.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_safety & cleaning.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_safety  security.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_safety & security.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_safety.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_scanners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_science education.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_scrapbooking.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_seasonal d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_seasonal dcor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_seasonal decor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_seasonal décor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_security  surveillance.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_security & surveillance.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_servers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_service  replacement plans.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sewing.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sexual wellness.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_shoe care  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_shoe care & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_shoes.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sim cards  tools.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sim cards.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_skin care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_small animals.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_small appliance parts  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_small appliance parts & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_small appliances.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_snack foods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_snow removal.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_snow sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_software.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sony psp.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_soundtracks.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_space heaters.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_special interest.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sportinggoods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sports & handheld gps.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sports nutrition.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sports  outdoor play.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sports & outdoor play.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sports  outdoors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sports & outdoors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_staplers  punches.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_staplers & punches.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stationery  party supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stationery & party supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_storage  home organization.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_storage & home organization.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_storage  organization.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_storage & organization.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_store signs  displays.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_store signs & displays.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stringed instruments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_strollers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_studio recording equipment.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stuffed animals  plush.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stuffed animals & plush.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stuffed animals  toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_stuffed animals & toys.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_sunglasses.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_surge protectors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_surveillance cameras.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tabletop.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tablets.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tape adhesives  fasteners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tape adhesives & fasteners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tape, adhesives & fasteners.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tapes adhesives  sealants.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tapes adhesives & sealants.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tapes, adhesives & sealants.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tax preparation.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_team sports.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_televisions  video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_televisions & video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_television  video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_television & video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_test measure  inspect.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_test measure & inspect.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_test, measure & inspect.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_thread.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_time clocks  cards.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_time clocks & cards.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tires  wheels.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tires & wheels.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tools  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tools & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tools  equipment.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tools & equipment.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tools & home improvement.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_touch screen tablet accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_towels tissues & dispensers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_toy remote control  play vehicles.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_toy remote control & play vehicles.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_toys & games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_trash compactors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_trends.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tricycles scooters  wagons.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tricycles scooters & wagons.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tricycles, scooters & wagons.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tripods  monopods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_tripods & monopods.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_underwater photography.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_unisex.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_unlocked cell phones.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_unlocked phones.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_utilities.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vacuums  floor care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vacuums & floor care.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vehicle gps.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vehicles  remotecontrol.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vehicles & remote-control.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_velbon.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video game consoles  accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video game consoles & accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video games.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video  music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video & music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video projectors.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video surveillance.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_video.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vitamins  dietary supplements.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_vitamins & dietary supplements.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wall d�cor.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wall ovens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_warming drawers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_warranties  services.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_warranties & services.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_washers  dryers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_washers & dryers.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_watches.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_water coolers  filters.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_water coolers & filters.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_webcams.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wedding  engagement rings.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wedding & engagement rings.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wheels  tires.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wheels & tires.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wii.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wii u.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wind  woodwind instruments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wind & woodwind instruments.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wine accessories.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wine beer  spirits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wine beer & spirits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wine, beer & spirits.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wine cellars.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wine.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_wirelessprepaid.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_women's.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_womens.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_women.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_world music.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_writing  correction supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_writing & correction supplies.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_xbox 360.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_xbox one.txt
+TaxonomyAlignment/reports/level2/amazon_Level_2_Results_yarn.txt

@@ -1,0 +1,8 @@
+1,jewelry,jewelry & watches,jewelry,
+1,jewelry,world jewelry,jewelry,
+2,luggage & bags,backpacks & bags,diaper bags,
+3,clothing,ski clothing,baby clothing,
+2,camera & photo,surveillance,video surveillance,
+3,computer components,video cards,graphics cards,
+3,tabletop,serving bowls,bowls,
+3,tabletop,flatware sets,dinnerware sets,

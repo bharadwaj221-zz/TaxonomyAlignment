@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:12:18
+Iteration 0 done
+Iteration no 1 @ 13:12:22
+Iteration 1 done
+Iteration no 2 @ 13:12:27
+Iteration 2 done
+
+
+FINAL RESULTS womens clothing :
+Training Accuracy:0.9570(0.0006)
+Test Accuracy:0.9402(0.0007)
+Testing F1:0.9209(0.0008)
+
+Best Classifier for womens clothing : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+womens clothing   SUCCESS!!!!!!!
+

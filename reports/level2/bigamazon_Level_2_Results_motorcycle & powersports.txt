@@ -1,0 +1,23 @@
+Iteration no 0 @ 12:20:18
+Iteration 0 done
+Iteration no 1 @ 12:20:19
+Iteration 1 done
+Iteration no 2 @ 12:20:19
+Iteration 2 done
+Iteration no 3 @ 12:20:20
+Iteration 3 done
+Iteration no 4 @ 12:20:20
+Iteration 4 done
+
+
+FINAL RESULTS motorcycle & powersports :
+Training Accuracy:0.998146532926
+Test Accuracy:0.989537925022
+Testing F1:0.988839155396
+
+Best Classifier for motorcycle & powersports : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+motorcycle & powersports   SUCCESS!!!!!!!
+

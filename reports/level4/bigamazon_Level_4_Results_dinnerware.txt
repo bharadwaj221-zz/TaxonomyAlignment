@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:15:52
+Iteration 0 done
+Iteration no 1 @ 13:15:52
+Iteration 1 done
+Iteration no 2 @ 13:15:52
+Iteration 2 done
+
+
+FINAL RESULTS dinnerware :
+Training Accuracy:0.9346(0.0020)
+Test Accuracy:0.8810(0.0025)
+Testing F1:0.8380(0.0032)
+
+Best Classifier for dinnerware : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+dinnerware   SUCCESS!!!!!!!
+

@@ -1,7 +1,6 @@
 Category memory cards Added to RData at 2 to parent camera & photo
 Category knives & tools Added to RData at 3 to parent home & garden
 Category supplies Added to RData at 2 to parent kitchen & dining
-Category sinks Added to RData at 2 to parent kitchen & dining
 Category makeup Added to RData at 2 to parent fragrance
 Category hair care Added to RData at 2 to parent fragrance
 Category cookware Added to RData at 2 to parent kitchen & dining
@@ -13,10 +12,8 @@ Category skin care Added to RData at 2 to parent fragrance
 Category sports memorabilia Added to RData at 3 to parent home & garden
 Category optics Added to RData at 3 to parent home & garden
 Category scanners Added to RData at 2 to parent computers & accessories
-Category showers Added to RData at 2 to parent kitchen & dining
 Category fan shop Added to RData at 3 to parent home & garden
 Category belts Added to RData at 3 to parent accessories
-Category garage & automotive Added to RData at 2 to parent kitchen & dining
 Category mens designer clothing Added to RData at 3 to parent accessories
 Category sports plaques Added to RData at 3 to parent home & garden
 Category digital picture frames Added to RData at 2 to parent camera & photo
@@ -24,7 +21,6 @@ Category digital cameras Added to RData at 2 to parent camera & photo
 Category ski clothing Added to RData at 3 to parent clothing
 Category surveillance Added to RData at 2 to parent camera & photo
 Category camping & hiking Added to RData at 3 to parent home & garden
-Category wall coverings Added to RData at 2 to parent kitchen & dining
 Category bath & shower Added to RData at 2 to parent fragrance
 Category nail care Added to RData at 2 to parent fragrance
 Category athletic clothing Added to RData at 3 to parent clothing

@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:14
+Iteration no 0 @ 16:44:36
 Iteration 0 done
-Iteration no 1 @ 15:34:17
+Iteration no 1 @ 16:44:39
 Iteration 1 done
-Iteration no 2 @ 15:34:21
+Iteration no 2 @ 16:44:42
 Iteration 2 done
+Iteration no 3 @ 16:44:46
+Iteration 3 done
+Iteration no 4 @ 16:44:49
+Iteration 4 done
 
 
 FINAL RESULTS novelty & special use :
-Training Accuracy:0.9820(0.0005)
-Test Accuracy:0.9365(0.0019)
-Testing F1:0.8752(0.0027)
+Training Accuracy:0.980712137001
+Test Accuracy:0.940366611596
+Testing F1:0.883700133819
 
 Best Classifier for novelty & special use : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 novelty & special use   SUCCESS!!!!!!!

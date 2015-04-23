@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:12
+Iteration no 0 @ 16:44:25
 Iteration 0 done
-Iteration no 1 @ 15:34:13
+Iteration no 1 @ 16:44:25
 Iteration 1 done
-Iteration no 2 @ 15:34:13
+Iteration no 2 @ 16:44:25
 Iteration 2 done
+Iteration no 3 @ 16:44:26
+Iteration 3 done
+Iteration no 4 @ 16:44:26
+Iteration 4 done
 
 
 FINAL RESULTS makeup :
-Training Accuracy:0.9894(0.0010)
-Test Accuracy:0.9394(0.0050)
-Testing F1:0.9418(0.0034)
+Training Accuracy:0.988456270788
+Test Accuracy:0.944487881157
+Testing F1:0.945771570625
 
 Best Classifier for makeup : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 makeup   SUCCESS!!!!!!!

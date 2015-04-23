@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:01:31
+Iteration 0 done
+Iteration no 1 @ 13:01:33
+Iteration 1 done
+Iteration no 2 @ 13:01:35
+Iteration 2 done
+
+
+FINAL RESULTS worldstock fair trade :
+Training Accuracy:0.9792(0.0004)
+Test Accuracy:0.9738(0.0009)
+Testing F1:0.8364(0.0024)
+
+Best Classifier for worldstock fair trade : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+worldstock fair trade   SUCCESS!!!!!!!
+

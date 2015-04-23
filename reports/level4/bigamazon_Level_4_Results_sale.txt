@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:14:25
+Iteration 0 done
+Iteration no 1 @ 13:14:25
+Iteration 1 done
+Iteration no 2 @ 13:14:25
+Iteration 2 done
+
+
+FINAL RESULTS sale :
+Training Accuracy:0.9088(0.0044)
+Test Accuracy:0.6899(0.0084)
+Testing F1:0.2292(0.0312)
+
+Best Classifier for sale : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+sale   SUCCESS!!!!!!!
+

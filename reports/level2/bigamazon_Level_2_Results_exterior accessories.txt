@@ -1,0 +1,23 @@
+Iteration no 0 @ 12:20:12
+Iteration 0 done
+Iteration no 1 @ 12:20:13
+Iteration 1 done
+Iteration no 2 @ 12:20:14
+Iteration 2 done
+Iteration no 3 @ 12:20:15
+Iteration 3 done
+Iteration no 4 @ 12:20:15
+Iteration 4 done
+
+
+FINAL RESULTS exterior accessories :
+Training Accuracy:0.999275012083
+Test Accuracy:0.996456185567
+Testing F1:0.996813796265
+
+Best Classifier for exterior accessories : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+exterior accessories   SUCCESS!!!!!!!
+

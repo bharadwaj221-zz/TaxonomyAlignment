@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:19
+Iteration no 0 @ 16:44:47
 Iteration 0 done
-Iteration no 1 @ 15:34:19
+Iteration no 1 @ 16:44:47
 Iteration 1 done
-Iteration no 2 @ 15:34:19
+Iteration no 2 @ 16:44:47
 Iteration 2 done
+Iteration no 3 @ 16:44:47
+Iteration 3 done
+Iteration no 4 @ 16:44:47
+Iteration 4 done
 
 
 FINAL RESULTS necklaces :
-Training Accuracy:0.9746(0.0013)
-Test Accuracy:0.8906(0.0057)
-Testing F1:0.8806(0.0070)
+Training Accuracy:0.970865467009
+Test Accuracy:0.91423670669
+Testing F1:0.907345013477
 
 Best Classifier for necklaces : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 necklaces   SUCCESS!!!!!!!

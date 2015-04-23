@@ -1,0 +1,23 @@
+Iteration no 0 @ 12:21:18
+Iteration 0 done
+Iteration no 1 @ 12:21:18
+Iteration 1 done
+Iteration no 2 @ 12:21:19
+Iteration 2 done
+Iteration no 3 @ 12:21:19
+Iteration 3 done
+Iteration no 4 @ 12:21:19
+Iteration 4 done
+
+
+FINAL RESULTS fine :
+Training Accuracy:0.997810945274
+Test Accuracy:0.99601910828
+Testing F1:0.995011934509
+
+Best Classifier for fine : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+fine   SUCCESS!!!!!!!
+

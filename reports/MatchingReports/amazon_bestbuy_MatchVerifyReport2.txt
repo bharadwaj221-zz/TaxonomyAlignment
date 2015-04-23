@@ -6,12 +6,11 @@ all-in-one computers | data storage | towers only
 usb flash drives | data storage | hard drives
 monitor & screen accessories | cables & interconnects | cables & connectors
 all desktops | data storage | towers only
-towers only | data storage | towers only
 computer power supplies | computer components | computer memory
 ipad accessories | touch screen tablet accessories | tablet accessories
 mice & keyboards | cables & accessories | mice & keyboards
 cables & connectors | cables & interconnects | cables & connectors
-surge protectors & power management | cables & accessories | mice & keyboards
+surge protectors & power management | cables & interconnects | cables & connectors
 routers | networking products | ethernet hubs & switches
 computer cases & hard drive enclosures | computer components | computer memory
 video graphics cards | computer components | computer memory

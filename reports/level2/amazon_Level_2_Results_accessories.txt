@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:15
+Iteration no 0 @ 16:44:36
 Iteration 0 done
-Iteration no 1 @ 15:34:17
+Iteration no 1 @ 16:44:38
 Iteration 1 done
-Iteration no 2 @ 15:34:18
+Iteration no 2 @ 16:44:39
 Iteration 2 done
+Iteration no 3 @ 16:44:40
+Iteration 3 done
+Iteration no 4 @ 16:44:41
+Iteration 4 done
 
 
 FINAL RESULTS accessories :
-Training Accuracy:0.9506(0.0009)
-Test Accuracy:0.9057(0.0028)
-Testing F1:0.9203(0.0033)
+Training Accuracy:0.948228346457
+Test Accuracy:0.910976890756
+Testing F1:0.926009605006
 
 Best Classifier for accessories : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 accessories   SUCCESS!!!!!!!

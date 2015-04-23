@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:54
+Iteration no 0 @ 16:45:21
 Iteration 0 done
-Iteration no 1 @ 15:34:57
+Iteration no 1 @ 16:45:21
 Iteration 1 done
-Iteration no 2 @ 15:34:58
+Iteration no 2 @ 16:45:21
 Iteration 2 done
+Iteration no 3 @ 16:45:21
+Iteration 3 done
+Iteration no 4 @ 16:45:22
+Iteration 4 done
 
 
 FINAL RESULTS fashion :
-Training Accuracy:0.9980(0.0001)
-Test Accuracy:0.9910(0.0013)
-Testing F1:0.9897(0.0015)
+Training Accuracy:0.997302764666
+Test Accuracy:0.993699369937
+Testing F1:0.992817059484
 
 Best Classifier for fashion : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 fashion   SUCCESS!!!!!!!

@@ -4,6 +4,7 @@ refrigerators | kitchen utensils & gadgets | small appliances
 printers ink & toner | printer ink & toner | office & school supplies
 portable speakers docks & radios | cables & interconnects | ipod & mp3 player accessories
 tvs | television & video | tv & home theater accessories
+paper | printer ink & toner | office & school supplies
 networking & wireless | computers & accessories | computer accessories & peripherals
 ipad tablets & e-readers | computers & accessories | computer accessories & peripherals
 monitors | computers & accessories | computer accessories & peripherals
@@ -11,6 +12,7 @@ vacuum cleaners & floor care | storage & organization | small appliances
 projectors & screens | cables & interconnects | tv & home theater accessories
 camcorders | camera & photo | digital cameras
 car installation parts | car & vehicle electronics | car audio
+ranges & ovens | storage & organization | small appliances
 binoculars telescopes & optics | camera & photo | digital cameras
 tv stands mounts & furniture | audio & video accessories | tv & home theater accessories
 tv stands mounts & storage | audio & video accessories | tv & home theater accessories
@@ -18,12 +20,10 @@ camcorder accessories | camera & photo | digital cameras
 accessories | cables & interconnects | computer accessories & peripherals
 ipad tablet & e-reader accessories | computers & accessories | computer accessories & peripherals
 smart tvs & devices | cables & interconnects | tv & home theater accessories
-microwaves | storage & organization | small appliances
 car installation parts & accessories | car & vehicle electronics | car audio
 laptops | computers & accessories | computer accessories & peripherals
 car audio | car & vehicle electronics | car audio
 ipod & mp3 player accessories | portable audio & video | ipod & mp3 player accessories
-scanners faxes & copiers | cables & interconnects | telephones & communication
 desktop & all-in-one computers | computers & accessories | computer accessories & peripherals
 servers & thin clients | computers & accessories | computer accessories & peripherals
 telephones & communication | memory cards | telephones & communication

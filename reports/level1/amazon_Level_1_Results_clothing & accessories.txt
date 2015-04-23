@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:32:58
+Iteration no 0 @ 16:43:17
 Iteration 0 done
-Iteration no 1 @ 15:33:25
+Iteration no 1 @ 16:43:32
 Iteration 1 done
-Iteration no 2 @ 15:33:35
+Iteration no 2 @ 16:43:42
 Iteration 2 done
+Iteration no 3 @ 16:43:50
+Iteration 3 done
+Iteration no 4 @ 16:43:59
+Iteration 4 done
 
 
 FINAL RESULTS clothing & accessories :
-Training Accuracy:0.9174(0.0006)
-Test Accuracy:0.8634(0.0006)
-Testing F1:0.7524(0.0005)
+Training Accuracy:0.915094117924
+Test Accuracy:0.86765051464
+Testing F1:0.757247471084
 
 Best Classifier for clothing & accessories : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 clothing & accessories   SUCCESS!!!!!!!

@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:05:45
+Iteration 0 done
+Iteration no 1 @ 13:05:45
+Iteration 1 done
+Iteration no 2 @ 13:05:45
+Iteration 2 done
+
+
+FINAL RESULTS sales & promotions :
+Training Accuracy:0.8890(0.0095)
+Test Accuracy:0.6359(0.0187)
+Testing F1:0.3477(0.0305)
+
+Best Classifier for sales & promotions : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+sales & promotions   SUCCESS!!!!!!!
+

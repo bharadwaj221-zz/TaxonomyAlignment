@@ -3,13 +3,9 @@ computer components | cables & interconnects | computer accessories
 pdas | pdas handhelds & accessories | computer accessories
 commercial it hardware | networking products | computer accessories
 keyboards & mice | cables & accessories | computer accessories
-storage & organization | storage & organization | faucets
 photo accessories | accessories | photo accessories
-tile | kitchen utensils & gadgets | sinks
-faucets | kitchen utensils & gadgets | sinks
 storage & blank media | data storage | hard drives
 cutlery | tabletop | dinnerware
-plumbing | kitchen utensils & gadgets | sinks
 software | cables & accessories | computer accessories
 dinnerware | tabletop | dinnerware
 bathroom furniture | bedroom furniture | bedroom furniture
@@ -26,8 +22,6 @@ glasses & barware | glassware & drinkware | dinnerware
 kitchen storage | storage & organization | dinnerware
 flatware | tabletop | dinnerware
 e-book readers | touch screen tablet accessories | computer accessories
-large appliances | storage & organization | faucets
-hardware | storage & organization | faucets
 area rugs | area rugs & pads | area rugs
 slipcovers | home decor accents | decorative accessories
 window treatments | window treatments | window treatments
@@ -38,7 +32,6 @@ decorative accessories | home decor accents | decorative accessories
 computer accessories | cables & interconnects | computer accessories
 appliances | tabletop | dinnerware
 lighting & ceiling fans | candles & holders | decorative accessories
-bath | storage & organization | faucets
 networking | networking products | computer accessories
 floppy drives | cables & interconnects | computer accessories
 hard drives | data storage | hard drives

@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:15:53
+Iteration 0 done
+Iteration no 1 @ 13:15:53
+Iteration 1 done
+Iteration no 2 @ 13:15:54
+Iteration 2 done
+
+
+FINAL RESULTS bedroom furniture :
+Training Accuracy:0.9865(0.0011)
+Test Accuracy:0.9605(0.0009)
+Testing F1:0.6926(0.0078)
+
+Best Classifier for bedroom furniture : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+bedroom furniture   SUCCESS!!!!!!!
+

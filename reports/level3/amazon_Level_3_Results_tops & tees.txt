@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:54
+Iteration no 0 @ 16:45:22
 Iteration 0 done
-Iteration no 1 @ 15:34:58
+Iteration no 1 @ 16:45:23
 Iteration 1 done
-Iteration no 2 @ 15:34:58
+Iteration no 2 @ 16:45:24
 Iteration 2 done
+Iteration no 3 @ 16:45:24
+Iteration 3 done
+Iteration no 4 @ 16:45:25
+Iteration 4 done
 
 
 FINAL RESULTS tops & tees :
-Training Accuracy:0.9668(0.0003)
-Test Accuracy:0.8704(0.0011)
-Testing F1:0.8662(0.0007)
+Training Accuracy:0.964237617836
+Test Accuracy:0.882775119617
+Testing F1:0.879224934157
 
 Best Classifier for tops & tees : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 tops & tees   SUCCESS!!!!!!!

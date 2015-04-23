@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:11:00
+Iteration 0 done
+Iteration no 1 @ 13:11:19
+Iteration 1 done
+Iteration no 2 @ 13:11:38
+Iteration 2 done
+
+
+FINAL RESULTS shoes :
+Training Accuracy:0.9870(0.0001)
+Test Accuracy:0.9799(0.0003)
+Testing F1:0.7884(0.0018)
+
+Best Classifier for shoes : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+shoes   SUCCESS!!!!!!!
+

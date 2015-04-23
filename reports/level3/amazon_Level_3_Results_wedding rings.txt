@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:51
+Iteration no 0 @ 16:45:20
 Iteration 0 done
-Iteration no 1 @ 15:34:51
+Iteration no 1 @ 16:45:21
 Iteration 1 done
-Iteration no 2 @ 15:34:52
+Iteration no 2 @ 16:45:21
 Iteration 2 done
+Iteration no 3 @ 16:45:21
+Iteration 3 done
+Iteration no 4 @ 16:45:21
+Iteration 4 done
 
 
 FINAL RESULTS wedding rings :
-Training Accuracy:0.9866(0.0001)
-Test Accuracy:0.9819(0.0036)
-Testing F1:0.9794(0.0040)
+Training Accuracy:0.986298133711
+Test Accuracy:0.985849056604
+Testing F1:0.984235878424
 
 Best Classifier for wedding rings : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 wedding rings   SUCCESS!!!!!!!

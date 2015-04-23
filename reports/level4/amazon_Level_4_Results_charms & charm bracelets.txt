@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:35:18
+Iteration no 0 @ 16:45:34
 Iteration 0 done
-Iteration no 1 @ 15:35:18
+Iteration no 1 @ 16:45:34
 Iteration 1 done
-Iteration no 2 @ 15:35:18
+Iteration no 2 @ 16:45:34
 Iteration 2 done
+Iteration no 3 @ 16:45:34
+Iteration 3 done
+Iteration no 4 @ 16:45:34
+Iteration 4 done
 
 
 FINAL RESULTS charms & charm bracelets :
-Training Accuracy:0.9994(0.0002)
-Test Accuracy:0.9965(0.0019)
-Testing F1:0.9963(0.0020)
+Training Accuracy:0.999265785609
+Test Accuracy:1.0
+Testing F1:1.0
 
 Best Classifier for charms & charm bracelets : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 charms & charm bracelets   SUCCESS!!!!!!!

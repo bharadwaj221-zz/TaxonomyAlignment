@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:14:20
+Iteration 0 done
+Iteration no 1 @ 13:14:21
+Iteration 1 done
+Iteration no 2 @ 13:14:23
+Iteration 2 done
+
+
+FINAL RESULTS living room furniture :
+Training Accuracy:0.9628(0.0005)
+Test Accuracy:0.9414(0.0009)
+Testing F1:0.6394(0.0128)
+
+Best Classifier for living room furniture : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+living room furniture   SUCCESS!!!!!!!
+

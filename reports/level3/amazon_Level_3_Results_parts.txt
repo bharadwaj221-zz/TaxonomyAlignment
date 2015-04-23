@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:58
+Iteration no 0 @ 16:45:22
 Iteration 0 done
-Iteration no 1 @ 15:34:58
+Iteration no 1 @ 16:45:23
 Iteration 1 done
-Iteration no 2 @ 15:34:58
+Iteration no 2 @ 16:45:23
 Iteration 2 done
+Iteration no 3 @ 16:45:23
+Iteration 3 done
+Iteration no 4 @ 16:45:23
+Iteration 4 done
 
 
 FINAL RESULTS parts :
-Training Accuracy:0.9476(0.0025)
-Test Accuracy:0.9193(0.0024)
-Testing F1:0.9179(0.0023)
+Training Accuracy:0.942882509618
+Test Accuracy:0.933884297521
+Testing F1:0.932072274181
 
 Best Classifier for parts : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 parts   SUCCESS!!!!!!!

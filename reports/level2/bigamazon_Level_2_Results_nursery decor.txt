@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:01:48
+Iteration 0 done
+Iteration no 1 @ 13:01:48
+Iteration 1 done
+Iteration no 2 @ 13:01:48
+Iteration 2 done
+
+
+FINAL RESULTS nursery decor :
+Training Accuracy:0.9747(0.0049)
+Test Accuracy:0.9631(0.0057)
+Testing F1:0.5512(0.0872)
+
+Best Classifier for nursery decor : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+nursery decor   SUCCESS!!!!!!!
+

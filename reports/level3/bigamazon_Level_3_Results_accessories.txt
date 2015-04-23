@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:14:32
+Iteration 0 done
+Iteration no 1 @ 13:14:40
+Iteration 1 done
+Iteration no 2 @ 13:14:48
+Iteration 2 done
+
+
+FINAL RESULTS accessories :
+Training Accuracy:0.8209(0.0027)
+Test Accuracy:0.7844(0.0045)
+Testing F1:0.7355(0.0023)
+
+Best Classifier for accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+accessories   SUCCESS!!!!!!!
+

@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:13:27
+Iteration 0 done
+Iteration no 1 @ 13:13:27
+Iteration 1 done
+Iteration no 2 @ 13:13:28
+Iteration 2 done
+
+
+FINAL RESULTS office supplies :
+Training Accuracy:0.9799(0.0010)
+Test Accuracy:0.9713(0.0006)
+Testing F1:0.8994(0.0067)
+
+Best Classifier for office supplies : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+office supplies   SUCCESS!!!!!!!
+

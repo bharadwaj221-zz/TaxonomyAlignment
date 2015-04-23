@@ -1,0 +1,23 @@
+Iteration no 0 @ 12:21:18
+Iteration 0 done
+Iteration no 1 @ 12:21:18
+Iteration 1 done
+Iteration no 2 @ 12:21:18
+Iteration 2 done
+Iteration no 3 @ 12:21:18
+Iteration 3 done
+Iteration no 4 @ 12:21:18
+Iteration 4 done
+
+
+FINAL RESULTS car electronics :
+Training Accuracy:0.990070093458
+Test Accuracy:0.97668997669
+Testing F1:0.976668552036
+
+Best Classifier for car electronics : 
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+car electronics   SUCCESS!!!!!!!
+

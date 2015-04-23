@@ -509,7 +509,7 @@ def prediction(level1,level2,cat,parent,fout,rout,dom,M,direction):
         
     
    
-    if len(Data[level1][cat]) >= 50  :
+    if len(Data[level1][cat]) >= 100  :
         
 #        print 'Insufficient data for ',cat,' size = ',len(Data[level1][cat])
 #    else:
@@ -542,7 +542,7 @@ def prediction(level1,level2,cat,parent,fout,rout,dom,M,direction):
                 if M[level1].has_key(cat):
                     tmpScore=M[level1][cat][2]
                 if occ > tmpScore:
-                    M[level1][cat]=(level2,newCat,occ)
+                    M[level1][cat]=(level2,newCat,occ,d)
                     Scores[level1][cat]=(occ,d)
                     return newCat,occ
                 
@@ -555,7 +555,7 @@ def prediction(level1,level2,cat,parent,fout,rout,dom,M,direction):
                     flag,mscore=checkDup(c,cat)
                     if flag:
                         if c==newCat:
-                            M[level1][cat]=(level2,newCat,occ)
+                            M[level1][cat]=(level2,newCat,occ,d)
                             Scores[level1][cat]=(occ,d)
                             return newCat,occ
                         else:
@@ -673,11 +673,11 @@ for level in range(maxLevels):
                 continue
             if vLevel==-2:
                 eout.write('Insufficient Data to make a mapping for cat:'+cat+'\n') 
-                MCounts[level][2]+=1
+#                MCounts[level][2]+=1
                 continue
             if vLevel==-3:
                 eout.write('Reached Leaf '+parent+'\n')
-                MCounts[level][2]+=1
+#                MCounts[level][2]+=1
                 continue
             if vLevel==-4:
                 eout.write('Parent '+Parent[level][cat]+' not trained for '+cat+'\n')
@@ -699,6 +699,8 @@ for level in range(maxLevels):
             data=[]
             for d in vData:
                 for t in d[0]:
+                    
+                    t=t.translate(None,string.punctuation).translate(None,string.digits)
                     data.append(t) 
             par=Parent[level][cat]
             vec,norm,clf=loadObjects(par,level,td)
@@ -709,8 +711,14 @@ for level in range(maxLevels):
                 MCounts[level][1]+=1
 #                print('Parent '+Parent[level][cat]+' not trained for '+cat)
                 continue
-                
-            x=norm.transform(vec.transform(data))
+            
+            try:
+                x=norm.transform(vec.transform(data))
+            except:
+                print 'Data not found for cat ', vCat, ' at ', vLevel
+                MCounts[level][1]+=1
+                eout.write('Data not found for reverse mapping for '+ vCat+ ' at '+ str(vLevel)+'\n')
+                continue
             y=clf.predict(x)
             C=clf.decision_function(x)
             Z=[]
@@ -745,7 +753,7 @@ for level in range(len(MCounts)):
     print ''
     cout.write(str(MCounts[level][0])+','+str(MCounts[level][1])+','+str(MCounts[level][2])+'\n')
 cout.close()
-    
+
     
     
     
@@ -808,7 +816,7 @@ cout.close()
 #     for p in Params:
 #         B=retrain(p)
 #
-# #pickle.dump(Map,open('PREDICTION_'+td+'.p','wb'))
+pickle.dump(Map,open('MAP_'+sd+'_'+td+'.p','wb'))
 # dout=open('TaxonomyAlignment/reports/'+td+'_Duplicates.txt','wb')
 # print 'Duplicates'
 # for d in Dup:

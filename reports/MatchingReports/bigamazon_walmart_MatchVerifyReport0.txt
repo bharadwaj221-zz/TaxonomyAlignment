@@ -1,0 +1,19 @@
+cell phones | telephones | books
+patio & garden | patio lawn & garden | patio & garden
+toys | books & media | books
+books | books & media | books
+home | home & garden | books
+jewelry | jewelry | jewelry
+music | books & media | books
+pets | pet supplies | pets
+health | health & personal care | health
+electronics | computers hardware & software | books
+sports & outdoors | fan shop | sports & outdoors
+beauty | beauty | beauty
+movies & tv | books & media | books
+baby | nursery | home
+grocery | grocery & gourmet food | grocery
+home improvement | tools & home improvement | home improvement
+video games | books & media | books
+auto & tires | automotive | auto & tires
+apparel | clothing & accessories | apparel

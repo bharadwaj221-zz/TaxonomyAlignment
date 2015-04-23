@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:24
+Iteration no 0 @ 16:44:49
 Iteration 0 done
-Iteration no 1 @ 15:34:24
+Iteration no 1 @ 16:44:49
 Iteration 1 done
-Iteration no 2 @ 15:34:25
+Iteration no 2 @ 16:44:50
 Iteration 2 done
+Iteration no 3 @ 16:44:50
+Iteration 3 done
+Iteration no 4 @ 16:44:50
+Iteration 4 done
 
 
 FINAL RESULTS kitchen & bath fixtures :
-Training Accuracy:0.9926(0.0008)
-Test Accuracy:0.9719(0.0035)
-Testing F1:0.9505(0.0062)
+Training Accuracy:0.992272309108
+Test Accuracy:0.974944731024
+Testing F1:0.956106202099
 
 Best Classifier for kitchen & bath fixtures : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 kitchen & bath fixtures   SUCCESS!!!!!!!

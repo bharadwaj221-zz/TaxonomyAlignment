@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:07:10
+Iteration 0 done
+Iteration no 1 @ 13:07:12
+Iteration 1 done
+Iteration no 2 @ 13:07:13
+Iteration 2 done
+
+
+FINAL RESULTS kitchen & dining :
+Training Accuracy:0.9709(0.0007)
+Test Accuracy:0.9446(0.0017)
+Testing F1:0.9057(0.0031)
+
+Best Classifier for kitchen & dining : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+kitchen & dining   SUCCESS!!!!!!!
+

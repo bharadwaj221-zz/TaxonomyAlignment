@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:26
+Iteration no 0 @ 16:44:41
 Iteration 0 done
-Iteration no 1 @ 15:34:27
+Iteration no 1 @ 16:44:41
 Iteration 1 done
-Iteration no 2 @ 15:34:27
+Iteration no 2 @ 16:44:41
 Iteration 2 done
+Iteration no 3 @ 16:44:41
+Iteration 3 done
+Iteration no 4 @ 16:44:42
+Iteration 4 done
 
 
 FINAL RESULTS office furniture & lighting :
-Training Accuracy:0.9985(0.0002)
-Test Accuracy:0.9741(0.0005)
-Testing F1:0.9651(0.0010)
+Training Accuracy:0.998530132288
+Test Accuracy:0.982352941176
+Testing F1:0.975039185937
 
 Best Classifier for office furniture & lighting : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 office furniture & lighting   SUCCESS!!!!!!!

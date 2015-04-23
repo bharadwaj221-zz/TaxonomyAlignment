@@ -1,0 +1,19 @@
+Iteration no 0 @ 13:06:55
+Iteration 0 done
+Iteration no 1 @ 13:06:55
+Iteration 1 done
+Iteration no 2 @ 13:06:55
+Iteration 2 done
+
+
+FINAL RESULTS photo accessories :
+Training Accuracy:0.9966(0.0002)
+Test Accuracy:0.9930(0.0008)
+Testing F1:0.7598(0.0413)
+
+Best Classifier for photo accessories : 
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)
+photo accessories   SUCCESS!!!!!!!
+

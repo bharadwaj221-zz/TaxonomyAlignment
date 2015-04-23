@@ -1,0 +1,1 @@
+Only one label data for styling products = [1]

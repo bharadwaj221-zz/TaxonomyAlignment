@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:32:46
+Iteration no 0 @ 16:43:12
 Iteration 0 done
-Iteration no 1 @ 15:32:51
+Iteration no 1 @ 16:43:18
 Iteration 1 done
-Iteration no 2 @ 15:32:58
+Iteration no 2 @ 16:43:24
 Iteration 2 done
+Iteration no 3 @ 16:43:29
+Iteration 3 done
+Iteration no 4 @ 16:43:33
+Iteration 4 done
 
 
 FINAL RESULTS automotive :
-Training Accuracy:0.9442(0.0005)
-Test Accuracy:0.8967(0.0024)
-Testing F1:0.8088(0.0029)
+Training Accuracy:0.941593035343
+Test Accuracy:0.898014346606
+Testing F1:0.81413323799
 
 Best Classifier for automotive : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 automotive   SUCCESS!!!!!!!

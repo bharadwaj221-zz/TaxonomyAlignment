@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:33:32
+Iteration no 0 @ 16:43:25
 Iteration 0 done
-Iteration no 1 @ 15:33:34
+Iteration no 1 @ 16:43:26
 Iteration 1 done
-Iteration no 2 @ 15:33:35
+Iteration no 2 @ 16:43:28
 Iteration 2 done
+Iteration no 3 @ 16:43:30
+Iteration 3 done
+Iteration no 4 @ 16:43:31
+Iteration 4 done
 
 
 FINAL RESULTS office products :
-Training Accuracy:0.9915(0.0001)
-Test Accuracy:0.9680(0.0016)
-Testing F1:0.9294(0.0049)
+Training Accuracy:0.991161364813
+Test Accuracy:0.970691302963
+Testing F1:0.935319567335
 
 Best Classifier for office products : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 office products   SUCCESS!!!!!!!

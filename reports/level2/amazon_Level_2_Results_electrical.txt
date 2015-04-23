@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:09
+Iteration no 0 @ 16:44:25
 Iteration 0 done
-Iteration no 1 @ 15:34:09
+Iteration no 1 @ 16:44:25
 Iteration 1 done
-Iteration no 2 @ 15:34:10
+Iteration no 2 @ 16:44:26
 Iteration 2 done
+Iteration no 3 @ 16:44:26
+Iteration 3 done
+Iteration no 4 @ 16:44:26
+Iteration 4 done
 
 
 FINAL RESULTS electrical :
-Training Accuracy:0.9999(0.0001)
-Test Accuracy:0.9974(0.0014)
-Testing F1:0.9972(0.0015)
+Training Accuracy:1.0
+Test Accuracy:0.999325236167
+Testing F1:0.999262258971
 
 Best Classifier for electrical : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 electrical   SUCCESS!!!!!!!

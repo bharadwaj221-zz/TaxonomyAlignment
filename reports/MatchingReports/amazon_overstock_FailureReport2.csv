@@ -38,7 +38,7 @@ Parent womens clothing not trained for sweaters
 Parent books not trained for childrens books
 Parent movies not trained for exercise
 Parent books not trained for fiction books
-No forward mapping for sinks
+Parent home improvement not trained for sinks
 No forward mapping for makeup
 Parent jewelry not trained for wedding rings
 Parent books not trained for health & fitness books
@@ -49,6 +49,7 @@ Parent jewelry not trained for body jewelry
 No forward mapping for hair care
 Reached Leaf 
 Parent womens clothing not trained for maternity clothing
+Parent home improvement not trained for storage & organization
 Reached Leaf 
 Src objects not found for reverse mapping for designer sunglasses - child of designer store
 Parent clothing shoes & access. not trained for handbags
@@ -73,17 +74,20 @@ Reached Leaf
 Parent clothing shoes & access. not trained for clothing
 Parent jewelry not trained for necklaces
 Reached Leaf 
-Parent janitorial & cleaning not trained for cleaning supplies
+Reached Leaf 
+Parent home improvement not trained for tile
 Parent pet beds not trained for pet beds
 Parent movies not trained for comedy
 Parent movies not trained for martial arts
 Parent books not trained for self-help books
+Parent home improvement not trained for faucets
 Parent mens clothing not trained for ties
 Parent music not trained for christian & gospel
 Parent books not trained for journals
 Reached Leaf 
 Parent gifts & flowers not trained for flowers & plants
 No forward mapping for vitamins & supplements
+Parent home improvement not trained for plumbing
 Parent movies not trained for travel
 Parent books not trained for political science books
 Reached Leaf 
@@ -119,7 +123,7 @@ Parent books not trained for game books
 Parent music not trained for vinyl
 Reached Leaf 
 Parent womens clothing not trained for plus sizes
-Reached Leaf 
+Parent watches not trained for womens watches
 Parent mens clothing not trained for underwear
 No forward mapping for sports memorabilia
 No forward mapping for optics
@@ -150,7 +154,7 @@ Parent mens clothing not trained for sportcoats & blazers
 No forward mapping for scanners
 Parent music not trained for imports
 Parent books not trained for language arts
-No forward mapping for showers
+Parent home improvement not trained for showers
 Reached Leaf 
 Reached Leaf 
 No forward mapping for fan shop
@@ -187,7 +191,7 @@ Parent books not trained for textbooks
 Reached Leaf 
 Reached Leaf 
 Parent books not trained for education & teaching books
-No forward mapping for garage & automotive
+Parent home improvement not trained for garage & automotive
 Parent books not trained for parenting books
 Parent hunting not trained for sights & scopes
 Parent pc & video games not trained for strategy guides
@@ -217,6 +221,7 @@ Parent pc & video games not trained for pc games
 Parent books not trained for cooking & food books
 No forward mapping for digital picture frames
 Parent books not trained for general
+Parent home improvement not trained for large appliances
 Parent books not trained for science books
 No forward mapping for digital cameras
 Parent womens clothing not trained for loungewear
@@ -224,6 +229,7 @@ Reached Leaf
 Parent music not trained for 
 Parent womens clothing not trained for skirts
 Src objects not found for reverse mapping for bed-in-a-bag - child of fashion bedding
+Parent home improvement not trained for hardware
 No forward mapping for ski clothing
 Src objects not found for reverse mapping for bedskirts - child of bedding accessories
 Parent health & beauty not trained for healthcare & medical supplies
@@ -234,12 +240,12 @@ Parent books not trained for reference books
 No forward mapping for surveillance
 Reached Leaf 
 Parent jewelry not trained for more jewelry
-Reached Leaf 
+Parent watches not trained for kids watches
 Parent baby bedding not trained for bedding sets
 Parent womens clothing not trained for tops
 Parent books not trained for performing arts books
 Reached Leaf 
-Reached Leaf 
+Parent watches not trained for mens watches
 Parent wedding planning not trained for wedding essentials
 Parent telephones not trained for cordless phones
 Reached Leaf 
@@ -252,7 +258,7 @@ Parent office furniture not trained for office furnishings
 Parent music not trained for easy listening
 Parent binders & accessories not trained for binders
 Reached Leaf 
-No forward mapping for wall coverings
+Parent home improvement not trained for wall coverings
 Parent books not trained for calendars
 Parent womens clothing not trained for intimates
 Reached Leaf 
@@ -288,6 +294,7 @@ Reached Leaf
 Reached Leaf 
 Parent movies not trained for childrens
 Parent movies not trained for music videos concerts
+Parent home improvement not trained for bath
 Src objects not found for reverse mapping for down - child of down bedding
 No forward mapping for nail care
 Reached Leaf 

@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:08
+Iteration no 0 @ 16:44:28
 Iteration 0 done
-Iteration no 1 @ 15:34:09
+Iteration no 1 @ 16:44:28
 Iteration 1 done
-Iteration no 2 @ 15:34:09
+Iteration no 2 @ 16:44:28
 Iteration 2 done
+Iteration no 3 @ 16:44:28
+Iteration 3 done
+Iteration no 4 @ 16:44:29
+Iteration 4 done
 
 
 FINAL RESULTS luggage & bags :
-Training Accuracy:0.9978(0.0006)
-Test Accuracy:0.9573(0.0065)
-Testing F1:0.9570(0.0066)
+Training Accuracy:0.997456765005
+Test Accuracy:0.969512195122
+Testing F1:0.969254996063
 
 Best Classifier for luggage & bags : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 luggage & bags   SUCCESS!!!!!!!

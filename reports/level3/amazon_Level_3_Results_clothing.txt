@@ -1,18 +1,22 @@
-Iteration no 0 @ 15:34:51
+Iteration no 0 @ 16:45:21
 Iteration 0 done
-Iteration no 1 @ 15:34:52
+Iteration no 1 @ 16:45:21
 Iteration 1 done
-Iteration no 2 @ 15:34:52
+Iteration no 2 @ 16:45:22
 Iteration 2 done
+Iteration no 3 @ 16:45:22
+Iteration 3 done
+Iteration no 4 @ 16:45:22
+Iteration 4 done
 
 
 FINAL RESULTS clothing :
-Training Accuracy:0.9964(0.0005)
-Test Accuracy:0.9806(0.0043)
-Testing F1:0.9796(0.0045)
+Training Accuracy:0.995367070563
+Test Accuracy:0.988603988604
+Testing F1:0.988011988012
 
 Best Classifier for clothing : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 clothing   SUCCESS!!!!!!!
