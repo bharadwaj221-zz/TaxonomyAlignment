@@ -4,34 +4,44 @@ Created on Tue Oct  7 14:32:32 2014
 
 @author: bharadwaj
 """
-import sys,os
+import sys,os,re
 
 
 domain=sys.argv[1]
 scores=[]
 fout = open("TaxonomyAlignment/"+domain+"_ConsolidatedResults.txt",'wb')
 for level in range(8):
+    scores=[]
+    flag=False
     fout.write('Level '+str(level)+'\n')
     path='TaxonomyAlignment/reports/level'+str(level)
-    os.system('ls -1 '+path+'/'+domain+'_Level_*_Results* >'+path+'/ResultFiles')
-    flist=open(path+'/ResultFiles')
-    
+#    flist=os.system('ls -1 '+path+'/'+domain+'_Level_*_Results* ')
+    flist=os.listdir(path+'/')
+#    flist=open(path+'/ResultFiles')
+    score=0
     for line in flist:
-        cat=line.split('_')[3].split('.')[0]
+        re.match
+        if domain not in line or 'Level' not in line or 'Results' not in line:
+            continue
+        flag=True
+        cat=line.split('_')[4].split('.')[0]
         line=line.split('\n')[0]
-        fin=open(line)
+        fin=open(path+'/'+line)
         for i, l in enumerate(fin):
             if 'Testing F1' in l:
                 
                 score = l.split(':')[1].split('(')[0]
                 
-#                print cat, score
+                #print cat,'---', score
                 fout.write(cat+":"+str(score)+'\n')
                 scores.append(float(score))
         fin.close()
-    print 'Level ',level,': Avg F1 = ',sum(scores)/(1.0*len(scores))
+    try:    
+        print 'Level ',level,': Avg F1 = ',sum(scores)/(1.0*len(scores)), flag
+    except:
+        print 'NA'
     
-    flist.close()
+#    flist.close()
 fout.close()        
 
 

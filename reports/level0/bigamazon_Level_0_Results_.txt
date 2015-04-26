@@ -1,15 +1,15 @@
-Iteration no 0 @ 12:39:11
+Iteration no 0 @ 13:06:18
 Iteration 0 done
-Iteration no 1 @ 12:43:39
+Iteration no 1 @ 13:07:58
 Iteration 1 done
-Iteration no 2 @ 12:48:01
+Iteration no 2 @ 13:09:40
 Iteration 2 done
 
 
 FINAL RESULTS  :
-Training Accuracy:0.9752(0.0001)
-Test Accuracy:0.9625(0.0002)
-Testing F1:0.7957(0.0009)
+Training Accuracy:0.9293(0.0003)
+Test Accuracy:0.8821(0.0004)
+Testing F1:0.7800(0.0017)
 
 Best Classifier for  : 
 LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,

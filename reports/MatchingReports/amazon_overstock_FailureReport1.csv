@@ -7,8 +7,8 @@ Reached Leaf
 No forward mapping for baby
 Parent books & media not trained for books
 No forward mapping for jewelry & watches
-Src objects not found for reverse mapping for gift baskets - child of gifts & flowers
-No forward mapping for wedding planning
+Parent gifts & flowers not trained for gift baskets
+Parent gifts & flowers not trained for wedding planning
 No forward mapping for area rugs
 Src objects not found for reverse mapping for fitness & nutrition - child of health & beauty
 Src objects not found for reverse mapping for collectibles - child of sports & toys
@@ -48,7 +48,8 @@ No forward mapping for health & beauty
 No forward mapping for home improvement
 No forward mapping for sexual wellness
 Parent books & media not trained for movies
-Src objects not found for reverse mapping for jewelry & watch boxes - child of gifts & flowers
+Parent gifts & flowers not trained for jewelry & watch boxes
+Insufficient Data to make a mapping for cat:bedding accessories
 No forward mapping for telephones
 Src objects not found for reverse mapping for outdoors - child of sports & toys
 Src objects not found for reverse mapping for sewing & needlework - child of crafts & sewing

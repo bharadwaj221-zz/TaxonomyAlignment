@@ -3,7 +3,6 @@ Category shoes Added to RData at 2 to parent women
 Category watches Added to RData at 1 to parent jewelry
 Category baby Added to RData at 1 to parent jewelry
 Category jewelry & watches Added to RData at 1 to parent jewelry
-Category wedding planning Added to RData at 1 to parent grocery & gourmet food
 Category area rugs Added to RData at 1 to parent jewelry
 Category world jewelry Added to RData at 1 to parent jewelry
 Category jewelry Added to RData at 1 to parent jewelry

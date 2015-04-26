@@ -1,18 +1,22 @@
-Iteration no 0 @ 13:05:48
+Iteration no 0 @ 11:53:32
 Iteration 0 done
-Iteration no 1 @ 13:05:57
+Iteration no 1 @ 11:53:42
 Iteration 1 done
-Iteration no 2 @ 13:06:07
+Iteration no 2 @ 11:53:51
 Iteration 2 done
+Iteration no 3 @ 11:54:01
+Iteration 3 done
+Iteration no 4 @ 11:54:08
+Iteration 4 done
 
 
 FINAL RESULTS electronics :
-Training Accuracy:0.9513(0.0003)
-Test Accuracy:0.9143(0.0015)
-Testing F1:0.6443(0.0062)
+Training Accuracy:0.924119823908
+Test Accuracy:0.879894970347
+Testing F1:0.7655039117
 
 Best Classifier for electronics : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 electronics   SUCCESS!!!!!!!

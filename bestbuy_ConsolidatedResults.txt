@@ -1,122 +1,122 @@
 Level 0
-Results:0.891207135565
+:0.891207135565
 
 Level 1
-Results:0.997321195466
+audio & mp3:0.924430252331
 
-Results:0.924430252331
+health fitness & beauty:1.0
 
-Results:0.92139910345
+cameras & camcorders:0.92139910345
 
-Results:0.733618973841
+movies & music:0.998588700974
 
-Results:0.801961587179
+computers & tablets:0.801961587179
 
-Results:1.0
+home:0.861960568757
 
-Results:0.861960568757
+tv & home theater:0.795477772549
 
-Results:0.998588700974
+office:0.984656985844
 
-Results:0.984656985844
+appliances:0.997321195466
 
-Results:0.795477772549
+video games:0.642193816235
 
-Results:0.642193816235
+car electronics & gps:0.733618973841
 
 Level 2
-Results:0.986964965446
+projectors & screens:0.994007823613
 
-Results:0.764599600218
+heating cooling & air quality:0.989582166036
 
-Results:0.838353977756
+music:0.470666221346
 
-Results:0.955101248381
+computer accessories & peripherals:0.838353977756
 
-Results:0.764450559001
+portable speakers docks & radios:0.993003913894
 
-Results:0.688406600318
+outdoor living:0.993921703297
 
-Results:0.925423873356
+tv & home theater accessories:0.9933210649
 
-Results:1.0
+networking & wireless:0.958613815244
 
-Results:0.728849611602
+digital camera accessories:0.688406600318
 
-Results:0.989582166036
+ipod & mp3 player accessories:0.998218694605
 
-Results:0.919990989068
+fitness & exercise:1.0
 
-Results:0.863296197785
+headphones:0.728849611602
 
-Results:0.998218694605
+car audio:0.986964965446
 
-Results:0.763769014205
+desktop & all-in-one computers:0.764450559001
 
-Results:0.470666221346
+home audio:0.919990989068
 
-Results:0.958613815244
+cell phone accessories:0.764599600218
 
-Results:0.992957773623
+ipad tablet & e-reader accessories:0.863296197785
 
-Results:1.0
+small appliances:0.976744277281
 
-Results:0.993921703297
+office furniture & storage:0.992957773623
 
-Results:0.993003913894
+digital cameras:0.925423873356
 
-Results:0.994007823613
+telephones & communication:0.962589444108
 
-Results:0.976744277281
+office & school supplies:1.0
 
-Results:0.962589444108
+computer cards & components:0.955101248381
 
-Results:0.9933210649
+laptops:0.763769014205
 
 Level 3
-Results:0.963132179039
+hard drives:0.741139891712
 
-Results:0.951338285825
+latin:0.889779804696
 
-Results:0.99093487699
+a v cables & connectors:0.963132179039
 
-Results:0.781402471764
+cables & connectors:0.951338285825
 
-Results:0.713033852671
+pop:0.758175389656
 
-Results:0.720399296073
+country:0.720399296073
 
-Results:0.763930938453
+tablet accessories:0.981522566972
 
-Results:0.977468230694
+electronic dance:0.763930938453
 
-Results:0.701822456155
+world:0.766813173421
 
-Results:0.741139891712
+r&b & soul:0.671036777377
 
-Results:0.808720167847
+soundtracks & shows:0.692914361457
 
-Results:0.98658707472
+rap & hip-hop:0.645300880146
 
-Results:0.889779804696
+speakers:0.931370976802
 
-Results:0.935409425353
+camera lenses:0.99093487699
 
-Results:0.758175389656
+mice & keyboards:0.935409425353
 
-Results:0.645300880146
+computer memory:0.713033852671
 
-Results:0.671036777377
+rock:0.48399918152
 
-Results:0.48399918152
+laptop accessories:0.98658707472
 
-Results:0.692914361457
+gospel & christian:0.701822456155
 
-Results:0.931370976802
+cases armbands & watchbands:0.781402471764
 
-Results:0.981522566972
+jazz:0.808720167847
 
-Results:0.766813173421
+games puzzles & cards:0.977468230694
 
 Level 4
 Level 5

@@ -1,118 +1,118 @@
 Level 0
-Results:0.932013025894
+:0.932013025894
 
 Level 1
-Results:0.998276271153
+main street revolution:1.0
 
-Results:0.905886872363
+clothing & shoes:0.963473987833
 
-Results:0.963473987833
+home & garden:0.964911708934
 
-Results:0.916702202462
+worldstock fair trade:0.994263917672
 
-Results:0.964911708934
+jewelry & watches:0.999663027654
 
-Results:0.999663027654
+bedding & bath:0.998276271153
 
-Results:1.0
+electronics:0.916702202462
 
-Results:0.994263917672
+books & media:0.905886872363
 
 Level 2
-Results:0.760861500118
+books:0.440666368162
 
-Results:0.917028289374
+audio & video:0.917028289374
 
-Results:0.998681318681
+home improvement:0.989951663361
 
-Results:0.440666368162
+womens clothing:0.967317218623
 
-Results:0.996096355588
+mens clothing:1.0
 
-Results:0.925718573751
+home decor:0.995798405105
 
-Results:0.977399830908
+movies:0.505575979594
 
-Results:0.995798405105
+beauty products:0.998681318681
 
-Results:0.989951663361
+kitchen & dining:0.997829141195
 
-Results:0.822286298546
+music:0.465548930437
 
-Results:0.997829141195
+furniture:0.977399830908
 
-Results:1.0
+art gallery:0.760861500118
 
-Results:0.505575979594
+cameras & photo:0.996096355588
 
-Results:0.465548930437
+watches:0.987660692781
 
-Results:0.967147002527
+computers hardware & software:0.925718573751
 
-Results:0.987660692781
+shoes:0.967147002527
 
-Results:0.967317218623
+jewelry:0.822286298546
 
 Level 3
-Results:0.465394861859
+textbooks:0.853675136297
 
-Results:0.560040156347
+shop by style:0.913945772096
 
-Results:0.678167456098
+crafts hobbies books:0.852926793965
 
-Results:0.456748331071
+childrens books:0.456748331071
 
-Results:0.852926793965
+rings:0.609756231748
 
-Results:0.986295510539
+lighting & ceiling fans:0.998193272392
 
-Results:0.889834831275
+perfumes & fragrances:0.989219371959
 
-Results:0.441666466079
+imports:0.608753120979
 
-Results:0.996554562775
+handmade jewelry:0.996554562775
 
-Results:0.768985720077
+travel books:0.789335995319
 
-Results:0.53246900866
+jazz:0.684219715592
 
-Results:0.608753120979
+health & fitness books:0.768985720077
 
-Results:0.684219715592
+science books:0.588026381621
 
-Results:0.998193272392
+social sciences:0.613331845404
 
-Results:0.835975814192
+performing arts books:0.889451126686
 
-Results:0.998084873647
+history books:0.53246900866
 
-Results:0.889451126686
+necklaces:0.998084873647
 
-Results:0.989219371959
+wedding rings:0.972327085584
 
-Results:0.5608413458
+tops:0.865017290755
 
-Results:0.609756231748
+womens shoes:0.788437936936
 
-Results:0.757302638035
+dresses:0.889834831275
 
-Results:0.588026381621
+rock & pop:0.757302638035
 
-Results:0.913945772096
+window treatments:1.0
 
-Results:0.613331845404
+art books:0.560040156347
 
-Results:0.853675136297
+decorative accessories:0.986295510539
 
-Results:0.865017290755
+mens shoes:0.835975814192
 
-Results:0.789335995319
+area rugs:0.465394861859
 
-Results:0.972327085584
+religion books:0.5608413458
 
-Results:1.0
+business & money books:0.678167456098
 
-Results:0.788437936936
+fiction books:0.441666466079
 
 Level 4
 Level 5

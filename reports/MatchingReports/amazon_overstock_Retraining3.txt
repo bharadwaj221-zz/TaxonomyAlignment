@@ -5,7 +5,6 @@ Category serving pieces Added to RData at 3 to parent tabletop
 Category toasters & ovens Added to RData at 3 to parent tabletop
 Category processors Added to RData at 3 to parent computer components
 Category video cards Added to RData at 3 to parent computer components
-Category educational Added to RData at 3 to parent cables & accessories
 Category blenders Added to RData at 3 to parent tabletop
 Category other expansion cards Added to RData at 3 to parent computer components
 Category bowls Added to RData at 3 to parent tabletop
@@ -15,16 +14,12 @@ Category serving platters trays Added to RData at 3 to parent tabletop
 Category mixers Added to RData at 3 to parent tabletop
 Category clearance Added to RData at 3 to parent cables & accessories
 Category desktops Added to RData at 3 to parent laptop & netbook computer accessories
-Category ultrabooks Added to RData at 3 to parent laptop & netbook computer accessories
 Category motherboards Added to RData at 3 to parent computer components
-Category completer pieces Added to RData at 3 to parent tabletop
-Category block sets Added to RData at 3 to parent tabletop
 Category laptops Added to RData at 3 to parent laptop & netbook computer accessories
 Category plates Added to RData at 3 to parent tabletop
 Category serving bowls Added to RData at 3 to parent tabletop
 Category flatware sets Added to RData at 3 to parent tabletop
 Category specialty appliances Added to RData at 3 to parent tabletop
 Category coffee makers Added to RData at 3 to parent tabletop
-Category childrens Added to RData at 3 to parent cables & accessories
 Category servers Added to RData at 3 to parent laptop & netbook computer accessories
 Category individual knives Added to RData at 3 to parent tabletop

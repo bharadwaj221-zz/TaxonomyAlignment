@@ -84,7 +84,7 @@ Parent home improvement not trained for faucets
 Parent mens clothing not trained for ties
 Parent music not trained for christian & gospel
 Parent books not trained for journals
-Reached Leaf 
+Parent gift baskets not trained for chocolate & food baskets
 Parent gifts & flowers not trained for flowers & plants
 No forward mapping for vitamins & supplements
 Parent home improvement not trained for plumbing
@@ -113,7 +113,7 @@ Parent books not trained for law books
 Parent books not trained for audio books
 Parent backpacks & bags not trained for backpacks
 Parent music not trained for r & b
-No forward mapping for makeup tools & cases
+Insufficient Data to make a mapping for cat:makeup tools & cases
 Parent books not trained for history books
 Reached Leaf 
 No forward mapping for skin care
@@ -166,7 +166,7 @@ Src objects not found for reverse mapping for duvet covers - child of fashion be
 Parent handbags not trained for shop by style
 Src objects not found for reverse mapping for sheets - child of sheets
 Parent pc & video games not trained for nintendo wii
-Reached Leaf 
+Src objects not found for reverse mapping for sale - child of sale
 Parent books not trained for new age books
 Parent mens clothing not trained for hoodies
 Parent movies not trained for musicals performing arts
@@ -197,7 +197,7 @@ Parent hunting not trained for sights & scopes
 Parent pc & video games not trained for strategy guides
 Parent jewelry not trained for rings
 Parent womens clothing not trained for swimwear
-No forward mapping for mens designer clothing
+Insufficient Data to make a mapping for cat:mens designer clothing
 Reached Leaf 
 Parent womens clothing not trained for pants
 Parent books not trained for biography autobiography books
@@ -212,7 +212,7 @@ Parent movies not trained for foreign
 Parent pc & video games not trained for games
 Parent area rugs not trained for 5x8 - 6x9 rugs
 Parent jewelry not trained for estate & vintage jewelry
-No forward mapping for sports plaques
+Insufficient Data to make a mapping for cat:sports plaques
 Parent movies not trained for spanish language films
 Reached Leaf 
 Parent shoes not trained for womens shoes
@@ -231,7 +231,7 @@ Parent womens clothing not trained for skirts
 Src objects not found for reverse mapping for bed-in-a-bag - child of fashion bedding
 Parent home improvement not trained for hardware
 No forward mapping for ski clothing
-Src objects not found for reverse mapping for bedskirts - child of bedding accessories
+Parent bedding accessories not trained for bedskirts
 Parent health & beauty not trained for healthcare & medical supplies
 Reached Leaf 
 Reached Leaf 
@@ -252,7 +252,7 @@ Reached Leaf
 No forward mapping for camping & hiking
 Parent toys & hobbies not trained for games & puzzles
 Parent movies not trained for mystery & suspense
-Src objects not found for reverse mapping for memory foam mattress toppers - child of memory foam
+Reached Leaf 
 Parent music not trained for alternative
 Parent office furniture not trained for office furnishings
 Parent music not trained for easy listening
@@ -310,7 +310,7 @@ Parent movies not trained for action & adventure
 Parent books not trained for true crime
 Parent movies not trained for vhs
 Reached Leaf 
-No forward mapping for coins & stamps
+Insufficient Data to make a mapping for cat:coins & stamps
 Src objects not found for reverse mapping for printers & supplies - child of office electronics
 Parent movies not trained for sports & recreation
 No forward mapping for designer shoes

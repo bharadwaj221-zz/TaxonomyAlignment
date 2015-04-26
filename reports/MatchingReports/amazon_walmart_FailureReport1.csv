@@ -17,6 +17,7 @@ Parent movies & tv not trained for slapstick
 Reached Leaf 
 No forward mapping for marine electronics
 Reached Leaf 
+No forward mapping for fluids & lubricants
 Parent household essentials not trained for surface care & protection
 Parent books not trained for women sleuths
 Parent books not trained for general reference
@@ -25,6 +26,7 @@ Reached Leaf
 No forward mapping for boxing gear & accessories
 Reached Leaf 
 Reached Leaf 
+No forward mapping for auto paint & body
 Parent books not trained for health & wellness
 No forward mapping for knives & tools
 No forward mapping for basketball backboard systems
@@ -48,7 +50,6 @@ No forward mapping for chargers
 Parent books not trained for music
 No forward mapping for pumps & accessories
 Reached Leaf 
-No forward mapping for kids crafts
 Reached Leaf 
 Reached Leaf 
 No forward mapping for home safes & lock boxes
@@ -134,7 +135,6 @@ Reached Leaf
 Reached Leaf 
 Reached Leaf 
 Parent books not trained for travel reference
-No forward mapping for surface protectors
 Parent books not trained for religion - general
 No forward mapping for learning toys
 Parent household essentials not trained for air fresheners & deodorizer
@@ -151,6 +151,7 @@ No forward mapping for cushions
 Parent movies & tv not trained for classic dramas
 Reached Leaf 
 Reached Leaf 
+No forward mapping for cereal
 Reached Leaf 
 Parent books not trained for language arts & disciplines
 Parent books not trained for study & teaching
@@ -158,7 +159,6 @@ No forward mapping for auto care & cleaning products
 Parent books not trained for short stories
 No forward mapping for gun sights
 Reached Leaf 
-No forward mapping for grill tools & accessories
 Parent movies & tv not trained for best selling movies & tv for less
 Reached Leaf 
 Reached Leaf 
@@ -187,7 +187,6 @@ Reached Leaf
 Parent books not trained for 3 - 4 years
 Parent books not trained for childhood family & personal
 Parent movies & tv not trained for crime
-No forward mapping for generators
 Reached Leaf 
 No forward mapping for baby mattresses
 No forward mapping for crib bedding sets
@@ -203,13 +202,11 @@ No forward mapping for exercise bikes
 Reached Leaf 
 No forward mapping for numbers letters & signs
 Reached Leaf 
-No forward mapping for craft storage
 No forward mapping for see all cribs
 Parent books not trained for art
 Reached Leaf 
 Reached Leaf 
 Reached Leaf 
-No forward mapping for baseball training & coaching equipment
 Reached Leaf 
 Parent books not trained for pets
 Reached Leaf 
@@ -275,7 +272,7 @@ No forward mapping for baby gates
 Reached Leaf 
 Reached Leaf 
 Parent books not trained for world
-Parent everything else not trained for other home
+Src objects not found for reverse mapping for other home - child of everything else
 No forward mapping for baby proofing
 Reached Leaf 
 Reached Leaf 
@@ -287,7 +284,6 @@ Reached Leaf
 No forward mapping for halloween make-up
 Reached Leaf 
 Parent books not trained for gardening
-No forward mapping for cookware
 Reached Leaf 
 Parent books not trained for 5 - 7 years
 Reached Leaf 

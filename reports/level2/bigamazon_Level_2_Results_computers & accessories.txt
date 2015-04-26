@@ -1,18 +1,22 @@
-Iteration no 0 @ 13:12:36
+Iteration no 0 @ 11:55:03
 Iteration 0 done
-Iteration no 1 @ 13:12:50
+Iteration no 1 @ 11:55:07
 Iteration 1 done
-Iteration no 2 @ 13:13:04
+Iteration no 2 @ 11:55:11
 Iteration 2 done
+Iteration no 3 @ 11:55:15
+Iteration 3 done
+Iteration no 4 @ 11:55:19
+Iteration 4 done
 
 
 FINAL RESULTS computers & accessories :
-Training Accuracy:0.9295(0.0002)
-Test Accuracy:0.8958(0.0008)
-Testing F1:0.6610(0.0120)
+Training Accuracy:0.957577347676
+Test Accuracy:0.916855020988
+Testing F1:0.869681719246
 
 Best Classifier for computers & accessories : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 computers & accessories   SUCCESS!!!!!!!

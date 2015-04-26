@@ -1,18 +1,22 @@
-Iteration no 0 @ 13:06:30
+Iteration no 0 @ 11:55:18
 Iteration 0 done
-Iteration no 1 @ 13:06:31
+Iteration no 1 @ 11:55:19
 Iteration 1 done
-Iteration no 2 @ 13:06:33
+Iteration no 2 @ 11:55:20
 Iteration 2 done
+Iteration no 3 @ 11:55:21
+Iteration 3 done
+Iteration no 4 @ 11:55:22
+Iteration 4 done
 
 
 FINAL RESULTS fan shop :
-Training Accuracy:0.9514(0.0012)
-Test Accuracy:0.8670(0.0019)
-Testing F1:0.8256(0.0036)
+Training Accuracy:0.95963518682
+Test Accuracy:0.912900188324
+Testing F1:0.876522588116
 
 Best Classifier for fan shop : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 fan shop   SUCCESS!!!!!!!

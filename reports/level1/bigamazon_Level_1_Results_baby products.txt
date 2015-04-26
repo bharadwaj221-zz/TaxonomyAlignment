@@ -1,15 +1,15 @@
-Iteration no 0 @ 13:01:46
+Iteration no 0 @ 13:13:18
 Iteration 0 done
-Iteration no 1 @ 13:01:47
+Iteration no 1 @ 13:13:18
 Iteration 1 done
-Iteration no 2 @ 13:01:47
+Iteration no 2 @ 13:13:19
 Iteration 2 done
 
 
 FINAL RESULTS baby products :
-Training Accuracy:0.9843(0.0013)
-Test Accuracy:0.8855(0.0023)
-Testing F1:0.8330(0.0144)
+Training Accuracy:0.9839(0.0018)
+Test Accuracy:0.8450(0.0042)
+Testing F1:0.8306(0.0102)
 
 Best Classifier for baby products : 
 LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,

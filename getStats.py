@@ -9,7 +9,9 @@ import pickle,sys
 
 domain=sys.argv[1]
 Crumbs=pickle.load(open('Data/'+domain+'_CRUMBS.p'))
-
+if len(Crumbs) > 1000000:
+    Crumbs=Crumbs[1:1000000]
+    
 maxLevels=0
 Concepts={}
 LeafConcepts={}
@@ -18,8 +20,8 @@ for c in Crumbs:
   if len(parts)> maxLevels:
       maxLevels=len(parts)
   for j in range(len(parts)):    
-      if not Concepts.has_key((j,parts[j].strip().lower())):
-         Concepts[(j,parts[j].strip().lower())]=True
+      if not Concepts.has_key((c,parts[j].strip().lower())):
+         Concepts[(c,parts[j].strip().lower())]=True
   if not LeafConcepts.has_key(c.strip().lower()):
         LeafConcepts[c.strip().lower()]=1       
   else:

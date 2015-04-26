@@ -1,1309 +1,440 @@
 Level 0
-Results:0.842537107278
-
+:0.7957
+:0.7957
 Level 1
-Results:0.8296
-Results:0.985767386692
+arts crafts & sewing:0.913449587641
 
-Results:0.9617
-Results:0.796654590743
+home & kitchen:0.890586334706
 
-Results:0.858768635946
+baby products:0.931135910214
 
-Results:0.4489
-Results:0.7431
-Results:0.5450
-Results:0.6054
-Results:0.864340500194
+books & media:0.5278
+baby products:0.8330
+sports & outdoors:0.875887450744
 
-Results:0.6777
-Results:0.785461476776
+toys & games:0.931536536814
 
-Results:0.7317
-Results:0.6362
-Results:0.852749698981
+tools & home improvement:0.912801713936
 
-Results:0.6703
-Results:0.921175628281
+health & personal care:0.848628121492
 
-Results:0.8576
-Results:0.998051453352
+patio lawn & garden:0.973153204004
 
-Results:0.696792038765
+office products:0.935319567335
 
-Results:0.7983
-Results:0.3504
-Results:0.977557767266
+office products:0.935319567335
 
-Results:0.3686
-Results:0.8806
-Results:0.973153204004
+automotive:0.81413323799
 
-Results:0.9540
-Results:0.2529
-Results:0.970684497183
+patio lawn & garden:0.973153204004
 
-Results:0.7583
-Results:0.915865816316
+toys & games:0.931536536814
 
-Results:0.7744
-Results:0.920615135431
+industrial & scientific:0.975074046209
 
-Results:0.6415
-Results:0.7473
+electronics:0.6443
+sports & outdoors:0.875887450744
+
+clothing & accessories:0.757247471084
+
+health & personal care:0.848628121492
+
+jewelry:0.5784
+home & kitchen:0.6411
+shoes:0.759796375147
+
+jewelry:0.658884524638
+
+arts crafts & sewing:0.913449587641
+
+industrial & scientific:0.975074046209
+
+shoes:0.759796375147
+
+tools & home improvement:0.912801713936
+
+electronics:0.7655039117
+
+automotive:0.81413323799
+
+beauty:0.8698
+grocery & gourmet food:0.820162746999
+
+grocery & gourmet food:0.7254
+clothing & accessories:0.757247471084
+
+beauty:0.858768635946
+
 Level 2
-Results:0.8015
-Results:0.6773
-Results:0.956325028654
+fragrance:0.8338
+building supplies:0.985667881296
 
-Results:0.913745372224
+novelty & special use:0.883700133819
 
-Results:0.6896
-Results:0.6242
-Results:0.4995
-Results:0.7642
-Results:0.8172
-Results:0.8942
-Results:0.8818
-Results:0.5855
-Results:0.9678
-Results:0.7967
-Results:0.624975731032
+car & vehicle electronics:0.818697616942
 
-Results:0.7699
-Results:0.9849
-Results:0.7811
-Results:0.8625
-Results:0.5408
-Results:0.8025
-Results:0.8619
-Results:0.9391
-Results:0.6527
-Results:0.6741
-Results:0.9179
-Results:0.5875
-Results:0.9813
-Results:0.4997
-Results:0.8862
-Results:0.95465992943
+accessories:0.926009605006
 
-Results:0.7717
-Results:0.7873
-Results:0.7583
-Results:0.5378
-Results:0.6809
-Results:0.818697616942
+stationery & party supplies:0.9315701848
 
-Results:0.9845
-Results:0.7946
-Results:0.9912
-Results:0.8891
-Results:0.919988137185
+wedding & engagement rings:0.885137920481
 
-Results:0.9964
-Results:0.8164
-Results:0.8652
-Results:0.9138
-Results:0.6755
-Results:0.9076
-Results:0.8607
-Results:0.6798
-Results:0.8911
-Results:0.8204
-Results:0.999262258971
+dogs:0.981754828559
 
-Results:0.9301
-Results:0.7104
-Results:0.996380752347
+home decor:0.978102222254
 
-Results:0.962730453909
+worldstock fair trade:0.8364
+building supplies:0.985667881296
 
-Results:0.8860
-Results:0.6327
-Results:0.9637
-Results:0.7898
-Results:0.8911
-Results:0.93615426115
+baby:0.624975731032
 
-Results:0.9606
-Results:0.977866088632
+accessories & supplies:0.89948883212
 
-Results:0.8654
-Results:0.9222
-Results:0.7337
-Results:0.7637
-Results:0.5265
-Results:0.7850
-Results:0.981623691183
+replacement parts:0.98110999557
 
-Results:0.997987016854
+jewelry & watches:0.4959
+power & hand tools:0.945226857469
 
-Results:0.9373
-Results:0.8860
-Results:0.9446
-Results:0.9451
-Results:0.987529274479
+furniture:0.905025844373
 
-Results:0.9733
-Results:0.6520
-Results:0.8600
-Results:0.8685
-Results:0.893510150595
+bracelets:0.854033719121
 
-Results:0.5480
-Results:0.9007
-Results:0.9730
-Results:0.9416
-Results:0.7165
-Results:0.7480
-Results:0.907094015959
+novelty & special use:0.883700133819
 
-Results:0.6942
-Results:0.7886
-Results:0.8024
-Results:0.8673
-Results:0.8887
-Results:0.7282
-Results:0.5982
-Results:0.5188
-Results:0.6526
-Results:0.8783
-Results:0.9544
-Results:0.8923
-Results:0.966403089077
+hardware:0.962035533031
 
-Results:0.8376
-Results:0.9255
-Results:0.8787
-Results:0.5192
-Results:0.9435
-Results:0.5521
-Results:0.789295437092
+men:0.837771440442
 
-Results:0.8850
-Results:0.7007
-Results:0.988839155396
+camera & photo:0.8468
+telephones:0.5570
+hunting & fishing:0.979600163199
 
-Results:0.4116
-Results:0.9035
-Results:0.8922
-Results:0.978067524379
+motorcycle & atv:0.989769394828
 
-Results:0.8281
-Results:0.888915764584
+health care:0.942430905799
 
-Results:0.6427
-Results:0.8126
-Results:0.9499
-Results:0.8276
-Results:0.966746826892
+office & school supplies:0.923092873222
 
-Results:0.8664
-Results:0.8813
-Results:0.9738
-Results:0.9883
-Results:0.998191995428
+kitchen & dining:0.855425863017
 
-Results:0.8276
-Results:0.2504
-Results:0.8673
-Results:0.7422
-Results:0.9551
-Results:0.9078
-Results:0.9384
-Results:0.4848
-Results:0.5348
-Results:0.7330
-Results:0.7980
-Results:0.6744
-Results:0.945226857469
+girls:0.989682812395
 
-Results:0.99515930217
+skin care:0.7006
+main street revolution:0.6994
+exterior accessories:0.996813796265
 
-Results:0.8935
-Results:0.9432
-Results:0.7025
-Results:0.7253
-Results:0.9900
-Results:0.902456555563
+hair care:0.981623691183
 
-Results:0.8017
-Results:0.7155
-Results:0.9313
-Results:0.9488
-Results:0.9176
-Results:0.5776
-Results:0.8977
-Results:0.9066
-Results:0.4993
-Results:0.9316
-Results:0.8666
-Results:0.8077
-Results:0.8452
-Results:0.9686
-Results:0.9346
-Results:0.7952
-Results:0.6751
-Results:0.6553
-Results:0.7435
-Results:0.6238
-Results:0.6436
-Results:0.7473
-Results:0.4729
-Results:0.9976
-Results:0.6521
-Results:0.8669
-Results:0.9283
-Results:0.7572
-Results:0.7199
-Results:0.905374119249
+interior accessories:0.913910568098
 
-Results:0.9699
-Results:0.915401933585
+office & school supplies:0.923092873222
 
-Results:0.9237
+hunting & fishing:0.979600163199
+
+baby:0.624975731032
+
+paint body & trim:0.984541156337
+
+home improvement:0.5590
+men:0.837771440442
+
+accessories & supplies:0.89948883212
+
+luggage & bags:0.969254996063
+
+women:0.83287813431
+
+makeup:0.945771570625
+
+furniture:0.905025844373
+
+motorcycle & powersports:0.988839155396
+
+computers & accessories:0.869681719246
+
+power & hand tools:0.945226857469
+
+interior accessories:0.913910568098
+
+kitchen & bath fixtures:0.956106202099
+
+women:0.7615
+car & vehicle electronics:0.818697616942
+
+bedding & bath:0.9040
+makeup:0.945771570625
+
+stationery & party supplies:0.9315701848
+
+tools & accessories:0.997364608313
+
+accessories:0.926009605006
+
+lighting & ceiling fans:0.915314888306
+
+area rugs:0.4983
+kitchen & bath fixtures:0.956106202099
+
+bracelets:0.854033719121
+
+novelty & more:0.978067524379
+
+dogs:0.981754828559
+
+health care:0.942430905799
+
+necklaces:0.907345013477
+
+camera & photo:0.95465992943
+
+motorcycle & atv:0.989769394828
+
+lighting & ceiling fans:0.915314888306
+
+hardware:0.962035533031
+
+girls:0.989682812395
+
+electrical:0.999262258971
+
+tools & accessories:0.997364608313
+
+electrical:0.999262258971
+
+bedding:0.6873
+fan shop:0.8256
+luggage & bags:0.7657
+world jewelry:0.4951
+motorcycle & powersports:0.988839155396
+
+novelty & more:0.978067524379
+
+kitchen & dining:0.6637
+nursery decor:0.5512
+skin care:0.902456555563
+
+paint body & trim:0.984541156337
+
+fragrance:0.93615426115
+
+computers & accessories:0.6610
+replacement parts:0.98110999557
+
+fan shop:0.876522588116
+
+office furniture & lighting:0.975039185937
+
+exterior accessories:0.996813796265
+
+sales & promotions:0.3477
+home & garden:0.7480
+hair care:0.981623691183
+
+wedding & engagement rings:0.885137920481
+
+bedding:0.964143378191
+
+office furniture & lighting:0.975039185937
+
+necklaces:0.907345013477
+
+home decor:0.978102222254
+
 Level 3
-Results:0.99615526852
+business cases:0.8995
+fashion bedding:0.9758
+fashion:0.992817059484
 
-Results:0.9043
-Results:0.7935
-Results:0.9018
-Results:0.9164
-Results:0.8728
-Results:0.8353
-Results:0.9933
-Results:0.8628
-Results:0.8624
-Results:0.8304
-Results:0.9597
-Results:0.9803
-Results:0.7012
-Results:0.9050
-Results:0.7313
-Results:0.8408
-Results:0.6264
-Results:0.7692
-Results:0.8500
-Results:0.6605
-Results:0.7802
-Results:0.7840
-Results:0.8386
-Results:0.9555
-Results:0.9804
-Results:0.8479
-Results:0.9829
-Results:0.8734
-Results:0.9140
-Results:0.7318
-Results:0.9634
-Results:0.9664
-Results:0.9169
-Results:0.9853
-Results:0.8096
-Results:0.7250
-Results:0.9644
-Results:0.9534
-Results:0.9156
-Results:0.7747
-Results:0.7289
-Results:0.9170
-Results:0.8671
-Results:0.7746
-Results:0.8923
-Results:0.9383
-Results:0.8141
-Results:0.7583
-Results:0.6372
-Results:0.8258
-Results:0.9146
-Results:0.9331
-Results:0.9074
-Results:0.9618
-Results:0.8836
-Results:0.6544
-Results:0.9935
-Results:0.8499
-Results:0.7462
-Results:0.6516
-Results:0.8969
-Results:0.8302
-Results:0.9428
-Results:0.9561
-Results:0.9435
-Results:0.8028
-Results:0.9497
-Results:0.9238
-Results:0.98926951705
+car electronics:0.976668552036
 
-Results:0.5862
-Results:0.9486
-Results:0.6632
-Results:0.8138
-Results:0.8531
-Results:0.8388
-Results:0.5412
-Results:0.6708
-Results:0.8825
-Results:0.8102
-Results:0.8950
-Results:0.7082
-Results:0.8031
-Results:0.8244
-Results:0.9504
-Results:0.9489
-Results:0.8816
-Results:0.8184
-Results:0.7044
-Results:0.9516
-Results:0.7715
-Results:0.7882
-Results:0.5023
-Results:0.9793
-Results:0.8321
-Results:0.7880
-Results:0.7835
-Results:0.7028
-Results:0.8433
-Results:0.5935
-Results:0.8662
-Results:0.7727
-Results:0.4917
-Results:0.9572
-Results:0.9211
-Results:0.7797
-Results:0.9346
-Results:0.9273
-Results:0.7008
-Results:0.5759
-Results:0.5844
-Results:0.7259
-Results:0.7339
-Results:0.7404
-Results:0.9025
-Results:0.9121
-Results:0.7670
-Results:0.8704
-Results:0.9463
-Results:0.6176
-Results:0.8806
-Results:0.8705
-Results:0.9128
-Results:0.6183
-Results:0.6333
-Results:0.8387
-Results:0.6904
-Results:0.8298
-Results:0.9517
-Results:0.5960
-Results:0.9239
-Results:0.9758
-Results:0.7333
-Results:0.8793
-Results:0.9389
-Results:0.8524
-Results:0.7087
-Results:0.8401
-Results:0.9158
-Results:0.7747
-Results:0.8620
-Results:0.8493
-Results:0.9440
-Results:0.8401
-Results:0.9335
-Results:0.6027
-Results:0.9468
-Results:0.7316
-Results:0.9078
-Results:0.9130
-Results:0.9204
-Results:0.7718
-Results:0.9234
-Results:0.9020
-Results:0.8463
-Results:0.9384
-Results:0.6640
-Results:0.8875
-Results:0.8702
-Results:0.9122
-Results:0.6087
-Results:0.8305
-Results:0.7670
-Results:0.9467
-Results:0.8462
-Results:0.7441
-Results:0.7930
-Results:0.9761
-Results:0.7976
-Results:0.7057
-Results:0.9817
-Results:0.7607
-Results:0.8987
-Results:0.9536
-Results:0.8212
-Results:0.7160
-Results:0.7428
-Results:0.6306
-Results:0.8715
-Results:0.8457
-Results:0.9004
-Results:0.6465
-Results:0.9050
-Results:0.5980
-Results:0.9026
-Results:0.9194
-Results:0.9364
-Results:0.9713
-Results:0.9712
-Results:0.9623
-Results:0.8136
-Results:0.9463
-Results:0.9645
-Results:0.8716
-Results:0.8334
-Results:0.8656
-Results:0.9427
-Results:0.8416
-Results:0.9622
-Results:0.8032
-Results:0.8623
-Results:0.9091
-Results:0.5584
-Results:0.7835
-Results:0.5257
-Results:0.7236
-Results:0.6141
-Results:0.8945
-Results:0.9426
-Results:0.8761
-Results:0.8114
-Results:0.8728
-Results:0.5255
-Results:0.7218
-Results:0.9879
-Results:0.9791
-Results:0.8808
-Results:0.8396
-Results:0.7190
-Results:0.8747
-Results:0.9568
-Results:0.9478
-Results:0.8552
-Results:0.8615
-Results:0.8336
-Results:0.7875
-Results:0.6949
-Results:0.8961
-Results:0.8721
-Results:0.9585
-Results:0.8593
-Results:0.9593
-Results:0.9846
-Results:0.6680
-Results:0.8851
-Results:0.6752
-Results:0.9910
-Results:0.9715
-Results:0.9164
-Results:0.8621
-Results:0.9884
-Results:0.7906
-Results:0.8866
-Results:0.9629
-Results:0.8805
-Results:0.8677
-Results:0.7332
-Results:0.8055
-Results:0.8682
-Results:0.6840
-Results:0.9793
-Results:0.9640
-Results:0.8797
-Results:0.7219
-Results:0.5946
-Results:0.9738
-Results:0.8458
-Results:0.8194
-Results:0.6858
-Results:0.9366
-Results:0.5755
-Results:0.9308
-Results:0.9482
-Results:0.8476
-Results:0.9550
-Results:0.8396
-Results:0.6057
-Results:0.8471
-Results:0.8534
-Results:0.4881
-Results:0.6845
-Results:0.957454659022
+printers & scanners:0.7392
+winter sports:0.9983
+tabletop:0.4145
+active:0.985198882324
 
-Results:0.7862
-Results:0.9772
-Results:0.9051
-Results:0.7641
-Results:0.9447
-Results:0.8737
-Results:0.5024
-Results:0.9517
-Results:0.7542
-Results:0.9019
-Results:0.6150
-Results:0.6952
-Results:0.9410
-Results:0.8738
-Results:0.5653
-Results:0.7892
-Results:0.6603
-Results:0.7598
-Results:0.9240
-Results:0.9281
-Results:0.8777
-Results:0.9775
-Results:0.7543
-Results:0.6513
-Results:0.8886
-Results:0.9298
-Results:0.8488
-Results:0.8627
-Results:0.9593
-Results:0.7790
-Results:0.7502
-Results:0.7007
-Results:0.8076
-Results:0.8109
-Results:0.9457
-Results:0.7002
-Results:0.8355
-Results:0.6457
-Results:0.6494
-Results:0.9492
-Results:0.9364
-Results:0.5201
-Results:0.7547
-Results:0.8434
-Results:0.7023
-Results:0.8355
-Results:0.7271
-Results:0.8853
-Results:0.8873
-Results:0.8635
-Results:0.6018
-Results:0.6296
-Results:0.7035
-Results:0.9431
-Results:0.8957
-Results:0.9631
-Results:0.5634
-Results:0.7751
-Results:0.9142
-Results:0.9218
-Results:0.8027
-Results:0.7679
-Results:0.6250
-Results:0.7986
-Results:0.7003
-Results:0.8290
-Results:0.8369
-Results:0.7976
-Results:0.6235
-Results:0.9226
-Results:0.8427
-Results:0.9769
-Results:0.7849
-Results:0.8848
-Results:0.9389
-Results:0.7704
-Results:0.8179
-Results:0.8345
-Results:0.8634
-Results:0.9967
-Results:0.7541
-Results:0.6510
-Results:0.9766
-Results:0.8626
-Results:0.9208
-Results:0.9249
-Results:0.8715
-Results:0.9878
-Results:0.9845
-Results:0.7494
-Results:0.9806
-Results:0.8373
-Results:0.9052
-Results:0.5715
-Results:0.9722
-Results:0.9612
-Results:0.8187
-Results:0.8700
-Results:0.9903
-Results:0.8041
-Results:0.8957
-Results:0.9225
-Results:0.9222
-Results:0.4732
-Results:0.9327
-Results:0.5874
-Results:0.7088
-Results:0.8925
-Results:0.8975
-Results:0.9606
-Results:0.8918
-Results:0.8320
-Results:0.903124913677
+clothing:0.7835
+networking products:0.6360
+home decor accents:0.6943
+down bedding:0.9890
+sports clothing:0.994881109775
 
-Results:0.5708
-Results:0.8662
-Results:0.7105
-Results:0.8360
-Results:0.9467
-Results:0.8247
-Results:0.7852
-Results:0.8516
-Results:0.8802
-Results:0.9153
-Results:0.9008
-Results:0.9000
-Results:0.9888
-Results:0.9710
-Results:0.6416
-Results:0.9341
-Results:0.8577
-Results:0.9277
-Results:0.7956
-Results:0.8889
-Results:0.8542
-Results:0.8118
-Results:0.9019
-Results:0.9458
-Results:0.9025
-Results:0.8406
-Results:0.8469
-Results:0.8146
-Results:0.9511
-Results:0.7860
-Results:0.8306
-Results:0.8993
-Results:0.5422
-Results:0.8204
-Results:0.9496
+dresses:0.767593542859
+
+monitors & displays:0.6723
+intimates:0.995567828868
+
+data storage:0.7941
+laptop & netbook computer accessories:1.0
+
+sheets:0.9924
+childrens clothing:0.9781
+audio & video accessories:0.986305648355
+
+floor mats & cargo liners:0.973938629676
+
+hunting:0.9437
+clothing:0.988011988012
+
+computer components:0.5795
+cables & accessories:0.984648623304
+
+office supplies:0.8994
+accessories:0.7355
+paints & primers:0.812547318612
+
+office furniture:0.9793
+active:0.985198882324
+
+womens clothing:0.9209
+wedding rings:0.984235878424
+
+fine:0.995011934509
+
+car electronics:0.976668552036
+
+floor mats & cargo liners:0.973938629676
+
+accessories:0.978674869577
+
+hair care:0.5123
+backpacks & bags:0.8469
+shoes:0.7884
+fashion:0.992817059484
+
+touch screen tablet accessories:0.8684
+toys & hobbies:0.8110
+decorative pillows inserts & covers:0.9413
+laptop & netbook computer accessories:0.9420
+bedroom furniture:0.6926
+dresses:0.767593542859
+
+tabletop:0.985447272226
+
+audio & video accessories:0.986305648355
+
+jackets & coats:0.820115610096
+
+storage & organization:0.7931
+living room furniture:0.6394
+fine:0.995011934509
+
+home & garden:0.961635913532
+
+covers:1.0
+
+vehicle electronics accessories:0.608852290273
+
+covers:1.0
+
+parts:0.932072274181
+
+photo accessories:0.7598
+handbags:0.6209
+parts:0.932072274181
+
+computers hardware & software:0.6708
+jackets & coats:0.820115610096
+
+skin care:0.4977
+kitchen & dining:0.9057
+sheets & pillowcases:0.8774
+tops & tees:0.879224934157
+
+paints & primers:0.812547318612
+
+wedding rings:0.984235878424
+
+computer components:0.994073618054
+
+cables & accessories:0.6994
+intimates:0.995567828868
+
+tops & tees:0.879224934157
+
+perfumes & fragrances:0.4984
+vehicle electronics accessories:0.608852290273
+
+novelty:0.963536508319
+
+mens clothing:0.9624
+sports clothing:0.994881109775
+
+novelty:0.963536508319
+
+home & garden:0.6278
+sports & fitness:0.9942
 Level 4
-Results:0.7726
-Results:0.9661
-Results:0.8223
-Results:0.7353
-Results:0.9210
-Results:0.8701
-Results:0.9089
-Results:0.8403
-Results:0.7769
-Results:0.9306
-Results:0.6498
-Results:0.9160
-Results:0.7608
-Results:0.9034
-Results:0.8043
-Results:0.7769
-Results:0.8548
-Results:0.9090
-Results:0.9131
-Results:0.7818
-Results:0.8570
-Results:0.8647
-Results:0.9071
-Results:0.7323
-Results:0.8221
-Results:0.7853
-Results:0.5954
-Results:0.6620
-Results:0.6214
-Results:0.6805
-Results:0.8284
-Results:0.8398
-Results:0.8943
-Results:0.8421
-Results:0.8050
-Results:0.5926
-Results:0.9371
-Results:0.8302
-Results:0.8156
-Results:0.6775
-Results:0.8438
-Results:0.9823
-Results:0.8342
-Results:0.8136
-Results:0.9469
-Results:0.8414
-Results:0.6316
-Results:0.8263
-Results:0.9235
-Results:0.6313
-Results:0.8613
-Results:0.8627
-Results:0.7659
-Results:0.9079
-Results:0.9649
-Results:0.8731
-Results:0.9860
-Results:0.5671
-Results:0.9394
-Results:0.8472
-Results:0.8286
-Results:0.9527
-Results:0.7670
-Results:0.9067
-Results:0.7666
-Results:0.9159
-Results:0.9467
-Results:0.7492
-Results:0.8271
-Results:0.6863
-Results:0.8092
-Results:0.5914
-Results:0.9131
-Results:0.8242
-Results:0.9171
-Results:0.8219
-Results:0.9463
-Results:0.8213
-Results:0.7850
-Results:1.0000
-Results:0.9298
-Results:0.7148
-Results:0.9368
-Results:0.8137
-Results:0.8783
-Results:0.5274
-Results:0.6511
-Results:0.9619
-Results:0.9049
-Results:0.8936
-Results:0.8162
-Results:0.7681
-Results:0.7435
-Results:0.7239
-Results:0.7501
-Results:0.7645
-Results:0.8754
-Results:0.7849
-Results:0.9717
-Results:0.6521
-Results:0.8090
-Results:0.8209
-Results:0.5586
-Results:0.7988
-Results:0.7152
-Results:0.9742
-Results:0.7311
-Results:0.8804
-Results:0.9151
-Results:0.9586
-Results:0.9035
-Results:0.8701
-Results:0.7772
-Results:0.6634
-Results:0.6344
-Results:0.8806
-Results:0.8102
-Results:0.9299
-Results:0.8826
-Results:0.5728
-Results:0.6264
-Results:0.9486
-Results:0.8324
-Results:0.9514
-Results:0.9507
-Results:0.6080
-Results:0.7331
-Results:0.6718
-Results:0.8196
-Results:0.8321
-Results:0.5710
-Results:0.6228
-Results:0.6336
-Results:0.6602
-Results:0.8167
-Results:0.7334
-Results:0.9216
-Results:0.7099
-Results:0.8010
-Results:0.5448
-Results:0.8321
-Results:0.8857
-Results:0.7901
-Results:0.8361
-Results:0.8518
-Results:0.7922
-Results:0.7237
-Results:0.7848
-Results:0.7400
-Results:0.9963
-Results:0.7226
-Results:0.9340
-Results:0.8882
-Results:0.7826
-Results:0.8434
-Results:0.9911
-Results:0.7847
-Results:0.6484
-Results:0.8388
-Results:0.6611
-Results:0.6195
-Results:0.9307
-Results:0.6316
-Results:0.7005
-Results:0.8552
-Results:0.8985
-Results:0.8981
-Results:0.9142
-Results:0.7557
-Results:0.8647
-Results:0.8024
-Results:0.8841
-Results:0.8078
-Results:0.8771
-Results:0.8821
-Results:0.5722
-Results:0.7487
-Results:0.8957
-Results:0.9154
-Results:0.7799
-Results:0.9833
-Results:0.7298
-Results:0.8158
-Results:0.6923
-Results:0.9213
-Results:0.8434
-Results:0.9293
-Results:0.8571
-Results:0.7877
-Results:0.7984
-Results:0.7587
-Results:0.6343
-Results:0.8774
-Results:0.7684
-Results:0.8018
-Results:0.5101
-Results:0.6943
-Results:0.8189
-Results:0.8455
-Results:0.6566
-Results:0.8276
-Results:0.9520
-Results:0.6917
-Results:0.7085
-Results:0.8120
-Results:0.9331
-Results:0.9002
-Results:0.7257
-Results:0.7750
-Results:0.7917
-Results:0.8441
-Results:0.8921
-Results:0.8553
-Results:0.6192
-Results:0.8253
-Results:0.6912
-Results:0.9699
-Results:0.7003
-Results:0.7453
-Results:0.5364
-Results:0.6686
-Results:0.7452
-Results:0.7599
-Results:0.4118
-Results:0.6479
-Results:0.6516
-Results:0.9498
-Results:0.6528
-Results:0.8639
-Results:0.6400
-Results:0.6295
-Results:0.8807
-Results:0.8360
-Results:0.6252
-Results:0.6439
-Results:0.8951
-Results:0.6877
-Results:0.6321
-Results:0.8867
-Results:0.9114
-Results:0.9227
-Results:0.6435
-Results:0.7797
-Results:0.8058
-Results:0.8474
-Results:0.4977
-Results:0.9394
-Results:0.7243
-Results:0.5522
-Results:0.6715
-Results:0.7061
-Results:0.9006
-Results:0.8261
-Results:0.9386
-Results:0.9748
-Results:0.9412
-Results:0.7683
-Results:0.6807
-Results:0.6601
-Results:0.9088
-Results:0.8579
-Results:0.7249
-Results:0.7850
-Results:0.8463
-Results:0.7363
-Results:0.7226
-Results:0.7228
-Results:0.6102
-Results:0.8504
-Results:0.6623
-Results:0.7651
-Results:0.9854
-Results:0.8555
-Results:0.8050
-Results:0.7033
-Results:0.8994
-Results:0.9230
-Results:0.9803
-Results:0.8354
-Results:0.7123
-Results:0.7707
-Results:0.6304
-Results:0.7255
-Results:0.8561
-Results:0.8306
-Results:0.6313
-Results:0.8056
-Results:0.7817
-Results:0.9581
-Results:0.9408
-Results:0.8009
-Results:0.9121
-Results:0.9334
-Results:0.8795
-Results:0.8424
-Results:0.7355
-Results:0.9874
-Results:0.9578
-Results:0.7143
-Results:0.9381
-Results:0.6922
-Results:0.7837
-Results:0.5984
-Results:0.9475
-Results:0.6839
-Results:0.8304
-Results:0.7600
-Results:0.9318
-Results:0.6089
-Results:0.8630
-Results:0.6583
-Results:0.6364
-Results:0.6243
-Results:0.5554
-Results:0.6783
-Results:0.8075
-Results:0.8781
-Results:0.9169
-Results:0.7022
-Results:0.8109
-Results:0.7055
-Results:0.6403
-Results:0.4189
-Results:0.4959
-Results:0.9209
-Results:0.6215
-Results:0.6122
-Results:0.8584
-Results:0.9382
-Results:0.9778
-Results:0.7343
-Results:0.8722
-Results:0.7816
-Results:0.8597
-Results:0.6997
-Results:0.6348
-Results:0.9563
-Results:0.9452
-Results:0.8394
-Results:0.6969
-Results:0.7923
-Results:0.7423
-Results:0.6793
-Results:0.6169
-Results:0.6131
-Results:0.8786
-Results:0.8905
-Results:0.7009
-Results:0.7233
-Results:0.7465
-Results:0.6200
-Results:0.8469
-Results:0.8412
-Results:0.4521
-Results:0.6642
-Results:0.5048
-Results:0.9973
-Results:0.8651
-Results:0.9001
-Results:0.5173
-Results:0.7647
-Results:0.9369
-Results:0.998551453042
+video cards:0.5486
+desktops:0.4411
+sports memorabilia:0.9243
+storage & blank media:0.8910
+pc memory:0.5475
+cutlery:0.9868
+outdoors:0.9243
+knives & tools:0.8564
+wallets card cases & money organizers:0.8916
+sunglasses & eyewear accessories:0.8145
+commercial it hardware:0.6718
+lighting:0.795265712273
 
-Results:0.9061
-Results:0.7200
-Results:0.8295
-Results:0.7627
-Results:0.8872
-Results:0.6562
-Results:0.8827
-Results:0.8843
-Results:0.8507
-Results:0.6873
-Results:0.7635
-Results:0.7137
-Results:0.6084
-Results:0.5328
-Results:0.7257
-Results:0.8286
-Results:0.7420
-Results:0.7246
-Results:0.6405
-Results:0.8843
-Results:0.5471
-Results:0.8777
-Results:0.6765
-Results:0.6991
-Results:0.8999
-Results:0.8238
-Results:0.8803
-Results:0.6720
-Results:0.5709
-Results:0.4844
-Results:0.8333
-Results:0.9685
-Results:0.7028
-Results:0.8724
-Results:0.9197
-Results:0.8164
-Results:0.9797
-Results:0.9211
-Results:0.8122
-Results:0.7593
-Results:0.9506
-Results:0.7580
-Results:0.8780
-Results:0.5659
-Results:0.5788
-Results:0.9304
-Results:0.6550
-Results:0.6978
-Results:0.6895
-Results:0.6781
-Results:0.6744
-Results:0.6904
-Results:0.7946
-Results:0.7169
-Results:0.7944
-Results:0.9441
-Results:0.8177
-Results:0.7171
-Results:0.8273
-Results:0.7015
-Results:0.6488
-Results:0.5254
-Results:0.7872
-Results:0.7456
-Results:0.6960
-Results:0.6229
-Results:0.9271
-Results:0.9714
-Results:0.9816
-Results:0.7658
-Results:0.7588
-Results:0.8428
-Results:0.6700
-Results:0.9785
-Results:0.7746
-Results:0.6410
-Results:0.9324
-Results:0.9755
-Results:0.8185
-Results:0.8856
-Results:0.7717
-Results:0.8627
-Results:0.9783
-Results:0.7665
-Results:0.8007
-Results:0.9862
-Results:0.6831
-Results:0.9372
-Results:0.7792
-Results:0.8692
-Results:0.6732
-Results:0.8599
-Results:0.8778
-Results:0.9269
-Results:0.5938
-Results:0.9642
+accessories:0.9246
+hard drives:0.7233
+keyboard & mice accessories:0.9041
+down:0.9992
+quilts & bedspreads:0.9680
+housewares:0.9899
+designer store:0.9971
+cookware:0.7371
+ski clothing:0.9811
+software:0.8206
+charms & charm bracelets:1.0
+
+shirts:0.998551453042
+
+office electronics:0.5571
+living room furniture:0.7626
+casual dinnerware:0.4919
+dinnerware:0.8380
+digital cameras:0.8396
+bedroom furniture:0.7529
+fan shop:0.8126
+cycling:0.966143479333
+
+mattress pads:0.9857
+networking:0.7504
+printer accessories:0.5564
+bathroom furniture:0.4936
+photo accessories:0.8628
+sale:0.2292
+picnic:0.7186
+home office furniture:0.6818
+printers:0.9780
+digital camera accessories:0.9045
+cables & interconnects:0.7464
+garden & patio:0.6714
+printer ink & toner:0.7268
+computer hardware:0.8421
+womens sport clothing:0.9811
+o:0.9838
+charms & charm bracelets:1.0
+
+collectibles:0.9994
+shirts:0.998551453042
+
+appliances:0.8071
+cycling:0.966143479333
+
+camping & hiking:0.9922
+slipcovers:0.8965
+mens sport clothing:0.9947
+lighting:0.795265712273
+
+serveware:0.8957
+keyboards & mice:0.9569
 Level 5
-Results:0.9605
-Results:0.9546
-Results:0.9889
-Results:0.9657
-Results:0.7923
-Results:0.7506
-Results:0.7982
-Results:0.8678
-Results:0.9318
-Results:0.9369
-Results:0.9167
-Results:0.8929
-Results:0.7093
-Results:0.8169
-Results:0.8832
-Results:0.7899
-Results:0.8878
-Results:0.7697
-Results:0.6508
-Results:0.9848
-Results:0.7636
-Results:0.9480
-Results:0.5692
-Results:0.8790
-Results:0.9696
-Results:0.7988
-Results:0.8453
-Results:0.8182
-Results:0.7836
-Results:0.7130
-Results:0.7486
-Results:0.7401
-Results:0.4975
-Results:0.9655
-Results:0.6329
-Results:0.8438
-Results:0.5901
-Results:0.7579
-Results:0.8223
-Results:0.8860
-Results:0.9003
-Results:0.8011
-Results:0.6662
-Results:0.8628
-Results:0.7984
-Results:0.8739
-Results:0.9064
-Results:0.5590
-Results:0.6803
-Results:0.6865
-Results:0.9413
-Results:0.9425
-Results:0.8097
-Results:0.7818
-Results:0.5976
-Results:0.8747
-Results:0.7348
-Results:0.7211
-Results:0.7815
-Results:0.8246
-Results:0.7574
-Results:0.9634
-Results:0.4813
-Results:0.7636
-Results:0.7231
-Results:0.8920
-Results:0.9648
-Results:0.9135
-Results:0.8074
-Results:0.9519
-Results:1.0000
-Results:0.8819
-Results:0.8974
-Results:0.8720
-Results:0.9947
-Results:0.5144
-Results:0.8539
-Results:0.8681
-Results:0.8508
-Results:0.5536
-Results:0.8753
-Results:0.6473
-Results:0.9388
-Results:0.7553
-Results:0.7339
-Results:0.8121
-Results:0.8799
-Results:0.8325
-Results:0.8438
-Results:0.9072
-Results:0.8069
-Results:0.6837
-Results:0.8689
-Results:0.7567
-Results:0.6787
-Results:0.9259
-Results:0.7693
-Results:0.7648
-Results:0.7517
-Results:0.8427
-Results:0.9408
-Results:0.9772
-Results:0.7008
-Results:0.9294
-Results:0.9036
-Results:0.5919
-Results:0.4099
-Results:0.5720
-Results:0.9804
-Results:0.6490
-Results:0.8113
-Results:0.9851
-Results:0.8314
-Results:0.8436
-Results:0.9617
-Results:0.7891
-Results:0.8032
-Results:0.9888
-Results:0.9091
-Results:0.5859
-Results:0.7041
-Results:0.8779
-Results:0.8735
-Results:0.4789
-Results:0.8885
-Results:0.8163
-Results:0.7174
-Results:0.9242
+men:0.9981201347
+
+men:0.9981201347
+
 Level 6
-Results:0.7560
-Results:0.9319
-Results:0.8193
-Results:0.8791
-Results:0.9405
-Results:0.7295
-Results:1.0000
-Results:0.7450
-Results:0.5080
-Results:0.6037
-Results:0.8853
-Results:0.7480
-Results:0.8425
-Results:0.8991
-Results:0.8561
-Results:0.7249
-Results:0.8370
-Results:0.8252
-Results:0.7312
-Results:0.9094
-Results:0.7017
-Results:0.8122
-Results:0.9853
-Results:0.9848
-Results:0.7792
-Results:0.7658
-Results:0.6518
-Results:0.9408
 Level 7

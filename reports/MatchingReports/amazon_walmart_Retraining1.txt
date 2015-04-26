@@ -4,7 +4,9 @@ Category boat tops & other accessories Added to RData at 2 to parent fan shop
 Category wallets Added to RData at 2 to parent luggage & bags
 Category all watches Added to RData at 1 to parent jewelry
 Category marine electronics Added to RData at 2 to parent fan shop
+Category fluids & lubricants Added to RData at 1 to parent automotive
 Category boxing gear & accessories Added to RData at 2 to parent fan shop
+Category auto paint & body Added to RData at 1 to parent automotive
 Category knives & tools Added to RData at 2 to parent fan shop
 Category basketball backboard systems Added to RData at 2 to parent fan shop
 Category paper & plastic Added to RData at 1 to parent grocery & gourmet food
@@ -13,7 +15,6 @@ Category luggage Added to RData at 1 to parent home & kitchen
 Category archery & bow accessories Added to RData at 2 to parent fan shop
 Category chargers Added to RData at 3 to parent audio & video accessories
 Category pumps & accessories Added to RData at 2 to parent fan shop
-Category kids crafts Added to RData at 1 to parent home & kitchen
 Category home safes & lock boxes Added to RData at 1 to parent tools & home improvement
 Category storage & organization fan shop Added to RData at 2 to parent fan shop
 Category weight training accessories Added to RData at 2 to parent fan shop
@@ -34,15 +35,14 @@ Category tents Added to RData at 2 to parent fan shop
 Category anti-theft devices Added to RData at 1 to parent automotive
 Category optic accessories Added to RData at 2 to parent fan shop
 Category telescopes Added to RData at 2 to parent fan shop
-Category surface protectors Added to RData at 1 to parent tools & home improvement
 Category learning toys Added to RData at 1 to parent baby products
 Category weight sets Added to RData at 2 to parent fan shop
 Category baby blankets Added to RData at 1 to parent baby products
 Category fitness kits & accessories Added to RData at 2 to parent fan shop
 Category cushions Added to RData at 1 to parent home & kitchen
+Category cereal Added to RData at 1 to parent grocery & gourmet food
 Category auto care & cleaning products Added to RData at 1 to parent automotive
 Category gun sights Added to RData at 2 to parent fan shop
-Category grill tools & accessories Added to RData at 1 to parent patio lawn & garden
 Category furniture accessories Added to RData at 1 to parent home & kitchen
 Category patterns Added to RData at 1 to parent home & kitchen
 Category stocks & broths Added to RData at 1 to parent grocery & gourmet food
@@ -52,15 +52,12 @@ Category sewing & quilting accessories Added to RData at 1 to parent home & kitc
 Category soups Added to RData at 1 to parent grocery & gourmet food
 Category hunting accessories Added to RData at 2 to parent fan shop
 Category sewing accessories Added to RData at 1 to parent home & kitchen
-Category generators Added to RData at 1 to parent tools & home improvement
 Category baby mattresses Added to RData at 1 to parent baby products
 Category crib bedding sets Added to RData at 1 to parent baby products
 Category door bells & chimes Added to RData at 1 to parent tools & home improvement
 Category exercise bikes Added to RData at 2 to parent fan shop
 Category numbers letters & signs Added to RData at 1 to parent tools & home improvement
-Category craft storage Added to RData at 1 to parent home & kitchen
 Category see all cribs Added to RData at 1 to parent baby products
-Category baseball training & coaching equipment Added to RData at 2 to parent fan shop
 Category convertible cribs Added to RData at 1 to parent baby products
 Category halloween accessories Added to RData at 1 to parent home & kitchen
 Category canned vegetables Added to RData at 1 to parent grocery & gourmet food
@@ -80,7 +77,6 @@ Category baby proofing Added to RData at 1 to parent baby products
 Category water parks & towables Added to RData at 2 to parent fan shop
 Category blocks straps and accessories Added to RData at 2 to parent fan shop
 Category halloween make-up Added to RData at 1 to parent home & kitchen
-Category cookware Added to RData at 2 to parent fan shop
 Category night vision & monoculars Added to RData at 2 to parent fan shop
 Category gun stocks & grips Added to RData at 2 to parent fan shop
 Category fire pits & patio heaters Added to RData at 1 to parent patio lawn & garden

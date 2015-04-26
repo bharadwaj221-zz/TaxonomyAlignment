@@ -1,18 +1,22 @@
-Iteration no 0 @ 13:06:28
+Iteration no 0 @ 11:55:04
 Iteration 0 done
-Iteration no 1 @ 13:06:29
+Iteration no 1 @ 11:55:04
 Iteration 1 done
-Iteration no 2 @ 13:06:29
+Iteration no 2 @ 11:55:04
 Iteration 2 done
+Iteration no 3 @ 11:55:04
+Iteration 3 done
+Iteration no 4 @ 11:55:05
+Iteration 4 done
 
 
 FINAL RESULTS skin care :
-Training Accuracy:0.9622(0.0006)
-Test Accuracy:0.8359(0.0036)
-Testing F1:0.7006(0.0028)
+Training Accuracy:0.97338608164
+Test Accuracy:0.907979870597
+Testing F1:0.902456555563
 
 Best Classifier for skin care : 
-LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 skin care   SUCCESS!!!!!!!

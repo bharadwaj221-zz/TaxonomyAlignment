@@ -1,22 +1,18 @@
-Iteration no 0 @ 12:18:39
+Iteration no 0 @ 13:11:57
 Iteration 0 done
-Iteration no 1 @ 12:18:40
+Iteration no 1 @ 13:11:57
 Iteration 1 done
-Iteration no 2 @ 12:18:41
+Iteration no 2 @ 13:11:58
 Iteration 2 done
-Iteration no 3 @ 12:18:41
-Iteration 3 done
-Iteration no 4 @ 12:18:42
-Iteration 4 done
 
 
 FINAL RESULTS patio lawn & garden :
-Training Accuracy:0.997634483967
-Test Accuracy:0.975806451613
-Testing F1:0.973153204004
+Training Accuracy:0.9888(0.0005)
+Test Accuracy:0.9165(0.0038)
+Testing F1:0.8084(0.0072)
 
 Best Classifier for patio lawn & garden : 
-LinearSVC(C=1, class_weight=None, dual=True, fit_intercept=True,
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
      intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
      random_state=None, tol=0.0001, verbose=0)
 patio lawn & garden   SUCCESS!!!!!!!

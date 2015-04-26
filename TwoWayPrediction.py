@@ -353,7 +353,7 @@ def loadData():
 
 
     for i in range(len(Crumbs)) :
-            parts=Crumbs[i].split(' > ')
+            parts=Crumbs[i].split('>')
             if len(parts) > m:
                 m=len(parts)
                 
@@ -631,6 +631,13 @@ parent=''
 
 Crumbs=pickle.load(open('Data/'+td+'_CRUMBS.p'))
 Titles=pickle.load(open('Data/'+td+'_TITLES.p'))
+if len(Crumbs)!=len(Titles):
+    print 'Data Corrupted' 
+    exit
+if len(Crumbs) > 1000000:
+    Crumbs=Crumbs[1:1000000]
+    Titles=Titles[1:1000000]
+
 titleMap={}
 for i in range(len(Titles)):
     if '>' in Crumbs[i]:
@@ -655,7 +662,7 @@ for level in range(maxLevels):
     Cats= []
     for cat in Data[level]:
         Cats.append((cat,level))
-    print 'Starting predictions for level ',level
+    print 'Starting predictions for level ',level, "lev = ",len(Cats)
     
     
     eout=open('TaxonomyAlignment/reports/MatchingReports/'+sd+'_'+td+'_FailureReport'+str(level)+'.csv','wb')
@@ -664,6 +671,7 @@ for level in range(maxLevels):
             # FORWARD MAPPING
 
             vCat,vLevel=parallelPredict(c,fout,rout)
+            
 #            vLevel+=1
             cat=c[0]
             
@@ -673,14 +681,15 @@ for level in range(maxLevels):
                 continue
             if vLevel==-2:
                 eout.write('Insufficient Data to make a mapping for cat:'+cat+'\n') 
-#                MCounts[level][2]+=1
+                MCounts[level][2]+=1
                 continue
             if vLevel==-3:
                 eout.write('Reached Leaf '+parent+'\n')
-#                MCounts[level][2]+=1
+                MCounts[level][2]+=1
                 continue
             if vLevel==-4:
                 eout.write('Parent '+Parent[level][cat]+' not trained for '+cat+'\n')
+                MCounts[level][2]+=1
 #                print('Parent '+Parent[level][cat]+' not trained for '+cat)
                 continue
             ######### 

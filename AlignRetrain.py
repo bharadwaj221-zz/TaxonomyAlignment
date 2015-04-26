@@ -552,7 +552,7 @@ def prediction(level1,level2,cat,parent,fout,rout,dom,M,direction):
                 if M[level1].has_key(cat):
                     tmpScore=M[level1][cat][2]
                 if occ > tmpScore:
-                    M[level1][cat]=(level2,newCat,occ)
+                    M[level1][cat]=(level2,newCat,occ,d)
                     Scores[level1][cat]=(occ,d)
                     return newCat,occ
                 
@@ -643,6 +643,14 @@ parent=''
 
 Crumbs=pickle.load(open('Data/'+td+'_CRUMBS.p'))
 Titles=pickle.load(open('Data/'+td+'_TITLES.p'))
+
+if len(Crumbs)!=len(Titles):
+    print 'Data Corrupted' 
+    exit
+if len(Crumbs) > 1000000:
+    Crumbs=Crumbs[1:1000000]
+    Titles=Titles[1:1000000]
+
 titleMap={}
 for i in range(len(Titles)):
     if '>' in Crumbs[i]:
@@ -723,7 +731,13 @@ for level in range(maxLevels):
 #                print('Parent '+Parent[level][cat]+' not trained for '+cat)
                 continue
                 
-            x=norm.transform(vec.transform(data))
+            try:
+                x=norm.transform(vec.transform(data))
+            except:
+                print 'Data not found for cat ', vCat, ' at ', vLevel
+                MCounts[level][1]+=1
+                eout.write('Data not found for reverse mapping for '+ vCat+ ' at '+ str(vLevel)+'\n')
+                continue
             y=clf.predict(x)
             C=clf.decision_function(x)
             Z=[]

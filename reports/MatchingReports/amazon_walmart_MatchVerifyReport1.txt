@@ -24,7 +24,6 @@ bedroom sets | bedroom furniture | beds
 trash cans & recycle bins | storage & organization | hooks racks & hangers
 chains ropes & tiedowns | door hardware & locks | decorative door hardware
 digestion & nausea | vitamins & dietary supplements | vitamins
-fluids & lubricants | replacement parts | automotive repair
 cookies | snack foods | cookies
 flashlights | power & hand tools | flashlights
 tea | beverages | coffee
@@ -33,7 +32,6 @@ paints & primers | painting supplies & wall treatments | sealants fillers & adhe
 griddles & skillets | kitchen & dining | drinkware
 wall fixtures | home decor | frames
 atv accessories | motorcycle & powersports | atv accessories
-auto paint & body | paints & primers | auto paint & body
 paintings | home decor accents | decorative accents
 exercise mats | home & garden | other fan shop
 gun cases & bags | sports souvenirs | other fan shop
@@ -63,7 +61,7 @@ baking & pastry tools | kitchen & dining | drinkware
 vinyl flooring | building supplies | ceramic tile
 portable saws | power & hand tools | flashlights
 bath sinks | kitchen & bath fixtures | bath faucets
-all activewear | active | all shirts
+all activewear | women | womens shoes
 outdoor power equipment | mowers & outdoor power tools | gardening tools
 handbags | luggage & bags | handbags
 lockers | home decor accents | decorative accents
@@ -71,6 +69,7 @@ watering | gardening | pots & planters
 car lighting | lights & lighting accessories | car lighting
 removal tools | power & hand tools | flashlights
 refrigerators and freezers | kitchen & dining | drinkware
+kids crafts | home decor accents | other arts & crafts
 conditioners | hair care | hair brushes & styling accessories
 gardening accessories | gardening | pots & planters
 hand saws | power & hand tools | flashlights
@@ -80,7 +79,7 @@ laundry organization | storage & organization | hooks racks & hangers
 kids desks & chairs | furniture | accent tables
 indoor holiday decor | home decor accents | other arts & crafts
 plant stands & telephone tables | home decor accents | decorative accents
-window coverings | home decor | frames
+window coverings | window treatments | window coverings
 outdoor lighting | outdoor decor | garden statues & accents
 furniture fan shop | sports souvenirs | other fan shop
 barstools & counter stools | furniture | accent tables
@@ -96,7 +95,7 @@ fertilizer & soil | gardening | pots & planters
 decorative accents | home decor accents | decorative accents
 herbals | vitamins & dietary supplements | vitamins
 spark plugs | replacement parts | automotive repair
-car seat covers | seat covers & accessories | car seat covers
+car seat covers | interior accessories | car seat covers
 vases | home decor accents | decorative accents
 toasters & ovens | kitchen & dining | drinkware
 womens halloween costumes | home decor accents | other arts & crafts
@@ -161,6 +160,7 @@ desks | furniture | accent tables
 body treatments | skin care | skin care sets
 decorative - exterior | exterior accessories | exterior car decoration
 all fragrances | fragrance | all fragrances
+surface protectors | hardware | decorative door hardware
 baskets & bins | home decor accents | decorative accents
 water storage & treatments | building supplies | ceramic tile
 facial cleansers | skin care | skin care sets
@@ -182,17 +182,17 @@ garage storage | storage & organization | hooks racks & hangers
 clothing fan shop | clothing | clothing fan shop
 bars & wine racks | furniture | accent tables
 folding tables & chairs | furniture | accent tables
-eyes | eyes | eyes
+eyes | makeup | lips
 bath rugs & mats | bath | bathroom accessories
 decorations | home decor accents | other arts & crafts
 indoor halloween decor | home decor accents | other arts & crafts
 shoes fan shop | clothing | clothing fan shop
 pantries carts & islands | furniture | accent tables
-cereal | snack foods | cookies
 albums | home decor | other arts & crafts
 pots & planters | gardening | pots & planters
 auto safety accessories | replacement parts | automotive repair
 pot racks & hanging baskets | storage & organization | food storage
+grill tools & accessories | gardening | pots & planters
 shampoos | hair care | hair brushes & styling accessories
 accent tables | furniture | accent tables
 paint tools & supplies | painting supplies & wall treatments | sealants fillers & adhesives
@@ -229,12 +229,13 @@ tent accessories | home & garden | other fan shop
 beauty tools & accessories | tools & accessories | beauty tools & accessories
 golf balls | sports equipment | other fan shop
 water coolers & filtration | kitchen & dining | drinkware
-curtain panels | window treatments | window coverings
+curtain panels | home decor | frames
 hair color | hair care | hair brushes & styling accessories
 car covers & car protection | exterior accessories | exterior car decoration
 patio furniture covers | patio furniture & accessories | outdoor seating
 irons & ironing boards | kitchen & dining | drinkware
 hand creams & lotions | skin care | skin care sets
+generators | electrical | light bulbs
 sofas loveseats & sectionals | living room furniture | accent tables
 vacuum bags & accessories | kitchen & dining | drinkware
 scarves & valances | home decor | frames
@@ -251,6 +252,7 @@ party packs | kitchen & dining | other arts & crafts
 door accessories | hardware | decorative door hardware
 mattress pads & toppers | bedding | decorative pillows
 cufflinks | mens jewelry | all rings
+craft storage | storage & organization | other arts & crafts
 water bottles & hydration | home & garden | other fan shop
 lifting equipment | building supplies | ceramic tile
 hair styling tools | hair care | hair brushes & styling accessories
@@ -264,6 +266,7 @@ vitamins | vitamins & dietary supplements | vitamins
 rugs fan shop | home & garden | other fan shop
 wall decals | home decor accents | decorative accents
 swimwear | swim | swimwear
+baseball training & coaching equipment | home & garden | other fan shop
 fans | lighting & ceiling fans | decorative door hardware
 outdoor tables | patio furniture & accessories | outdoor seating
 tires accessories | motorcycle & powersports | atv accessories
@@ -288,7 +291,7 @@ ceramic tile | building supplies | ceramic tile
 hammers mallets & sledges | power & hand tools | flashlights
 canvas wall art | artwork | posters
 kitchen sinks | kitchen & bath fixtures | bath faucets
-all tops | tops & tees | all shirts
+all tops | women | womens shoes
 cake baking & pastry supplies | kitchen & dining | other arts & crafts
 hand wrenches | power & hand tools | flashlights
 novelty lighting | home decor | frames
@@ -341,7 +344,7 @@ living room sets | furniture | accent tables
 bathroom furniture | bath | bathroom accessories
 blankets & throws | bedding | decorative pillows
 tables | home & garden | other fan shop
-drawers & carts | furniture | accent tables
+drawers & carts | other furniture | folding tables & chairs
 screwdrivers | power & hand tools | flashlights
 tops | tops & tees | all shirts
 protective gear fan shop | sports souvenirs | other fan shop
@@ -363,10 +366,11 @@ party favors & goody bags | home decor accents | other arts & crafts
 window blinds | home decor | frames
 candy | candy & chocolate | candy
 diet foods & drinks | vitamins & dietary supplements | vitamins
-wallets money & key organizers | accessories | hats & headwear
+wallets money & key organizers | novelty | all shirts
 air conditioners | building supplies | ceramic tile
 towels | bath | bathroom accessories
 mattresses | bedroom furniture | beds
+cookware | home & garden | other fan shop
 sports mats & accessories | home & garden | other fan shop
 lips | lips | lips
 living room chairs | furniture | accent tables
@@ -374,7 +378,7 @@ bedding fan shop | home & garden | other fan shop
 decorative pillows | decorative pillows inserts & covers | decorative pillows
 sauces | pantry staples | salt spices & seasoning
 shower heads | kitchen & bath fixtures | bath faucets
-weight plates & racks | home & garden | other fan shop
+weight plates & racks | auto accessories | automotive fan shop
 incontinence | health care | vitamins
 lawn games | home & garden | other fan shop
 salt & pepper shakers mills | kitchen & dining | drinkware
@@ -444,4 +448,4 @@ chairs & stools | home & garden | other fan shop
 beds | bedroom furniture | beds
 dressers | furniture | accent tables
 fireplace accessories | building supplies | ceramic tile
-ramps lifts and jacks | shocks struts & suspension | atv accessories
+ramps lifts and jacks | replacement parts | automotive repair

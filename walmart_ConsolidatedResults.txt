@@ -1,34 +1,54 @@
 Level 0
-Results:0.7464
+:0.771748067617
+
 Level 1
-Results:0.9288
-Results:0.8047
-Results:0.6932
-Results:0.9200
-Results:0.7714
-Results:0.3003
-Results:0.9380
-Results:0.8981
-Results:0.7918
-Results:0.9855
-Results:0.8181
-Results:0.7885
-Results:0.7877
-Results:0.8047
-Results:0.7044
-Results:0.9403
-Results:0.7405
-Results:0.3301
-Results:0.9395
-Results:0.7786
-Results:0.7146
-Results:0.9511
-Results:0.8393
-Results:0.7685
-Results:0.9462
-Results:0.8544
-Results:0.7578
-Results:0.9542
+party & occasions:0.739866994077
+
+patio  garden:0.9511
+baby:0.939853838334
+
+auto  tires:0.8047
+electronics:0.842191463884
+
+home:0.835892305195
+
+auto & tires:0.797639745623
+
+beauty:0.788295333799
+
+pets:0.871397844588
+
+patio & garden:0.911878187895
+
+grocery:0.878944732447
+
+movies  tv:0.7405
+party  occasions:0.7786
+health:0.850227108165
+
+jewelry:0.96758012561
+
+apparel:0.947336706747
+
+toys:0.821748657608
+
+movies & tv:0.334084499841
+
+books:0.358537811099
+
+home improvement:0.820317068545
+
+sports & outdoors:0.895191180097
+
+clothing:0.918012463065
+
+household essentials:0.858006131766
+
+sports  outdoors:0.9462
+video games:0.973917748918
+
+cell phones:0.941512516775
+
 Level 2
 Level 3
 Level 4
